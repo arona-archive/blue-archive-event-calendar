@@ -1,0 +1,34 @@
+name: main
+
+on:
+  push:
+    branches: [main]
+
+env:
+  GOOGLE_APIS_CREDENTIALS: ${{ secrets.GOOGLE_APIS_CREDENTIALS }}
+  GOOGLE_APIS_TOKEN: ${{ secrets.GOOGLE_APIS_TOKEN }}
+  GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm ci
+
+      - run: echo ${{ secrets.GOOGLE_APIS_CREDENTIALS }} >> credentials.json
+      - run: echo ${{ secrets.GOOGLE_APIS_TOKEN }} >> token.json
+
+      - run: bash ./scripts/start.sh
+
+      - if: always()
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          fields: repo,message,commit,author,action,eventName,ref,workflow,job,took,pullRequest
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}

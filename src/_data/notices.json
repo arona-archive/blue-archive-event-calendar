@@ -1,0 +1,1448 @@
+{
+  "maintenances": [
+    {
+      "id": "10121021101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-02-11T14:00",
+      "endsAt": "2021-02-11T21:00",
+      "url": "https://bluearchive.jp/news/newsJump/105"
+    },
+    {
+      "id": "10121021801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-02-18T14:00",
+      "endsAt": "2021-02-18T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/108"
+    },
+    {
+      "id": "10121022501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-02-25T14:00",
+      "endsAt": "2021-02-25T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/110"
+    },
+    {
+      "id": "10121030401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-03-04T14:00",
+      "endsAt": "2021-03-04T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/111"
+    },
+    {
+      "id": "10121031101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-03-11T14:00",
+      "endsAt": "2021-03-11T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/113"
+    },
+    {
+      "id": "10121031801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-03-18T12:00",
+      "endsAt": "2021-03-18T16:00",
+      "url": "https://bluearchive.jp/news/newsJump/115"
+    },
+    {
+      "id": "10121032501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-03-25T12:00",
+      "endsAt": "2021-03-25T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/117"
+    },
+    {
+      "id": "10121032601",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2021-03-26T23:00",
+      "endsAt": "2021-03-27T02:00",
+      "url": "https://bluearchive.jp/news/newsJump/120"
+    },
+    {
+      "id": "10121040101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-04-01T12:00",
+      "endsAt": "2021-04-01T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/121"
+    },
+    {
+      "id": "10121040801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-04-08T12:00",
+      "endsAt": "2021-04-08T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/122"
+    },
+    {
+      "id": "10121041501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-04-15T12:00",
+      "endsAt": "2021-04-15T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/123"
+    },
+    {
+      "id": "10121042201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-04-22T12:00",
+      "endsAt": "2021-04-22T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/125"
+    },
+    {
+      "id": "10121042901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-04-29T12:00",
+      "endsAt": "2021-04-29T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/126"
+    },
+    {
+      "id": "10121051301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-05-13T12:00",
+      "endsAt": "2021-05-13T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/128"
+    },
+    {
+      "id": "10121052701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-05-27T12:00",
+      "endsAt": "2021-05-27T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/129"
+    },
+    {
+      "id": "10121061001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-06-10T12:00",
+      "endsAt": "2021-06-10T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/130"
+    },
+    {
+      "id": "10121061101",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2021-06-11T15:30",
+      "endsAt": "2021-06-11T17:30",
+      "url": "https://bluearchive.jp/news/newsJump/132"
+    },
+    {
+      "id": "10121062401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-06-24T12:00",
+      "endsAt": "2021-06-24T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/133"
+    },
+    {
+      "id": "10121063001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-06-30T12:00",
+      "endsAt": "2021-06-30T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/134"
+    },
+    {
+      "id": "10121070801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-07-08T12:00",
+      "endsAt": "2021-07-08T16:00",
+      "url": "https://bluearchive.jp/news/newsJump/135"
+    },
+    {
+      "id": "10121071501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-07-15T12:00",
+      "endsAt": "2021-07-15T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/136"
+    },
+    {
+      "id": "10121072901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-07-29T12:00",
+      "endsAt": "2021-07-29T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/140"
+    },
+    {
+      "id": "10121081201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-08-12T12:00",
+      "endsAt": "2021-08-12T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10121081301",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2021-08-13T18:00",
+      "endsAt": "2021-08-13T21:00",
+      "url": "https://bluearchive.jp/news/newsJump/143"
+    },
+    {
+      "id": "10121082601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-08-26T12:00",
+      "endsAt": "2021-08-26T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/144"
+    },
+    {
+      "id": "10121090901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-09-09T12:00",
+      "endsAt": "2021-09-09T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/146"
+    },
+    {
+      "id": "10121092301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-09-23T12:00",
+      "endsAt": "2021-09-23T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/151"
+    },
+    {
+      "id": "10121092901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-09-29T12:00",
+      "endsAt": "2021-09-29T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/153"
+    },
+    {
+      "id": "10121101201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-10-12T12:00",
+      "endsAt": "2021-10-12T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/155"
+    },
+    {
+      "id": "10121102701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-10-27T12:00",
+      "endsAt": "2021-10-27T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/162"
+    },
+    {
+      "id": "10121110301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-11-03T12:00",
+      "endsAt": "2021-11-03T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/163"
+    },
+    {
+      "id": "10121110801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-11-08T12:00",
+      "endsAt": "2021-11-08T16:00",
+      "url": "https://bluearchive.jp/news/newsJump/165"
+    },
+    {
+      "id": "10121111701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-11-17T12:00",
+      "endsAt": "2021-11-17T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/166"
+    },
+    {
+      "id": "10121113001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-11-30T12:00",
+      "endsAt": "2021-11-30T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/168"
+    },
+    {
+      "id": "10121121501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-12-15T12:00",
+      "endsAt": "2021-12-15T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/173"
+    },
+    {
+      "id": "10121121701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-12-17T01:00",
+      "endsAt": "2021-12-17T03:00",
+      "url": "https://bluearchive.jp/news/newsJump/175"
+    },
+    {
+      "id": "10121122901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2021-12-29T12:00",
+      "endsAt": "2021-12-29T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/177"
+    },
+    {
+      "id": "10122011201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-01-12T12:00",
+      "endsAt": "2022-01-12T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/180"
+    },
+    {
+      "id": "10122012601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-01-26T12:00",
+      "endsAt": "2022-01-26T20:00",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10122020901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-02-09T12:00",
+      "endsAt": "2022-02-09T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/186"
+    },
+    {
+      "id": "10122022301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-02-23T11:00",
+      "endsAt": "2022-02-23T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/190"
+    },
+    {
+      "id": "10122030901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-03-09T11:00",
+      "endsAt": "2022-03-09T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/194"
+    },
+    {
+      "id": "10122032301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-03-23T11:00",
+      "endsAt": "2022-03-23T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/196"
+    },
+    {
+      "id": "10122040601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-04-06T11:00",
+      "endsAt": "2022-04-06T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/204"
+    },
+    {
+      "id": "10122042001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-04-20T11:00",
+      "endsAt": "2022-04-20T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/207"
+    },
+    {
+      "id": "10122042701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-04-27T11:00",
+      "endsAt": "2022-04-27T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/208"
+    },
+    {
+      "id": "10122051101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-05-11T11:00",
+      "endsAt": "2022-05-11T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/213"
+    },
+    {
+      "id": "10122052401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-05-24T11:00",
+      "endsAt": "2022-05-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/214"
+    },
+    {
+      "id": "10122060801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-06-08T11:00",
+      "endsAt": "2022-06-08T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/219"
+    },
+    {
+      "id": "10122062201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-06-22T11:00",
+      "endsAt": "2022-06-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/220"
+    },
+    {
+      "id": "10122070601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-07-06T11:00",
+      "endsAt": "2022-07-06T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/224"
+    }
+  ],
+  "pickUps": [
+    {
+      "id": "10221020401",
+      "type": 2,
+      "title": "リリース記念ピックアップ募集：★3「シロコ」、★3「ホシノ」",
+      "startsAt": "2021-02-04T13:00",
+      "endsAt": "2021-02-11T14:00",
+      "url": "https://twitter.com/Blue_ArchiveJP/status/1357187138551377922"
+    },
+    {
+      "id": "10221021101",
+      "type": 2,
+      "title": "バレンタインピックアップ募集：★3「マシロ」",
+      "startsAt": "2021-02-11T21:00",
+      "endsAt": "2021-02-25T14:01",
+      "url": "https://bluearchive.jp/news/newsJump/106"
+    },
+    {
+      "id": "10221022501",
+      "type": 2,
+      "title": "ピックアップ募集：★3「イズナ」、★2「シズコ」",
+      "startsAt": "2021-02-25T20:00",
+      "endsAt": "2021-03-11T14:00",
+      "url": "https://bluearchive.jp/news/newsJump/110"
+    },
+    {
+      "id": "10221031101",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ハルナ」",
+      "startsAt": "2021-03-11T20:00",
+      "endsAt": "2021-03-18T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/113"
+    },
+    {
+      "id": "10221031801",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アル」",
+      "startsAt": "2021-03-18T16:00",
+      "endsAt": "2021-03-25T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/115"
+    },
+    {
+      "id": "10221032501",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アリス」",
+      "startsAt": "2021-03-25T18:00",
+      "endsAt": "2021-04-08T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/117"
+    },
+    {
+      "id": "10221040801",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ミドリ」、★2「モモイ」",
+      "startsAt": "2021-04-08T20:00",
+      "endsAt": "2021-04-22T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/122"
+    },
+    {
+      "id": "10221042201",
+      "type": 2,
+      "title": "ピックアップ募集：★3「カリン」",
+      "startsAt": "2021-04-22T18:00",
+      "endsAt": "2021-04-29T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/125"
+    },
+    {
+      "id": "10221042901",
+      "type": 2,
+      "title": "ピックアップ募集：★3「チェリノ」",
+      "startsAt": "2021-04-29T20:00",
+      "endsAt": "2021-05-13T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/126"
+    },
+    {
+      "id": "10221051301",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ユズ」",
+      "startsAt": "2021-05-13T18:00",
+      "endsAt": "2021-05-27T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/128"
+    },
+    {
+      "id": "10221052701",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アズサ」、★2「ハナコ」",
+      "startsAt": "2021-05-27T20:00",
+      "endsAt": "2021-06-10T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/129"
+    },
+    {
+      "id": "10221061001",
+      "type": 2,
+      "title": "ピックアップ募集：★3「コハル」",
+      "startsAt": "2021-06-10T18:00",
+      "endsAt": "2021-06-24T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/130"
+    },
+    {
+      "id": "10221062401",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ヒフミ」",
+      "startsAt": "2021-06-24T18:00",
+      "endsAt": "2021-06-30T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/133"
+    },
+    {
+      "id": "10221063001",
+      "type": 2,
+      "title": "イベント限定ピックアップ募集：★3「アズサ（水着）」、★3「マシロ（水着）」",
+      "startsAt": "2021-06-30T20:00",
+      "endsAt": "2021-07-15T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/134"
+    },
+    {
+      "id": "10221071501",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ヒフミ（水着）」",
+      "startsAt": "2021-07-15T18:00",
+      "endsAt": "2021-07-29T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/136"
+    },
+    {
+      "id": "10221072901",
+      "type": 2,
+      "title": "イベント限定ピックアップ募集：★3「ヒナ（水着）」、★3「イオリ（水着）」",
+      "startsAt": "2021-07-29T20:00",
+      "endsAt": "2021-08-12T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/140"
+    },
+    {
+      "id": "10221081201",
+      "type": 2,
+      "title": "ピックアップ募集：★3「シロコ（ライディング）」",
+      "startsAt": "2021-08-12T18:00",
+      "endsAt": "2021-08-26T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10221082601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「シュン（幼女）」、★2「キリノ」",
+      "startsAt": "2021-08-26T20:00",
+      "endsAt": "2021-09-09T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/144"
+    },
+    {
+      "id": "10221090901",
+      "type": 2,
+      "title": "ピックアップ募集：★3「サヤ（私服）」",
+      "startsAt": "2021-09-09T18:00",
+      "endsAt": "2021-09-23T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/146"
+    },
+    {
+      "id": "10221092301",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ヒビキ」",
+      "startsAt": "2021-09-23T18:00",
+      "endsAt": "2021-09-29T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/151"
+    },
+    {
+      "id": "10221092901",
+      "type": 2,
+      "title": "期間限定ピックアップ募集：★3「ネル（バニーガール）」、★3「カリン（バニーガール）」",
+      "startsAt": "2021-09-29T19:00",
+      "endsAt": "2021-10-12T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/152"
+    },
+    {
+      "id": "10221101201",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アスナ（バニーガール）」",
+      "startsAt": "2021-10-12T19:00",
+      "endsAt": "2021-10-27T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/157"
+    },
+    {
+      "id": "10221102701",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ナツ」、★2「マリー」",
+      "startsAt": "2021-10-27T20:00",
+      "endsAt": "2021-11-03T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/160"
+    },
+    {
+      "id": "10221110301",
+      "type": 2,
+      "title": "ピックアップ募集：★3「初音ミク」",
+      "startsAt": "2021-11-03T19:00",
+      "endsAt": "2021-11-17T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/159"
+    },
+    {
+      "id": "10221111701",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アコ」",
+      "startsAt": "2021-11-17T19:00",
+      "endsAt": "2021-11-30T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/167"
+    },
+    {
+      "id": "10221113001",
+      "type": 2,
+      "title": "ピックアップ募集：★3「チェリノ（温泉）」、★3「チナツ（温泉）」",
+      "startsAt": "2021-11-30T19:00",
+      "endsAt": "2021-12-15T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/169"
+    },
+    {
+      "id": "10221121501",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ノドカ（温泉）」",
+      "startsAt": "2021-12-15T18:00",
+      "endsAt": "2021-12-29T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/174"
+    },
+    {
+      "id": "10221122901",
+      "type": 2,
+      "title": "期間限定ピックアップ募集：★3「アル（正月）」、★3「ムツキ（正月）」",
+      "startsAt": "2021-12-29T20:00",
+      "endsAt": "2022-01-12T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/178"
+    },
+    {
+      "id": "10222011201",
+      "type": 2,
+      "title": "ピックアップ募集：★3「セリカ（正月）」",
+      "startsAt": "2022-01-12T19:00",
+      "endsAt": "2022-01-26T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/181"
+    },
+    {
+      "id": "10222012601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ワカモ」",
+      "startsAt": "2022-01-26T20:00",
+      "endsAt": "2022-01-30T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/185"
+    },
+    {
+      "id": "10222013001",
+      "type": 2,
+      "title": "ピックアップ募集：★3「セナ」、★3「チヒロ」",
+      "startsAt": "2022-01-30T12:00",
+      "endsAt": "2022-02-09T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/185"
+    },
+    {
+      "id": "10222020901",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ミモリ」、★3「イズナ」、★2「シズコ」",
+      "startsAt": "2022-02-09T19:00",
+      "endsAt": "2022-02-16T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/188"
+    },
+    {
+      "id": "10222021601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「コハル」、★3「ハルナ」",
+      "startsAt": "2022-02-16T12:00",
+      "endsAt": "2022-02-23T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/191"
+    },
+    {
+      "id": "10222022301",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ウイ」、★3「ヒナタ」",
+      "startsAt": "2022-02-23T19:00",
+      "endsAt": "2022-03-09T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/192"
+    },
+    {
+      "id": "10222030901",
+      "type": 2,
+      "title": "ピックアップ募集：★3「マリナ」、★3「チェリノ」",
+      "startsAt": "2022-03-09T19:00",
+      "endsAt": "2022-03-16T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/198"
+    },
+    {
+      "id": "10222031601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「イオリ」、★3「ミドリ」、★2「モモイ」",
+      "startsAt": "2022-03-16T11:00",
+      "endsAt": "2022-03-23T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/199"
+    },
+    {
+      "id": "10222032301",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ミヤコ」、★3「サキ」",
+      "startsAt": "2022-03-23T19:00",
+      "endsAt": "2022-04-06T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/200"
+    },
+    {
+      "id": "10222040601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ミユ」、★3「ツルギ」",
+      "startsAt": "2022-04-06T19:00",
+      "endsAt": "2022-04-20T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/203"
+    },
+    {
+      "id": "10222042001",
+      "type": 2,
+      "title": "ピックアップ募集：★3「マシロ（水着）、★3「アズサ（水着）、★3「ヒフミ（水着）",
+      "startsAt": "2022-04-20T19:00",
+      "endsAt": "2022-04-27T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/206"
+    },
+    {
+      "id": "10222042701",
+      "type": 2,
+      "title": "ピックアップ募集：★3「イロハ」、★3「カエデ」",
+      "startsAt": "2022-04-27T19:00",
+      "endsAt": "2022-05-11T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/209"
+    },
+    {
+      "id": "10222051101",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ツクヨ」、★3「ユズ」",
+      "startsAt": "2022-05-11T17:00",
+      "endsAt": "2022-05-24T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/212"
+    },
+    {
+      "id": "10222052401",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ミサキ」、★3「ヒヨリ」",
+      "startsAt": "2022-05-24T19:00",
+      "endsAt": "2022-06-08T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/215"
+    },
+    {
+      "id": "10222060801",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アツコ」、★3「アズサ」、★2「ハナコ」",
+      "startsAt": "2022-06-08T17:00",
+      "endsAt": "2022-06-22T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/218"
+    },
+    {
+      "id": "10222062201",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ノノミ（水着）」、★3「ワカモ（水着）」",
+      "startsAt": "2022-06-22T19:00",
+      "endsAt": "2022-07-06T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/222"
+    },
+    {
+      "id": "10222070601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ホシノ」、★3「ヒナ」",
+      "startsAt": "2022-07-06T17:00",
+      "endsAt": "2022-07-20T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/225"
+    }
+  ],
+  "events": [
+    {
+      "id": "10321022501",
+      "type": 3,
+      "title": "イベント「桜花爛漫お祭り騒ぎ！～空に徒花 地に忍び～」",
+      "startsAt": "2021-02-25T20:00",
+      "endsAt": "2021-03-11T14:00",
+      "url": "https://bluearchive.jp/news/newsJump/110"
+    },
+    {
+      "id": "10321042901",
+      "type": 3,
+      "title": "イベント「革命のイワン・クパーラ 髭とプリンとレッドウィンター」",
+      "startsAt": "2021-04-29T20:00",
+      "endsAt": "2021-05-13T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/126"
+    },
+    {
+      "id": "10321063001",
+      "type": 3,
+      "title": "イベント「夏空のウィッシュリスト」",
+      "startsAt": "2021-06-30T20:00",
+      "endsAt": "2021-07-15T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/134"
+    },
+    {
+      "id": "10321072901",
+      "type": 3,
+      "title": "イベント「～風紀委員会行政官緊急特務命令～ ヒナ委員長のなつやすみっ！」",
+      "startsAt": "2021-07-29T20:00",
+      "endsAt": "2021-08-12T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/140"
+    },
+    {
+      "id": "10321082601",
+      "type": 3,
+      "title": "イベント「ネバーランドでつかまえて」",
+      "startsAt": "2021-08-26T20:00",
+      "endsAt": "2021-09-09T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/144"
+    },
+    {
+      "id": "10321092901",
+      "type": 3,
+      "title": "イベント 「船上のバニーチェイサー」",
+      "startsAt": "2021-09-29T19:00",
+      "endsAt": "2021-10-12T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/153"
+    },
+    {
+      "id": "10321110301",
+      "type": 3,
+      "title": "コラボイベント「初音ミクのスペシャルライブ in キヴォトス～リハーサル編～」",
+      "startsAt": "2021-11-03T18:00",
+      "endsAt": "2021-11-17T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/158"
+    },
+    {
+      "id": "10321110901",
+      "type": 3,
+      "title": "特殊作戦「デカグラマトン編」",
+      "startsAt": "2021-11-09T04:00",
+      "endsAt": "2021-11-24T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/158"
+    },
+    {
+      "id": "10321113001",
+      "type": 3,
+      "title": "イベント 「227号温泉郷の運営記録！ ～白い吐息は寄り添って～」",
+      "startsAt": "2021-11-30T19:00",
+      "endsAt": "2021-12-15T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/168"
+    },
+    {
+      "id": "10321122901",
+      "type": 3,
+      "title": "イベント 「新春狂想曲 第68番」",
+      "startsAt": "2021-12-29T19:00",
+      "endsAt": "2022-01-12T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/177"
+    },
+    {
+      "id": "10322012601",
+      "type": 3,
+      "title": "イベント 「シャーレのハッピー♡バレンタインパトロール 狐坂ワカモの沈黙と祝宴」",
+      "startsAt": "2022-01-26T19:00",
+      "endsAt": "2022-02-09T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10322022301",
+      "type": 3,
+      "title": "イベント「どたばたシスターと古書館の魔術師」",
+      "startsAt": "2022-02-23T19:00",
+      "endsAt": "2022-03-09T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/190"
+    },
+    {
+      "id": "10322030901",
+      "type": 3,
+      "title": "【復刻イベント】「革命のイワン・クパーラ～髭とプリンとレッドウィンター～」",
+      "startsAt": "2022-03-09T19:00",
+      "endsAt": "2022-03-16T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/194"
+    },
+    {
+      "id": "10322042001",
+      "type": 3,
+      "title": "【復刻イベント】「夏空のウィッシュリスト」",
+      "startsAt": "2022-04-20T19:00",
+      "endsAt": "2022-04-27T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/207"
+    },
+    {
+      "id": "10322042701",
+      "type": 3,
+      "title": "イベント「不忍ノ心」",
+      "startsAt": "2022-04-27T19:00",
+      "endsAt": "2022-05-11T11:00",
+      "url": "https://bluearchive.jp/news/newsJump/208"
+    },
+    {
+      "id": "10322060801",
+      "type": 3,
+      "title": "特殊作戦「デカグラマトン編」",
+      "startsAt": "2022-06-08T17:00",
+      "endsAt": "2022-06-22T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/219"
+    },
+    {
+      "id": "10322062201",
+      "type": 3,
+      "title": "イベント「アビドスリゾート復旧対策委員会」",
+      "startsAt": "2022-06-22T19:00",
+      "endsAt": "2022-07-06T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/220"
+    },
+    {
+      "id": "10322070601",
+      "type": 3,
+      "title": "特殊作戦「デカグラマトン編」",
+      "startsAt": "2022-07-06T17:00",
+      "endsAt": "2022-07-20T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/224"
+    }
+  ],
+  "totalAssults": [
+    {
+      "id": "10421021501",
+      "type": 4,
+      "title": "「総力戦・BETA版」イベント",
+      "startsAt": "2021-02-15T04:00",
+      "endsAt": "2021-02-21T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/105"
+    },
+    {
+      "id": "10421031101",
+      "type": 4,
+      "title": "総力戦 SEASON #1「ケセド・試作型」",
+      "startsAt": "2021-03-11T20:00",
+      "endsAt": "2021-03-17T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/113"
+    },
+    {
+      "id": "10421032501",
+      "type": 4,
+      "title": "総力戦･市街地戦「シロ＆クロ」",
+      "startsAt": "2021-03-25T18:00",
+      "endsAt": "2021-03-31T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/117"
+    },
+    {
+      "id": "10421040801",
+      "type": 4,
+      "title": "総力戦「市街地・ビナー」",
+      "startsAt": "2021-04-08T20:00",
+      "endsAt": "2021-04-14T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/122"
+    },
+    {
+      "id": "10421042901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ケセド」",
+      "startsAt": "2021-04-29T20:00",
+      "endsAt": "2021-05-05T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/126"
+    },
+    {
+      "id": "10421051301",
+      "type": 4,
+      "title": "総力戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2021-05-13T18:00",
+      "endsAt": "2021-05-19T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/128"
+    },
+    {
+      "id": "10421052701",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ヒエロニムス」",
+      "startsAt": "2021-05-27T20:00",
+      "endsAt": "2021-06-02T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/129"
+    },
+    {
+      "id": "10421061001",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ビナー」",
+      "startsAt": "2021-06-10T18:00",
+      "endsAt": "2021-06-16T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/130"
+    },
+    {
+      "id": "10421062401",
+      "type": 4,
+      "title": "緊急襲来 「屋内戦・ヒエロニムス」再戦 開催",
+      "startsAt": "2021-06-24T18:00",
+      "endsAt": "2021-06-27T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/133"
+    },
+    {
+      "id": "10421063001",
+      "type": 4,
+      "title": "総力戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2021-06-30T20:00",
+      "endsAt": "2021-07-07T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/134"
+    },
+    {
+      "id": "10421071501",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ケセド」再戦 開催",
+      "startsAt": "2021-07-15T18:00",
+      "endsAt": "2021-07-21T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/136"
+    },
+    {
+      "id": "10421072901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2021-07-29T20:00",
+      "endsAt": "2021-08-04T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/140"
+    },
+    {
+      "id": "10421081201",
+      "type": 4,
+      "title": "総力戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2021-08-12T18:00",
+      "endsAt": "2021-08-18T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10421082601",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2021-08-26T20:00",
+      "endsAt": "2021-09-01T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/144"
+    },
+    {
+      "id": "10421090901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ケセド」",
+      "startsAt": "2021-09-09T18:00",
+      "endsAt": "2021-09-15T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/147"
+    },
+    {
+      "id": "10421092301",
+      "type": 4,
+      "title": "緊急襲来 「市街地戦・ヒエロニムス」",
+      "startsAt": "2021-09-23T18:00",
+      "endsAt": "2021-09-26T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/151"
+    },
+    {
+      "id": "10421092901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2021-09-29T19:00",
+      "endsAt": "2021-10-05T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/153"
+    },
+    {
+      "id": "10421101201",
+      "type": 4,
+      "title": "総力戦 「屋内戦・シロ&クロ」",
+      "startsAt": "2021-10-12T19:00",
+      "endsAt": "2021-10-19T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/155"
+    },
+    {
+      "id": "10421112401",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ペロロジラ」",
+      "startsAt": "2021-11-24T12:30",
+      "endsAt": "2021-11-27T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/166"
+    },
+    {
+      "id": "10421113001",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ビナー」",
+      "startsAt": "2021-11-30T19:00",
+      "endsAt": "2021-12-07T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/168"
+    },
+    {
+      "id": "10421121501",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ヒエロニムス」",
+      "startsAt": "2021-12-15T19:00",
+      "endsAt": "2021-12-21T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/173"
+    },
+    {
+      "id": "10421122901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ケセド」",
+      "startsAt": "2021-12-29T19:00",
+      "endsAt": "2022-01-04T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/177"
+    },
+    {
+      "id": "10422011201",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2022-01-12T19:00",
+      "endsAt": "2022-01-18T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/180"
+    },
+    {
+      "id": "10422020201",
+      "type": 4,
+      "title": "総力戦 「市街地・ホド」",
+      "startsAt": "2022-02-02T12:00",
+      "endsAt": "2022-02-08T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10422021601",
+      "type": 4,
+      "title": "総力戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2022-02-16T12:00",
+      "endsAt": "2022-02-22T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/186"
+    },
+    {
+      "id": "10422030201",
+      "type": 4,
+      "title": "総力戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2022-03-02T11:00",
+      "endsAt": "2022-03-08T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/190"
+    },
+    {
+      "id": "10422031601",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ビナー」",
+      "startsAt": "2022-03-16T11:00",
+      "endsAt": "2022-03-22T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/194"
+    },
+    {
+      "id": "10422033001",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ホド」",
+      "startsAt": "2022-03-30T11:00",
+      "endsAt": "2022-04-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/196"
+    },
+    {
+      "id": "10422041301",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ケセド」",
+      "startsAt": "2022-04-13T11:00",
+      "endsAt": "2022-04-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/204"
+    },
+    {
+      "id": "10422050401",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ペロロジラ」",
+      "startsAt": "2022-05-04T11:00",
+      "endsAt": "2022-05-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/208"
+    },
+    {
+      "id": "10422051801",
+      "type": 4,
+      "title": "総力戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2022-05-18T11:00",
+      "endsAt": "2022-05-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/213"
+    },
+    {
+      "id": "10422060101",
+      "type": 4,
+      "title": "総力戦 「市街地戦・KAITEN FX Mk.0」",
+      "startsAt": "2022-06-01T11:00",
+      "endsAt": "2022-06-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/214"
+    },
+    {
+      "id": "10422061501",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ヒエロニムス」",
+      "startsAt": "2022-06-15T11:00",
+      "endsAt": "2022-06-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/219"
+    },
+    {
+      "id": "10422071301",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ビナー」",
+      "startsAt": "2022-07-13T11:00",
+      "endsAt": "2022-07-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/224"
+    }
+  ],
+  "jointExcercises": [
+    {
+      "id": "10522030901",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 射撃演習",
+      "startsAt": "2022-03-09T19:00",
+      "endsAt": "2022-03-15T23:59",
+      "url": "https://bluearchive.jp/news/newsJump/194"
+    },
+    {
+      "id": "10522032301",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 防御演習",
+      "startsAt": "2022-03-23T19:00",
+      "endsAt": "2022-03-30T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/196"
+    },
+    {
+      "id": "10522051101",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 突破演習",
+      "startsAt": "2022-05-11T17:00",
+      "endsAt": "2022-05-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/213"
+    },
+    {
+      "id": "10522060801",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 射撃演習",
+      "startsAt": "2022-06-08T17:00",
+      "endsAt": "2022-06-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/219"
+    },
+    {
+      "id": "10522070601",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 防御演習",
+      "startsAt": "2022-07-06T17:00",
+      "endsAt": "2022-07-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/224"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "10621080502",
+      "type": 6,
+      "title": "育成キャンペーン「指名手配ドロップ量3倍」",
+      "startsAt": "2021-08-05T04:00",
+      "endsAt": "2021-08-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/140"
+    },
+    {
+      "id": "10621081201",
+      "type": 6,
+      "title": "育成キャンペーン「特別依頼ドロップ量3倍」",
+      "startsAt": "2021-08-12T04:00",
+      "endsAt": "2021-08-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10621081903",
+      "type": 6,
+      "title": "育成キャンペーン「任務(Normal)ドロップ量3倍」",
+      "startsAt": "2021-08-19T04:00",
+      "endsAt": "2021-08-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10621082304",
+      "type": 6,
+      "title": "育成キャンペーン「任務(Hard)ドロップ量3倍」",
+      "startsAt": "2021-08-23T04:00",
+      "endsAt": "2021-08-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10621080502",
+      "type": 6,
+      "title": "育成キャンペーン「指名手配ドロップ量3倍」",
+      "startsAt": "2021-08-05T04:00",
+      "endsAt": "2021-08-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/140"
+    },
+    {
+      "id": "10621081201",
+      "type": 6,
+      "title": "育成キャンペーン「特別依頼ドロップ量3倍」",
+      "startsAt": "2021-08-12T04:00",
+      "endsAt": "2021-08-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10621081903",
+      "type": 6,
+      "title": "育成キャンペーン「任務(Normal)ドロップ量3倍」",
+      "startsAt": "2021-08-19T04:00",
+      "endsAt": "2021-08-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10621082304",
+      "type": 6,
+      "title": "育成キャンペーン「任務(Hard)ドロップ量3倍」",
+      "startsAt": "2021-08-23T04:00",
+      "endsAt": "2021-08-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/142"
+    },
+    {
+      "id": "10622012602",
+      "type": 6,
+      "title": "育成キャンペーン「指名手配ドロップ量3倍」",
+      "startsAt": "2022-01-26T04:00",
+      "endsAt": "2022-02-02T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622012605",
+      "type": 6,
+      "title": "育成キャンペーン「学園交流会ドロップ量3倍」",
+      "startsAt": "2022-01-26T04:00",
+      "endsAt": "2022-02-02T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622012606",
+      "type": 6,
+      "title": "育成キャンペーン「スケジュールドロップ量3倍」",
+      "startsAt": "2022-01-26T04:00",
+      "endsAt": "2022-02-02T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622012611",
+      "type": 6,
+      "title": "募集キャンペーン「無料募集キャンペーン」",
+      "startsAt": "2022-01-26T19:00",
+      "endsAt": "2022-02-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622020201",
+      "type": 6,
+      "title": "育成キャンペーン「特別依頼ドロップ量3倍」",
+      "startsAt": "2022-02-02T04:00",
+      "endsAt": "2022-02-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622020203",
+      "type": 6,
+      "title": "育成キャンペーン「任務（Normal）ドロップ量3倍」",
+      "startsAt": "2022-02-02T04:00",
+      "endsAt": "2022-02-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622020604",
+      "type": 6,
+      "title": "育成キャンペーン「任務（Hard）ドロップ量3倍」",
+      "startsAt": "2022-02-06T04:00",
+      "endsAt": "2022-02-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622020902",
+      "type": 6,
+      "title": "育成キャンペーン「指名手配ドロップ量3倍」",
+      "startsAt": "2022-02-09T04:00",
+      "endsAt": "2022-02-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622020905",
+      "type": 6,
+      "title": "育成キャンペーン「学園交流会ドロップ量3倍」",
+      "startsAt": "2022-02-09T04:00",
+      "endsAt": "2022-02-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622020906",
+      "type": 6,
+      "title": "育成キャンペーン「スケジュールドロップ量3倍」",
+      "startsAt": "2022-02-09T04:00",
+      "endsAt": "2022-02-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622021601",
+      "type": 6,
+      "title": "育成キャンペーン「特別依頼ドロップ量3倍」",
+      "startsAt": "2022-02-16T04:00",
+      "endsAt": "2022-02-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622021603",
+      "type": 6,
+      "title": "育成キャンペーン「任務（Normal）ドロップ量3倍」",
+      "startsAt": "2022-02-16T04:00",
+      "endsAt": "2022-02-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622022004",
+      "type": 6,
+      "title": "育成キャンペーン「任務（Hard）ドロップ量3倍」",
+      "startsAt": "2022-02-20T04:00",
+      "endsAt": "2022-02-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/184"
+    }
+  ],
+  "liveStreams": [
+    {
+      "id": "10721031901",
+      "type": 7,
+      "title": "『ブルアカらいぶ！』",
+      "startsAt": "2021-03-19T20:00",
+      "endsAt": "2021-03-19T22:00",
+      "url": "https://bluearchive.jp/news/newsJump/112"
+    },
+    {
+      "id": "10721072401",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ はーふあにばスペシャル！」ブルーアーカイブの公式生放送",
+      "startsAt": "2021-07-24T20:00",
+      "endsAt": "2021-07-24T22:00",
+      "url": "https://bluearchive.jp/news/newsJump/139"
+    },
+    {
+      "id": "10721101801",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ 補習のお時間です！SP」ブルーアーカイブの公式生放送",
+      "startsAt": "2021-10-18T20:00",
+      "endsAt": "2021-10-18T22:00",
+      "url": "https://bluearchive.jp/news/newsJump/156"
+    },
+    {
+      "id": "10722012101",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ ふぁーすとあにばSP！～いつもありがとう、先生！～」ブルーアーカイブの公式生放送",
+      "startsAt": "2022-01-21T19:00",
+      "endsAt": "2022-01-21T21:00",
+      "url": "https://bluearchive.jp/news/newsJump/182"
+    },
+    {
+      "id": "10722061701",
+      "type": 7,
+      "title": "「ブルアカらいぶ！期末テストの時期ですね！SP」公式生放送",
+      "startsAt": "2022-06-17T20:00",
+      "endsAt": "2022-06-17T22:00",
+      "url": "https://bluearchive.jp/news/newsJump/221"
+    }
+  ]
+}

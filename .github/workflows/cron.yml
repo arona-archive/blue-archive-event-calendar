@@ -1,0 +1,31 @@
+name: cron
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+env:
+  NOTICE_URL: ${{ secrets.NOTICE_URL }}
+
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm ci
+
+      - run: |
+          bash ./scripts/sync.sh
+          bash ./scripts/commit.sh
+
+      - if: failure()
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          fields: repo,message,commit,author,action,eventName,ref,workflow,job,took,pullRequest
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
