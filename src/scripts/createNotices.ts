@@ -51,7 +51,7 @@ export const createNotices = (news: News): Notice[] => {
 		}));
 	}
 
-	if (title.startsWith('「ブルアカらいぶ')) {
+	if (title.includes('ブルアカらいぶ')) {
 		const { subId, ...notice } = createLiveStreamNotice(title, document);
 		return [
 			{
