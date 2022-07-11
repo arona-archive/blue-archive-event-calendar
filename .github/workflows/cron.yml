@@ -3,6 +3,8 @@ name: cron
 on:
   schedule:
     - cron: '0 * * * *'
+  push:
+    branches: [main]
 
 env:
   NOTICE_URL: ${{ secrets.NOTICE_URL }}
@@ -17,6 +19,10 @@ jobs:
         with:
           node-version: 18
       - run: npm ci
+
+      - run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
 
       - run: |
           bash ./scripts/sync.sh

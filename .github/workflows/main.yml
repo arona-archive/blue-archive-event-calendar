@@ -20,8 +20,9 @@ jobs:
           node-version: 18
       - run: npm ci
 
-      - run: echo ${{ secrets.GOOGLE_APIS_CREDENTIALS }} >> credentials.json
-      - run: echo ${{ secrets.GOOGLE_APIS_TOKEN }} >> token.json
+      - run: |
+          echo ${{ secrets.GOOGLE_APIS_CREDENTIALS }} >> credentials.json
+          echo ${{ secrets.GOOGLE_APIS_TOKEN }} >> token.json
 
       - run: bash ./scripts/start.sh
 
