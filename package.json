@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "ts-node -r dotenv/config ./src/index.ts",
-    "sync": "ts-node -r dotenv/config ./src/sync.ts"
+    "start": "node -r dotenv/config -r @swc-node/register ./src/index.ts",
+    "sync": "node -r dotenv/config -r @swc-node/register ./src/sync.ts"
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,9 @@
     "jsdom": "^19.0.0"
   },
   "devDependencies": {
+    "@swc-node/register": "^1.5.1",
     "@types/jsdom": "^16.2.14",
     "dotenv": "^16.0.1",
-    "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
   }
 }
