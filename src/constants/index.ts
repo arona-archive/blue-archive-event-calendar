@@ -11,7 +11,12 @@ export const TITLE_REGEX = /\（\d+\）(.+)開催/;
 
 export const TIME_THRESHOLD = 7 * 24 * 60 * 60 * 1000; // 7 days
 
-export const NOTICE_TITLE_FILTER: string[] = ['イベント', '【復刻イベント】', 'キャリア決済'];
+export const NOTICE_TITLE_FILTER: string[] = [
+	'イベント',
+	'【復刻イベント】',
+	'「出張！百夜堂 海の家FC計画」紹介',
+	'キャリア決済',
+];
 export const NOTICE_ID_FILTER: string[] = ['211'];
 
 export enum NoticeType {

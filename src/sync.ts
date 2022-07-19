@@ -53,12 +53,16 @@ const exportNotices = (news: News[]) => {
 				throw new Error(`invalid starts at: ${notice.startsAt}`);
 			}
 
-			const maintenance = maintenances.find((x) => x.startsAt.startsWith(date));
-			if (!maintenance) {
-				throw new Error(`cannot find maintenance: ${notice.startsAt}`);
-			}
+			const getStartsAt = () => {
+				const maintenance = maintenances.find((x) => x.startsAt.startsWith(date));
+				if (maintenance) {
+					return maintenance.endsAt;
+				}
 
-			notice.startsAt = maintenance.endsAt;
+				return `${date}T19:00:00`;
+			};
+
+			notice.startsAt = getStartsAt();
 		}
 
 		if (notice.endsAt.endsWith('メンテナンス前')) {

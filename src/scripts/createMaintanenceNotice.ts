@@ -116,6 +116,9 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 				if (title.includes('ログインボーナス')) {
 					return [];
 				}
+				if (title.includes('募集キャンペーン')) {
+					return [];
+				}
 
 				if (title.startsWith('各種育成コンテンツ')) {
 					return [];
