@@ -1441,6 +1441,94 @@
       "startsAt": "2022-02-20T04:00",
       "endsAt": "2022-02-23T03:59",
       "url": "https://bluearchive.jp/news/newsJump/184"
+    },
+    {
+      "id": "10622072002",
+      "type": 6,
+      "title": "育成キャンペーン「指名手配ドロップ量3倍」",
+      "startsAt": "2022-07-20T04:00",
+      "endsAt": "2022-07-27T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622072005",
+      "type": 6,
+      "title": "育成キャンペーン「学園交流会ドロップ量3倍」",
+      "startsAt": "2022-07-20T04:00",
+      "endsAt": "2022-07-27T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622072006",
+      "type": 6,
+      "title": "育成キャンペーン「スケジュールドロップ量3倍」",
+      "startsAt": "2022-07-20T04:00",
+      "endsAt": "2022-07-27T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622072511",
+      "type": 6,
+      "title": "最大100回！「1日1回無料10回募集キャンペーン」",
+      "startsAt": "2022-07-25T11:00",
+      "endsAt": "2022-08-03T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622072701",
+      "type": 6,
+      "title": "育成キャンペーン「特別依頼ドロップ量3倍」",
+      "startsAt": "2022-07-27T04:00",
+      "endsAt": "2022-08-03T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622080302",
+      "type": 6,
+      "title": "育成キャンペーン「指名手配ドロップ量3倍」",
+      "startsAt": "2022-08-03T04:00",
+      "endsAt": "2022-08-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622080305",
+      "type": 6,
+      "title": "育成キャンペーン「学園交流会ドロップ量3倍」",
+      "startsAt": "2022-08-03T04:00",
+      "endsAt": "2022-08-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622080306",
+      "type": 6,
+      "title": "育成キャンペーン「スケジュールドロップ量3倍」",
+      "startsAt": "2022-08-03T04:00",
+      "endsAt": "2022-08-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622080903",
+      "type": 6,
+      "title": "育成キャンペーン「任務（Normal）ドロップ量3倍」",
+      "startsAt": "2022-08-09T04:00",
+      "endsAt": "2022-08-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622081701",
+      "type": 6,
+      "title": "育成キャンペーン「特別依頼ドロップ量3倍」",
+      "startsAt": "2022-08-17T04:00",
+      "endsAt": "2022-08-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10622081804",
+      "type": 6,
+      "title": "育成キャンペーン「任務（Hard）ドロップ量3倍」",
+      "startsAt": "2022-08-18T04:00",
+      "endsAt": "2022-08-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
     }
   ],
   "liveStreams": [
