@@ -407,6 +407,14 @@
       "startsAt": "2022-07-06T11:00",
       "endsAt": "2022-07-06T17:00",
       "url": "https://bluearchive.jp/news/newsJump/224"
+    },
+    {
+      "id": "10122072001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-07-20T11:00",
+      "endsAt": "2022-07-20T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/228"
     }
   ],
   "pickUps": [
@@ -769,6 +777,14 @@
       "startsAt": "2022-07-06T17:00",
       "endsAt": "2022-07-20T10:59",
       "url": "https://bluearchive.jp/news/newsJump/225"
+    },
+    {
+      "id": "10222072001",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ホシノ(水着)」",
+      "startsAt": "2022-07-20T19:00",
+      "endsAt": "2022-07-25T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/229"
     }
   ],
   "events": [
@@ -915,6 +931,14 @@
       "startsAt": "2022-07-06T17:00",
       "endsAt": "2022-07-20T10:59",
       "url": "https://bluearchive.jp/news/newsJump/224"
+    },
+    {
+      "id": "10322072001",
+      "type": 3,
+      "title": "イベント 「出張！百夜堂 海の家FC計画」",
+      "startsAt": "2022-07-20T19:00",
+      "endsAt": "2022-08-03T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
     }
   ],
   "totalAssults": [
@@ -1189,6 +1213,14 @@
       "startsAt": "2022-07-13T11:00",
       "endsAt": "2022-07-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/224"
+    },
+    {
+      "id": "10422072701",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ケセド」",
+      "startsAt": "2022-07-27T11:00",
+      "endsAt": "2022-08-03T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
     }
   ],
   "jointExcercises": [
@@ -1231,6 +1263,14 @@
       "startsAt": "2022-07-06T17:00",
       "endsAt": "2022-07-13T03:59",
       "url": "https://bluearchive.jp/news/newsJump/224"
+    },
+    {
+      "id": "10522080301",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 突破演習",
+      "startsAt": "2022-08-03T11:00",
+      "endsAt": "2022-08-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/228"
     }
   ],
   "campaigns": [
