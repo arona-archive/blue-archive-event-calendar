@@ -415,6 +415,14 @@
       "startsAt": "2022-07-20T11:00",
       "endsAt": "2022-07-20T19:00",
       "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10122080901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-08-09T11:00",
+      "endsAt": "2022-08-09T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/235"
     }
   ],
   "pickUps": [
@@ -806,7 +814,7 @@
       "id": "10222080901",
       "type": 2,
       "title": "ピックアップ募集：★3 「サオリ」 ★3 「アル」",
-      "startsAt": "2022-08-09T19:00",
+      "startsAt": "2022-08-09T17:00",
       "endsAt": "2022-08-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/236"
     }
@@ -1245,6 +1253,14 @@
       "startsAt": "2022-07-27T11:00",
       "endsAt": "2022-08-03T03:59",
       "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10422080901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2022-08-09T17:00",
+      "endsAt": "2022-08-17T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/235"
     }
   ],
   "jointExcercises": [
