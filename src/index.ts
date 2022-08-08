@@ -6,9 +6,5 @@ const main = async () => {
 };
 
 (async () => {
-	try {
-		await main();
-	} catch (error) {
-		console.error(error);
-	}
+	await main();
 })();
