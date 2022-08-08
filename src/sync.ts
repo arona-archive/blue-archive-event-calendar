@@ -59,7 +59,7 @@ const exportNotices = (news: News[]) => {
 					return maintenance.endsAt;
 				}
 
-				return `${date}T19:00:00`;
+				return `${date}T19:00`;
 			};
 
 			notice.startsAt = getStartsAt();
