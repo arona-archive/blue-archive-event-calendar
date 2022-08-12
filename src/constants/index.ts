@@ -17,7 +17,7 @@ export const NOTICE_TITLE_FILTER: string[] = [
 	'「出張！百夜堂 海の家FC計画」紹介',
 	'キャリア決済',
 ];
-export const NOTICE_ID_FILTER: string[] = ['211'];
+export const NOTICE_ID_FILTER: string[] = ['211', '231'];
 
 export enum NoticeType {
 	MAINTENANCES = 1,
