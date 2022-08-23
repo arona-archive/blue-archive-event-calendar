@@ -423,6 +423,14 @@
       "startsAt": "2022-08-09T11:00",
       "endsAt": "2022-08-09T17:00",
       "url": "https://bluearchive.jp/news/newsJump/235"
+    },
+    {
+      "id": "10122082401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-08-24T11:00",
+      "endsAt": "2022-08-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/238"
     }
   ],
   "pickUps": [
@@ -979,6 +987,14 @@
       "startsAt": "2022-07-20T19:00",
       "endsAt": "2022-08-03T10:59",
       "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10322082401",
+      "type": 3,
+      "title": "イベント 「放課後スイーツ物語 甘い秘密と銃撃戦」",
+      "startsAt": "2022-08-24T19:00",
+      "endsAt": "2022-09-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/238"
     }
   ],
   "totalAssults": [
@@ -1269,6 +1285,14 @@
       "startsAt": "2022-08-09T17:00",
       "endsAt": "2022-08-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/235"
+    },
+    {
+      "id": "10422083101",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2022-08-31T11:00",
+      "endsAt": "2022-09-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/238"
     }
   ],
   "jointExcercises": [
