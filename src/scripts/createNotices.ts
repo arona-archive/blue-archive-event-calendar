@@ -12,7 +12,7 @@ export const createNotices = (news: News): Notice[] => {
 	if (NOTICE_ID_FILTER.includes(news.id)) {
 		return [];
 	}
-	if (NOTICE_TITLE_FILTER.some((x) => title.startsWith(x))) {
+	if (NOTICE_TITLE_FILTER.some((x) => (x.position === 'start' ? title.startsWith(x.value) : title.endsWith(x.value)))) {
 		return [];
 	}
 
