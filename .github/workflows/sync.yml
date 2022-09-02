@@ -1,4 +1,4 @@
-name: cron
+name: sync
 
 on:
   schedule:
@@ -10,7 +10,7 @@ env:
   NOTICE_URL: ${{ secrets.NOTICE_URL }}
 
 jobs:
-  cron:
+  sync:
     runs-on: ubuntu-latest
 
     steps:

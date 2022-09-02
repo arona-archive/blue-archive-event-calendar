@@ -1,6 +1,6 @@
 # Blue Archive Event Calendar
 
-[![status badge](https://github.com/arona-archive/blue-archive-event-calendar/workflows/main/badge.svg)](https://github.com/arona-archive/blue-archive-event-calendar/actions/workflows/main.yml)
+[![status badge](https://github.com/arona-archive/blue-archive-event-calendar/workflows/build/badge.svg)](https://github.com/arona-archive/blue-archive-event-calendar/actions/workflows/build.yml)
 
 「ブルーアーカイブ」イベントカレンダー
 

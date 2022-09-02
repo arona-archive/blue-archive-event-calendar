@@ -4,8 +4,7 @@ set -ex
 
 git add .
 
-if [[ -z `git status --porcelain` ]];
-then
+if [[ -z $(git status --porcelain) ]]; then
 	exit 0
 fi
 
