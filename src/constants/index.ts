@@ -46,6 +46,7 @@ export const NoticeTitlePrefixTable: [string, NoticeType][] = [
 	['特殊作戦', NoticeType.EVENTS],
 	['「キヴォトス合同火力演習」', NoticeType.JOINT_EXCERCISES],
 	['イベント', NoticeType.EVENTS],
+	['【復刻イベント】', NoticeType.EVENTS],
 ];
 
 export enum NoticeCampaignType {
