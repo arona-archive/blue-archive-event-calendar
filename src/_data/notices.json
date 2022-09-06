@@ -431,6 +431,14 @@
       "startsAt": "2022-08-24T11:00",
       "endsAt": "2022-08-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/238"
+    },
+    {
+      "id": "10122090701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-09-07T11:00",
+      "endsAt": "2022-09-07T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/242"
     }
   ],
   "pickUps": [
@@ -838,7 +846,7 @@
       "id": "10222090701",
       "type": 2,
       "title": "ピックアップ募集：★3 ヒナ（水着）、★3 イオリ（水着）",
-      "startsAt": "2022-09-07T19:00",
+      "startsAt": "2022-09-07T17:00",
       "endsAt": "2022-09-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/240"
     }
@@ -1003,6 +1011,14 @@
       "startsAt": "2022-08-24T19:00",
       "endsAt": "2022-09-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/238"
+    },
+    {
+      "id": "10322090701",
+      "type": 3,
+      "title": "【復刻イベント】「～風紀委員会行政官緊急特務命令～ ヒナ委員長のなつやすみっ！」",
+      "startsAt": "2022-09-07T17:00",
+      "endsAt": "2022-09-14T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/242"
     }
   ],
   "totalAssults": [
@@ -1301,6 +1317,14 @@
       "startsAt": "2022-08-31T11:00",
       "endsAt": "2022-09-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/238"
+    },
+    {
+      "id": "10422091401",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ホド」",
+      "startsAt": "2022-09-14T11:00",
+      "endsAt": "2022-09-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/242"
     }
   ],
   "jointExcercises": [
