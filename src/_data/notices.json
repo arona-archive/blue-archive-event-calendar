@@ -439,6 +439,14 @@
       "startsAt": "2022-09-07T11:00",
       "endsAt": "2022-09-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/242"
+    },
+    {
+      "id": "10122092101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-09-21T11:00",
+      "endsAt": "2022-09-21T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/247"
     }
   ],
   "pickUps": [
@@ -862,7 +870,7 @@
       "id": "10222092101",
       "type": 2,
       "title": "ピックアップ募集：★3「ココナ」、★3「シュン（幼女）」 ★2「キリノ」、★3「 サヤ（私服）」",
-      "startsAt": "2022-09-21T19:00",
+      "startsAt": "2022-09-21T17:00",
       "endsAt": "2022-09-28T10:59",
       "url": "https://bluearchive.jp/news/newsJump/246"
     }
@@ -1035,6 +1043,14 @@
       "startsAt": "2022-09-07T17:00",
       "endsAt": "2022-09-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/242"
+    },
+    {
+      "id": "10322092101",
+      "type": 3,
+      "title": "【復刻イベント】「ネバーランドでつかまえて」",
+      "startsAt": "2022-09-21T17:00",
+      "endsAt": "2022-09-28T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/247"
     }
   ],
   "totalAssults": [
@@ -1391,6 +1407,14 @@
       "startsAt": "2022-08-03T11:00",
       "endsAt": "2022-08-09T03:59",
       "url": "https://bluearchive.jp/news/newsJump/228"
+    },
+    {
+      "id": "10522092101",
+      "type": 5,
+      "title": "「キヴォトス合同火力演習」 射撃演習",
+      "startsAt": "2022-09-21T17:00",
+      "endsAt": "2022-09-28T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/247"
     }
   ],
   "campaigns": [
