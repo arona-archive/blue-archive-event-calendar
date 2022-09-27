@@ -447,6 +447,14 @@
       "startsAt": "2022-09-21T11:00",
       "endsAt": "2022-09-21T17:00",
       "url": "https://bluearchive.jp/news/newsJump/247"
+    },
+    {
+      "id": "10122092801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-09-28T11:00",
+      "endsAt": "2022-09-28T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/249"
     }
   ],
   "pickUps": [
@@ -1059,6 +1067,14 @@
       "startsAt": "2022-09-21T17:00",
       "endsAt": "2022-09-28T10:59",
       "url": "https://bluearchive.jp/news/newsJump/247"
+    },
+    {
+      "id": "10322092801",
+      "type": 3,
+      "title": "イベント 「On your mark ＠ millennium ～キヴォトス晄輪大祭～」",
+      "startsAt": "2022-09-28T19:00",
+      "endsAt": "2022-10-12T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/249"
     }
   ],
   "totalAssults": [
@@ -1365,6 +1381,14 @@
       "startsAt": "2022-09-14T11:00",
       "endsAt": "2022-09-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/242"
+    },
+    {
+      "id": "10422100501",
+      "type": 4,
+      "title": "総力戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2022-10-05T11:00",
+      "endsAt": "2022-10-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/249"
     }
   ],
   "jointExcercises": [
