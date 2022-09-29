@@ -455,6 +455,14 @@
       "startsAt": "2022-09-28T11:00",
       "endsAt": "2022-09-28T19:00",
       "url": "https://bluearchive.jp/news/newsJump/249"
+    },
+    {
+      "id": "10122100401",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2022-10-04T23:00",
+      "endsAt": "2022-10-05T02:00",
+      "url": "https://bluearchive.jp/news/newsJump/251"
     }
   ],
   "pickUps": [
