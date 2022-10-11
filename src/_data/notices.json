@@ -463,6 +463,14 @@
       "startsAt": "2022-10-04T23:00",
       "endsAt": "2022-10-05T02:00",
       "url": "https://bluearchive.jp/news/newsJump/251"
+    },
+    {
+      "id": "10122101201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-10-12T11:00",
+      "endsAt": "2022-10-12T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/252"
     }
   ],
   "pickUps": [
@@ -902,7 +910,7 @@
       "id": "10222101201",
       "type": 2,
       "title": "ピックアップ募集：★3 「アカネ（バニーガール）」、★3「ネル（バニーガール）」、★3「カリン（バニーガール）」、★3「アスナ（バニーガール）」",
-      "startsAt": "2022-10-12T19:00",
+      "startsAt": "2022-10-12T17:00",
       "endsAt": "2022-10-19T10:59",
       "url": "https://bluearchive.jp/news/newsJump/254"
     }
@@ -1091,6 +1099,14 @@
       "startsAt": "2022-09-28T19:00",
       "endsAt": "2022-10-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/249"
+    },
+    {
+      "id": "10322101201",
+      "type": 3,
+      "title": "【復刻イベント】 「船上のバニーチェイサー」",
+      "startsAt": "2022-10-12T17:00",
+      "endsAt": "2022-10-19T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/252"
     }
   ],
   "totalAssults": [
@@ -1405,6 +1421,14 @@
       "startsAt": "2022-10-05T11:00",
       "endsAt": "2022-10-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/249"
+    },
+    {
+      "id": "10422101901",
+      "type": 4,
+      "title": "総力戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2022-10-19T11:00",
+      "endsAt": "2022-10-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/252"
     }
   ],
   "jointExcercises": [
@@ -1463,6 +1487,14 @@
       "startsAt": "2022-09-21T17:00",
       "endsAt": "2022-09-28T03:59",
       "url": "https://bluearchive.jp/news/newsJump/247"
+    },
+    {
+      "id": "10522101201",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2022-10-12T17:00",
+      "endsAt": "2022-10-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/252"
     }
   ],
   "campaigns": [
