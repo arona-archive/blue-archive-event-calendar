@@ -471,6 +471,14 @@
       "startsAt": "2022-10-12T11:00",
       "endsAt": "2022-10-12T17:00",
       "url": "https://bluearchive.jp/news/newsJump/252"
+    },
+    {
+      "id": "10122102601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-10-26T11:00",
+      "endsAt": "2022-10-26T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/257"
     }
   ],
   "pickUps": [
@@ -1123,6 +1131,14 @@
       "startsAt": "2022-10-12T17:00",
       "endsAt": "2022-10-19T10:59",
       "url": "https://bluearchive.jp/news/newsJump/252"
+    },
+    {
+      "id": "10322102601",
+      "type": 3,
+      "title": "【イベント】 「Get Set, Go! ～キヴォトス晄輪大祭～」",
+      "startsAt": "2022-10-26T19:00",
+      "endsAt": "2022-11-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/257"
     }
   ],
   "totalAssults": [
@@ -1445,6 +1461,14 @@
       "startsAt": "2022-10-19T11:00",
       "endsAt": "2022-10-26T03:59",
       "url": "https://bluearchive.jp/news/newsJump/252"
+    },
+    {
+      "id": "10422110201",
+      "type": 4,
+      "title": "総力戦「屋内戦・ゴズ」",
+      "startsAt": "2022-11-02T11:00",
+      "endsAt": "2022-11-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/257"
     }
   ],
   "jointExcercises": [
