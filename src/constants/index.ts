@@ -47,6 +47,7 @@ export const NoticeTitlePrefixTable: [string, NoticeType][] = [
 	['「キヴォトス合同火力演習」', NoticeType.JOINT_EXCERCISES],
 	['キヴォトス合同火力演習', NoticeType.JOINT_EXCERCISES],
 	['イベント', NoticeType.EVENTS],
+	['【イベント】', NoticeType.EVENTS],
 	['【復刻イベント】', NoticeType.EVENTS],
 ];
 
