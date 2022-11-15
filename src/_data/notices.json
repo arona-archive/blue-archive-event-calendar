@@ -479,6 +479,14 @@
       "startsAt": "2022-10-26T11:00",
       "endsAt": "2022-10-26T19:00",
       "url": "https://bluearchive.jp/news/newsJump/257"
+    },
+    {
+      "id": "10122111601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-11-16T11:00",
+      "endsAt": "2022-11-16T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/262"
     }
   ],
   "pickUps": [
@@ -950,7 +958,7 @@
       "id": "10222111601",
       "type": 2,
       "title": "ピックアップ募集：★3 「ヒマリ」、★3「エイミ」",
-      "startsAt": "2022-11-16T19:00",
+      "startsAt": "2022-11-16T17:00",
       "endsAt": "2022-11-30T10:59",
       "url": "https://bluearchive.jp/news/newsJump/261"
     }
@@ -1155,6 +1163,14 @@
       "startsAt": "2022-10-26T19:00",
       "endsAt": "2022-11-09T10:59",
       "url": "https://bluearchive.jp/news/newsJump/257"
+    },
+    {
+      "id": "10322111601",
+      "type": 3,
+      "title": "特殊作戦「デカグラマトン編」",
+      "startsAt": "2022-11-16T17:00",
+      "endsAt": "2022-11-30T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/262"
     }
   ],
   "totalAssults": [
@@ -1485,6 +1501,14 @@
       "startsAt": "2022-11-02T11:00",
       "endsAt": "2022-11-09T03:59",
       "url": "https://bluearchive.jp/news/newsJump/257"
+    },
+    {
+      "id": "10422111601",
+      "type": 4,
+      "title": "総力戦「市街地戦・ビナー」",
+      "startsAt": "2022-11-16T17:00",
+      "endsAt": "2022-11-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/262"
     }
   ],
   "jointExcercises": [
