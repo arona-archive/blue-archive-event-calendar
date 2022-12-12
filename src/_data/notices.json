@@ -495,6 +495,14 @@
       "startsAt": "2022-11-30T11:00",
       "endsAt": "2022-11-30T19:00",
       "url": "https://bluearchive.jp/news/newsJump/264"
+    },
+    {
+      "id": "10122121401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-12-14T11:00",
+      "endsAt": "2022-12-14T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/269"
     }
   ],
   "pickUps": [
@@ -1211,6 +1219,14 @@
       "startsAt": "2022-11-30T19:00",
       "endsAt": "2022-12-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/264"
+    },
+    {
+      "id": "10322121401",
+      "type": 3,
+      "title": "【イベント】「聖堂のメリークリスマス~救護騎士団の贈り物~」",
+      "startsAt": "2022-12-14T19:00",
+      "endsAt": "2022-12-28T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/269"
     }
   ],
   "totalAssults": [
@@ -1557,6 +1573,14 @@
       "startsAt": "2022-12-07T11:00",
       "endsAt": "2022-12-14T03:59",
       "url": "https://bluearchive.jp/news/newsJump/264"
+    },
+    {
+      "id": "10422122101",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ペロロジラ」",
+      "startsAt": "2022-12-21T11:00",
+      "endsAt": "2022-12-28T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/269"
     }
   ],
   "jointExcercises": [
