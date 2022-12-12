@@ -116,6 +116,9 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 				if (title.includes('ログインボーナス')) {
 					return [];
 				}
+				if (title.includes('「Merry Christmas! アロナの特別プレゼント！」')) {
+					return [];
+				}
 				if (title.includes('募集キャンペーン')) {
 					return [];
 				}
