@@ -1,4 +1,4 @@
-import { NoticeType } from '../constants';
+import { DATE_STR_REGEX, NoticeType } from '../constants';
 import { NoticeParams } from '../types';
 import { convertDateRange, sanitizeText } from '../utils';
 
@@ -25,7 +25,14 @@ export const createLiveStreamNotice = (_title: string, document: Document): Noti
 
 	const getDateRange = (): [string, string] => {
 		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼配信'));
-		const dateRangeEl = elements[index + 1];
+		const getDateRangeEl = () => {
+			const text = elements[index]?.textContent?.trim();
+			if (text?.match(DATE_STR_REGEX)) {
+				return elements[index];
+			}
+			return elements[index + 1];
+		};
+		const dateRangeEl = getDateRangeEl();
 		if (!dateRangeEl) {
 			throw new Error('cannot find date range element');
 		}
