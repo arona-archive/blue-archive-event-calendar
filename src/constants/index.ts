@@ -29,7 +29,7 @@ export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[]
 		position: 'end',
 	},
 ];
-export const NOTICE_ID_FILTER: string[] = ['211', '231', '243'];
+export const NOTICE_ID_FILTER: string[] = ['211', '231', '243', '276'];
 
 export enum NoticeType {
 	MAINTENANCES = 1,
