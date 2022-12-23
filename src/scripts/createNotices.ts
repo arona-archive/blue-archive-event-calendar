@@ -2,6 +2,7 @@ import { JSDOM } from 'jsdom';
 import { NOTICE_ID_FILTER, NOTICE_TITLE_FILTER } from '../constants';
 import { News, Notice } from '../types';
 import { convertUrl, getId, sanitizeText } from '../utils';
+import { createLiveEventNotice } from './createLiveEventNotice';
 import { createLiveStreamNotice } from './createLiveStreamNotice';
 import { createMaintanenceNotices } from './createMaintanenceNotice';
 import { createPickUpNotice } from './createPickUpNotice';
@@ -60,6 +61,15 @@ export const createNotices = (news: News): Notice[] => {
 				url,
 			},
 		];
+	}
+
+	if (title.includes('ブルアカふぇす')) {
+		const notices = createLiveEventNotice(news.id);
+		return notices.map(({ subId, ...notice }) => ({
+			id: getId(notice.type, notice.startsAt, subId),
+			...notice,
+			url,
+		}));
 	}
 
 	throw new Error(`invalid title: ${news.id} ${title}`);

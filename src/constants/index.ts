@@ -29,7 +29,7 @@ export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[]
 		position: 'end',
 	},
 ];
-export const NOTICE_ID_FILTER: string[] = ['211', '231', '243', '276'];
+export const NOTICE_ID_FILTER: string[] = ['211', '231', '243'];
 
 export enum NoticeType {
 	MAINTENANCES = 1,
@@ -39,6 +39,7 @@ export enum NoticeType {
 	JOINT_EXCERCISES,
 	CAMPAIGNS,
 	LIVE_STREAMS,
+	LIVE_EVENTS,
 }
 
 export const NoticeTitlePrefixTable: [string, NoticeType][] = [

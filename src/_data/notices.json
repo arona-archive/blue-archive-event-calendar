@@ -1979,6 +1979,40 @@
       "startsAt": "2022-12-22T20:00",
       "endsAt": "2022-12-22T22:00",
       "url": "https://bluearchive.jp/news/newsJump/271"
+    },
+    {
+      "id": "10723012201",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ ふぁーすとあにばSP！ 直前集会 ぱーと１」",
+      "startsAt": "2023-01-22T12:00",
+      "endsAt": "2023-01-22T13:15",
+      "url": "https://bluearchive.jp/news/newsJump/276"
+    },
+    {
+      "id": "10723012202",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ ふぁーすとあにばSP！ 直前集会 ぱーと２」",
+      "startsAt": "2023-01-22T14:00",
+      "endsAt": "2023-01-22T15:00",
+      "url": "https://bluearchive.jp/news/newsJump/276"
+    },
+    {
+      "id": "10723012203",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ ふぁーすとあにばSP！～ぴーすぴーすでにっ！ですよ、先生！～」",
+      "startsAt": "2023-01-22T16:00",
+      "endsAt": "2023-01-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/276"
+    }
+  ],
+  "liveEvents": [
+    {
+      "id": "10823012201",
+      "type": 8,
+      "title": "「ブルアカふぇす！」",
+      "startsAt": "2023-01-22T10:00",
+      "endsAt": "2023-01-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/276"
     }
   ]
 }

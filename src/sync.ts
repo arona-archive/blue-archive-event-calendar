@@ -28,12 +28,19 @@ const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 		case NoticeType.LIVE_STREAMS: {
 			return 'liveStreams';
 		}
+		case NoticeType.LIVE_EVENTS: {
+			return 'liveEvents';
+		}
 	}
 };
 
 const exportNotices = (news: News[]) => {
 	for (const notice of news.flatMap((news) => createNotices(news))) {
 		const key = getNoticeKey(notice.type);
+
+		if (!notices[key]) {
+			notices[key] = [];
+		}
 
 		const index = notices[key].findIndex((x) => x.id === notice.id);
 		if (index !== -1) {
