@@ -28,6 +28,10 @@ export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[]
 		value: '」紹介',
 		position: 'end',
 	},
+	{
+		value: '年末年始のサポート対応',
+		position: 'start',
+	},
 ];
 export const NOTICE_ID_FILTER: string[] = ['211', '231', '243'];
 
