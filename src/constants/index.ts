@@ -17,6 +17,10 @@ export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[]
 		position: 'start',
 	},
 	{
+		value: '【イベント】',
+		position: 'start',
+	},
+	{
 		value: '【復刻イベント】',
 		position: 'start',
 	},
