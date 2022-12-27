@@ -503,6 +503,14 @@
       "startsAt": "2022-12-14T11:00",
       "endsAt": "2022-12-14T19:00",
       "url": "https://bluearchive.jp/news/newsJump/269"
+    },
+    {
+      "id": "10122122801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2022-12-28T11:00",
+      "endsAt": "2022-12-28T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/275"
     }
   ],
   "pickUps": [
@@ -1235,6 +1243,14 @@
       "startsAt": "2022-12-14T19:00",
       "endsAt": "2022-12-28T10:59",
       "url": "https://bluearchive.jp/news/newsJump/269"
+    },
+    {
+      "id": "10322122801",
+      "type": 3,
+      "title": "【イベント】「喰積の 前にいささか ～一番勝負～」",
+      "startsAt": "2022-12-28T19:00",
+      "endsAt": "2023-01-11T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/275"
     }
   ],
   "totalAssults": [
@@ -1589,6 +1605,14 @@
       "startsAt": "2022-12-21T11:00",
       "endsAt": "2022-12-28T03:59",
       "url": "https://bluearchive.jp/news/newsJump/269"
+    },
+    {
+      "id": "10423010401",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ヒエロニムス」",
+      "startsAt": "2023-01-04T11:00",
+      "endsAt": "2023-01-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/275"
     }
   ],
   "jointExcercises": [
@@ -1663,6 +1687,14 @@
       "startsAt": "2022-11-30T19:00",
       "endsAt": "2022-12-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/264"
+    },
+    {
+      "id": "10522122801",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2022-12-28T19:00",
+      "endsAt": "2023-01-04T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/275"
     }
   ],
   "campaigns": [
