@@ -511,6 +511,14 @@
       "startsAt": "2022-12-28T11:00",
       "endsAt": "2022-12-28T19:00",
       "url": "https://bluearchive.jp/news/newsJump/275"
+    },
+    {
+      "id": "10123011101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-01-11T11:00",
+      "endsAt": "2023-01-11T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/278"
     }
   ],
   "pickUps": [
@@ -1022,7 +1030,7 @@
       "id": "10223011101",
       "type": 2,
       "title": "ピックアップ募集：★3「ミネ」、★3「セナ」、★3「チヒロ」",
-      "startsAt": "2023-01-11T19:00",
+      "startsAt": "2023-01-11T17:00",
       "endsAt": "2023-01-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/277"
     }
@@ -1259,6 +1267,14 @@
       "startsAt": "2022-12-28T19:00",
       "endsAt": "2023-01-11T10:59",
       "url": "https://bluearchive.jp/news/newsJump/275"
+    },
+    {
+      "id": "10323011101",
+      "type": 3,
+      "title": "【復刻イベント】「シャーレのハッピー♡バレンタインパトロール」「 狐坂ワカモの沈黙と祝宴」",
+      "startsAt": "2023-01-11T17:00",
+      "endsAt": "2023-01-24T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/278"
     }
   ],
   "totalAssults": [
@@ -1621,6 +1637,14 @@
       "startsAt": "2023-01-04T11:00",
       "endsAt": "2023-01-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/275"
+    },
+    {
+      "id": "10423011801",
+      "type": 4,
+      "title": "総力戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2023-01-18T11:00",
+      "endsAt": "2023-01-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/278"
     }
   ],
   "jointExcercises": [
