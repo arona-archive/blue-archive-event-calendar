@@ -102,6 +102,11 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 		if (endsAtStr === '予定') {
 			return getTempEndsAt(startsAt);
 		}
+		if (endsAtStr.endsWith('(予定)')) {
+			const date = startsAt.split('T')[0];
+			const time = endsAtStr.split('(')[0];
+			return `${date}T${time}`;
+		}
 		return convertDate(endsAtStr);
 	};
 	const endsAt = getEndsAt();
