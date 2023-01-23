@@ -519,6 +519,14 @@
       "startsAt": "2023-01-11T11:00",
       "endsAt": "2023-01-11T17:00",
       "url": "https://bluearchive.jp/news/newsJump/278"
+    },
+    {
+      "id": "10123012401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-01-24T11:00",
+      "endsAt": "2023-01-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/283"
     }
   ],
   "pickUps": [
