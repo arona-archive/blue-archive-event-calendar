@@ -527,6 +527,14 @@
       "startsAt": "2023-01-24T11:00",
       "endsAt": "2023-01-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/283"
+    },
+    {
+      "id": "10123021001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-02-10T11:00",
+      "endsAt": "2023-02-10T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/288"
     }
   ],
   "pickUps": [
@@ -1062,7 +1070,7 @@
       "id": "10223021001",
       "type": 2,
       "title": "ピックアップ募集：★3「サクラコ」、★3「ウイ」、★3「ヒナタ」",
-      "startsAt": "2023-02-10T19:00",
+      "startsAt": "2023-02-10T17:00",
       "endsAt": "2023-02-22T10:59",
       "url": "https://bluearchive.jp/news/newsJump/287"
     }
@@ -1307,6 +1315,14 @@
       "startsAt": "2023-01-11T17:00",
       "endsAt": "2023-01-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/278"
+    },
+    {
+      "id": "10323021001",
+      "type": 3,
+      "title": "【復刻イベント】「どたばたシスターと古書館の魔術師」",
+      "startsAt": "2023-02-10T17:00",
+      "endsAt": "2023-02-22T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/288"
     }
   ],
   "totalAssults": [
@@ -1759,6 +1775,14 @@
       "startsAt": "2022-12-28T19:00",
       "endsAt": "2023-01-04T03:59",
       "url": "https://bluearchive.jp/news/newsJump/275"
+    },
+    {
+      "id": "10523021501",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2023-02-15T11:00",
+      "endsAt": "2023-02-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/288"
     }
   ],
   "campaigns": [
