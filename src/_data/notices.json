@@ -535,6 +535,14 @@
       "startsAt": "2023-02-10T11:00",
       "endsAt": "2023-02-10T17:00",
       "url": "https://bluearchive.jp/news/newsJump/288"
+    },
+    {
+      "id": "10123022201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-02-22T11:00",
+      "endsAt": "2023-02-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/293"
     }
   ],
   "pickUps": [
@@ -1073,6 +1081,14 @@
       "startsAt": "2023-02-10T17:00",
       "endsAt": "2023-02-22T10:59",
       "url": "https://bluearchive.jp/news/newsJump/287"
+    },
+    {
+      "id": "10223022201",
+      "type": 2,
+      "title": "",
+      "startsAt": "2023-02-22T19:00",
+      "endsAt": "2023-03-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/292"
     }
   ],
   "events": [
@@ -1693,6 +1709,14 @@
       "startsAt": "2023-01-18T11:00",
       "endsAt": "2023-01-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/278"
+    },
+    {
+      "id": "10423030101",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2023-03-01T11:00",
+      "endsAt": "2023-03-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/293"
     }
   ],
   "jointExcercises": [
@@ -2111,10 +2135,10 @@
     {
       "id": "10723012201",
       "type": 7,
-      "title": "「ブルアカらいぶ！ ふぁーすとあにばSP！ 直前集会 ぱーと１」",
+      "title": "「ブルアカらいぶ！せかんどあにばSP！」配信情報",
       "startsAt": "2023-01-22T12:00",
-      "endsAt": "2023-01-22T13:15",
-      "url": "https://bluearchive.jp/news/newsJump/276"
+      "endsAt": "2023-01-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/281"
     },
     {
       "id": "10723012202",
