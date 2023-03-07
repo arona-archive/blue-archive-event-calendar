@@ -122,7 +122,6 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 				if (title.includes('募集キャンペーン')) {
 					return [];
 				}
-
 				if (title.startsWith('各種育成コンテンツ')) {
 					return [];
 
@@ -141,6 +140,9 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 					// }
 
 					// return createCampaignNotices(elements, multiplier);
+				}
+				if (title.includes('【イベント】「？？？」')) {
+					return [];
 				}
 
 				const getType = (): NoticeType | null => {
