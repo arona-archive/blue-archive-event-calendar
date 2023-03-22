@@ -1371,6 +1371,30 @@
       "startsAt": "2023-02-10T17:00",
       "endsAt": "2023-02-22T10:59",
       "url": "https://bluearchive.jp/news/newsJump/288"
+    },
+    {
+      "id": "10323022201",
+      "type": 3,
+      "title": "【イベント】「A-H.A占領戦」",
+      "startsAt": "2023-02-22T19:00",
+      "endsAt": "2023-03-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/293"
+    },
+    {
+      "id": "10323030801",
+      "type": 3,
+      "title": "【イベント】「PHT決戦」",
+      "startsAt": "2023-03-08T19:00",
+      "endsAt": "2023-03-22T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/299"
+    },
+    {
+      "id": "10323032201",
+      "type": 3,
+      "title": "【復刻イベント】「新春狂想曲 第68番」",
+      "startsAt": "2023-03-22T19:00",
+      "endsAt": "2023-04-05T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/303"
     }
   ],
   "totalAssults": [
