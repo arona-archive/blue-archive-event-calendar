@@ -7,10 +7,10 @@ const convertTitle = (title: string): string => {
 };
 
 export const createPickUpNotice = (document: Document): NoticeParams => {
-	const elements = Array.from(document.querySelectorAll('body > p'));
+	const elements = Array.from(document.querySelectorAll('p'));
 
 	const getTitle = (): string => {
-		const titleEl = elements[1];
+		const titleEl = elements.find((e) => e.textContent?.startsWith('ピックアップ募集紹介'));
 		if (!titleEl) {
 			throw new Error('cannot find title element');
 		}
