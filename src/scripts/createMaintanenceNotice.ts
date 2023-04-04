@@ -85,7 +85,7 @@ const createCampaignNotices = (elements: Element[], multiplier: number): NoticeP
 
 const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 	{
-		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施'));
+		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施時間'));
 		if (index !== -1) {
 			const [startsAt, endsAt] = getDateRange(elements, index);
 
