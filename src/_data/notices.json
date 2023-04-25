@@ -567,6 +567,14 @@
       "startsAt": "2023-04-05T11:00",
       "endsAt": "2023-04-05T17:00",
       "url": "https://bluearchive.jp/news/newsJump/306"
+    },
+    {
+      "id": "10123042601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-04-26T11:00",
+      "endsAt": "2023-04-26T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/315"
     }
   ],
   "pickUps": [
@@ -1435,6 +1443,14 @@
       "startsAt": "2023-03-22T19:00",
       "endsAt": "2023-04-05T10:59",
       "url": "https://bluearchive.jp/news/newsJump/303"
+    },
+    {
+      "id": "10323042601",
+      "type": 3,
+      "title": "【イベント】「白亜の予告状～虚飾の館と美学の在り処～」",
+      "startsAt": "2023-04-26T19:00",
+      "endsAt": "2023-05-10T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/315"
     }
   ],
   "totalAssults": [
@@ -1837,6 +1853,14 @@
       "startsAt": "2023-04-12T11:00",
       "endsAt": "2023-04-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/306"
+    },
+    {
+      "id": "10423050301",
+      "type": 4,
+      "title": "総力戦 「市街地戦・シロ&クロ」",
+      "startsAt": "2023-05-03T11:00",
+      "endsAt": "2023-05-10T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/315"
     }
   ],
   "jointExcercises": [
