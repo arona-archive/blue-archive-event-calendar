@@ -583,6 +583,14 @@
       "startsAt": "2023-05-10T11:00",
       "endsAt": "2023-05-10T17:00",
       "url": "https://bluearchive.jp/news/newsJump/318"
+    },
+    {
+      "id": "10123052401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-05-24T11:00",
+      "endsAt": "2023-05-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/324"
     }
   ],
   "pickUps": [
@@ -1909,6 +1917,14 @@
       "startsAt": "2023-05-17T11:00",
       "endsAt": "2023-05-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/318"
+    },
+    {
+      "id": "10423053101",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2023-05-31T11:00",
+      "endsAt": "2023-06-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/324"
     }
   ],
   "jointExcercises": [
