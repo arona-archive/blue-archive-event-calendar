@@ -6,6 +6,7 @@ import { createLiveEventNotice } from './createLiveEventNotice';
 import { createLiveStreamNotice } from './createLiveStreamNotice';
 import { createMaintanenceNotices } from './createMaintanenceNotice';
 import { createPickUpNotice } from './createPickUpNotice';
+import { createEventNotice } from './createEventNotice';
 
 export const createNotices = (news: News): Notice[] => {
 	const title = sanitizeText(news.ext1);
@@ -50,6 +51,17 @@ export const createNotices = (news: News): Notice[] => {
 			...notice,
 			url,
 		}));
+	}
+
+	if (title.includes('イベント】')) {
+		const { subId, ...notice } = createEventNotice(document);
+		return [
+			{
+				id: getId(notice.type, notice.startsAt, subId),
+				...notice,
+				url,
+			},
+		];
 	}
 
 	if (title.includes('ブルアカらいぶ')) {

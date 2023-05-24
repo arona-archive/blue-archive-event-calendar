@@ -157,6 +157,9 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 				if (!type) {
 					throw new Error(`cannot find type: ${title}`);
 				}
+				if (type === NoticeType.EVENTS) {
+					return [];
+				}
 
 				const index = elements.findIndex((el) => {
 					const text = el.textContent?.trim();

@@ -12,26 +12,26 @@ export const TITLE_REGEX = /[（\(]\d+[）\)](.+)(開催|紹介)/;
 export const TIME_THRESHOLD = 7 * 24 * 60 * 60 * 1000; // 7 days
 
 export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[] = [
-	{
-		value: 'イベント',
-		position: 'start',
-	},
-	{
-		value: '【イベント】',
-		position: 'start',
-	},
-	{
-		value: '【復刻イベント】',
-		position: 'start',
-	},
+	// {
+	// 	value: 'イベント',
+	// 	position: 'start',
+	// },
+	// {
+	// 	value: '【イベント】',
+	// 	position: 'start',
+	// },
+	// {
+	// 	value: '【復刻イベント】',
+	// 	position: 'start',
+	// },
 	{
 		value: 'キャリア決済',
 		position: 'start',
 	},
-	{
-		value: '」紹介',
-		position: 'end',
-	},
+	// {
+	// 	value: '」紹介',
+	// 	position: 'end',
+	// },
 	{
 		value: '年末年始のサポート対応',
 		position: 'start',
