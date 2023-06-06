@@ -144,6 +144,9 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 				if (title.includes('【イベント】「？？？」')) {
 					return [];
 				}
+				if (title.includes('シャーレの総決算with連邦生徒会')) {
+					return [];
+				}
 
 				const getType = (): NoticeType | null => {
 					for (const [prefix, type] of NoticeTitlePrefixTable) {
