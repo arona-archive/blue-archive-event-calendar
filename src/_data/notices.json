@@ -591,6 +591,14 @@
       "startsAt": "2023-05-24T11:00",
       "endsAt": "2023-05-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/324"
+    },
+    {
+      "id": "10123060701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-06-07T11:00",
+      "endsAt": "2023-06-07T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/327"
     }
   ],
   "pickUps": [
@@ -1941,6 +1949,14 @@
       "startsAt": "2023-05-31T11:00",
       "endsAt": "2023-06-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/324"
+    },
+    {
+      "id": "10423061401",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ホド」",
+      "startsAt": "2023-06-14T11:00",
+      "endsAt": "2023-06-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/327"
     }
   ],
   "jointExcercises": [
@@ -2055,6 +2071,14 @@
       "startsAt": "2023-05-10T17:00",
       "endsAt": "2023-05-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/318"
+    },
+    {
+      "id": "10523060701",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2023-06-07T17:00",
+      "endsAt": "2023-06-14T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/327"
     }
   ],
   "campaigns": [
