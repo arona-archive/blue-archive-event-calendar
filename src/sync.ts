@@ -1,9 +1,9 @@
 import fs from 'fs';
+import notices from './_data/notices.json';
 import { dataPath, NoticeType } from './constants';
 import { createNotices, fetchNews } from './scripts';
 import { News } from './types';
 import { exportJson } from './utils';
-import notices from './_data/notices.json';
 
 const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 	switch (type) {

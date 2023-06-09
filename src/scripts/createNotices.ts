@@ -2,11 +2,11 @@ import { JSDOM } from 'jsdom';
 import { NOTICE_ID_FILTER, NOTICE_TITLE_FILTER } from '../constants';
 import { News, Notice } from '../types';
 import { convertUrl, getId, sanitizeText } from '../utils';
+import { createEventNotice } from './createEventNotice';
 import { createLiveEventNotice } from './createLiveEventNotice';
 import { createLiveStreamNotice } from './createLiveStreamNotice';
 import { createMaintanenceNotices } from './createMaintanenceNotice';
 import { createPickUpNotice } from './createPickUpNotice';
-import { createEventNotice } from './createEventNotice';
 
 export const createNotices = (news: News): Notice[] => {
 	const title = sanitizeText(news.ext1);

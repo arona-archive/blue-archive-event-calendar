@@ -14,7 +14,7 @@ export const sanitizeText = (text: string, isTitle = false): string => {
 	return text;
 };
 
-import { DATE_STR_REGEX, NoticeType, NOTICE_URL } from '../constants';
+import { DATE_STR_REGEX, NOTICE_URL, NoticeType } from '../constants';
 
 export const getId = (type: NoticeType, startsAt: string, subId: number = 1): string => {
 	const date = startsAt.split('T')[0]?.replaceAll('-', '').replace(/^20/, '');
