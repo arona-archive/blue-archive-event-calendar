@@ -36,6 +36,10 @@ export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[]
 		value: '年末年始のサポート対応',
 		position: 'start',
 	},
+	{
+		value: '【ミニゲーム】',
+		position: 'start',
+	},
 ];
 export const NOTICE_ID_FILTER: string[] = ['211', '231', '243', '280', '290', '286', '296', '297', '295', '313', '312'];
 
