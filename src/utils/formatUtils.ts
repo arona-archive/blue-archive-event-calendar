@@ -99,7 +99,8 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 	}
 
 	const getEndsAt = () => {
-		if (endsAtStr === '予定') {
+		console.log('endsAtStr', endsAtStr);
+		if (endsAtStr.startsWith('予定')) {
 			return getTempEndsAt(startsAt);
 		}
 		if (endsAtStr.endsWith('(予定)')) {
