@@ -599,6 +599,14 @@
       "startsAt": "2023-06-07T11:00",
       "endsAt": "2023-06-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/327"
+    },
+    {
+      "id": "10123062101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-06-21T11:00",
+      "endsAt": "2023-06-21T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/331"
     }
   ],
   "pickUps": [
@@ -1547,6 +1555,14 @@
       "startsAt": "2023-05-24T19:00",
       "endsAt": "2023-06-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/325"
+    },
+    {
+      "id": "10323062101",
+      "type": 3,
+      "title": "【イベント】「夏の特殊作戦！RABBIT小隊と消えたエビの謎」",
+      "startsAt": "2023-06-21T19:00",
+      "endsAt": "2023-07-05T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/332"
     }
   ],
   "totalAssults": [
@@ -2103,6 +2119,14 @@
       "startsAt": "2023-06-07T17:00",
       "endsAt": "2023-06-14T03:59",
       "url": "https://bluearchive.jp/news/newsJump/327"
+    },
+    {
+      "id": "10523062101",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2023-06-21T19:00",
+      "endsAt": "2023-06-28T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/331"
     }
   ],
   "campaigns": [
