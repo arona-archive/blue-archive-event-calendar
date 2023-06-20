@@ -2486,5 +2486,15 @@
       "endsAt": "2023-01-22T19:00",
       "url": "https://bluearchive.jp/news/newsJump/276"
     }
+  ],
+  "temp": [
+    {
+      "id": "10923062801",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ビナー」BETA版",
+      "startsAt": "2023-06-28T11:00",
+      "endsAt": "2023-07-05T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/331"
+    }
   ]
 }
