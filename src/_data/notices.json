@@ -607,6 +607,14 @@
       "startsAt": "2023-06-21T11:00",
       "endsAt": "2023-06-21T19:00",
       "url": "https://bluearchive.jp/news/newsJump/331"
+    },
+    {
+      "id": "10123070501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-07-05T11:00",
+      "endsAt": "2023-07-05T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/335"
     }
   ],
   "pickUps": [
@@ -1254,7 +1262,7 @@
       "id": "10223070501",
       "type": 2,
       "title": "ピックアップ募集：★3「ヒナ（水着）」、★3「イオリ（水着）」",
-      "startsAt": "2023-07-05T19:00",
+      "startsAt": "2023-07-05T17:00",
       "endsAt": "2023-07-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/334"
     }
@@ -2005,6 +2013,14 @@
       "startsAt": "2023-06-14T11:00",
       "endsAt": "2023-06-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/327"
+    },
+    {
+      "id": "10423070501",
+      "type": 4,
+      "title": "総力戦 「屋内戦・グレゴリオ」",
+      "startsAt": "2023-07-05T17:00",
+      "endsAt": "2023-07-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/335"
     }
   ],
   "jointExcercises": [
@@ -2527,6 +2543,14 @@
       "startsAt": "2023-06-28T11:00",
       "endsAt": "2023-07-05T03:59",
       "url": "https://bluearchive.jp/news/newsJump/331"
+    },
+    {
+      "id": "10923071201",
+      "type": 9,
+      "title": "大決戦 「市街地戦・KAITEN FX Mk.0」BETA版",
+      "startsAt": "2023-07-12T11:00",
+      "endsAt": "2023-07-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/335"
     }
   ]
 }
