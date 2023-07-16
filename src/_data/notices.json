@@ -615,6 +615,14 @@
       "startsAt": "2023-07-05T11:00",
       "endsAt": "2023-07-05T17:00",
       "url": "https://bluearchive.jp/news/newsJump/335"
+    },
+    {
+      "id": "10123071701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-07-17T11:00",
+      "endsAt": "2023-07-17T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/341"
     }
   ],
   "pickUps": [
@@ -1278,7 +1286,7 @@
       "id": "10223071701",
       "type": 2,
       "title": "ピックアップ募集：★3「シロコ（水着）」、★3「ノノミ（水着）」、★3「ワカモ（水着）」",
-      "startsAt": "2023-07-17T19:00",
+      "startsAt": "2023-07-17T17:00",
       "endsAt": "2023-07-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/340"
     }
@@ -1595,6 +1603,14 @@
       "startsAt": "2023-06-21T19:00",
       "endsAt": "2023-07-05T10:59",
       "url": "https://bluearchive.jp/news/newsJump/332"
+    },
+    {
+      "id": "10323071701",
+      "type": 3,
+      "title": "【復刻イベント】「アビドスリゾート復旧対策委員会」",
+      "startsAt": "2023-07-17T17:00",
+      "endsAt": "2023-07-24T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/342"
     }
   ],
   "totalAssults": [
