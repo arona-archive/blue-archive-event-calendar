@@ -623,6 +623,14 @@
       "startsAt": "2023-07-17T11:00",
       "endsAt": "2023-07-17T17:00",
       "url": "https://bluearchive.jp/news/newsJump/341"
+    },
+    {
+      "id": "10123072101",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2023-07-21T11:00",
+      "endsAt": "2023-07-21T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/338"
     }
   ],
   "pickUps": [
