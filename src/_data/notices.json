@@ -631,6 +631,14 @@
       "startsAt": "2023-07-21T11:00",
       "endsAt": "2023-07-21T18:00",
       "url": "https://bluearchive.jp/news/newsJump/338"
+    },
+    {
+      "id": "10123072401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-07-24T11:00",
+      "endsAt": "2023-07-24T19:30",
+      "url": "https://bluearchive.jp/news/newsJump/344"
     }
   ],
   "pickUps": [
@@ -1619,6 +1627,14 @@
       "startsAt": "2023-07-17T17:00",
       "endsAt": "2023-07-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/342"
+    },
+    {
+      "id": "10323072401",
+      "type": 3,
+      "title": "【イベント】「隠されし遺産を求めて ～トリニティの課外活動～」",
+      "startsAt": "2023-07-24T19:30",
+      "endsAt": "2023-08-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/345"
     }
   ],
   "totalAssults": [
@@ -2061,6 +2077,14 @@
       "startsAt": "2023-07-05T17:00",
       "endsAt": "2023-07-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/335"
+    },
+    {
+      "id": "10423080201",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ゴズ」",
+      "startsAt": "2023-08-02T11:00",
+      "endsAt": "2023-08-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/344"
     }
   ],
   "jointExcercises": [
@@ -2191,6 +2215,14 @@
       "startsAt": "2023-06-21T19:00",
       "endsAt": "2023-06-28T03:59",
       "url": "https://bluearchive.jp/news/newsJump/331"
+    },
+    {
+      "id": "10523080901",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2023-08-09T11:00",
+      "endsAt": "2023-08-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/344"
     }
   ],
   "campaigns": [
