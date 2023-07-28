@@ -84,5 +84,18 @@ export const createNotices = (news: News): Notice[] => {
 		}));
 	}
 
+	if (title.includes('大決戦正式版開催予告')) {
+		return [
+			{
+				id: '10923081601',
+				type: 9,
+				title: '大決戦 「屋外戦・ペロロジラ」',
+				startsAt: '2023-08-16T19:00',
+				endsAt: '2023-08-23T03:59',
+				url: 'https://bluearchive.jp/news/newsJump/347',
+			},
+		];
+	}
+
 	throw new Error(`invalid title: ${news.id} ${title}`);
 };

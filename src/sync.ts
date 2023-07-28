@@ -31,8 +31,8 @@ const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 		case NoticeType.LIVE_EVENTS: {
 			return 'liveEvents';
 		}
-		case NoticeType.TEMP: {
-			return 'temp';
+		case NoticeType.ELIMINATE_RAID: {
+			return 'eliminateRaid';
 		}
 	}
 };

@@ -66,7 +66,7 @@ export enum NoticeType {
 	CAMPAIGNS,
 	LIVE_STREAMS,
 	LIVE_EVENTS,
-	TEMP, // TODO: fix
+	ELIMINATE_RAID,
 }
 
 export const NoticeTitlePrefixTable: [string, NoticeType][] = [
@@ -77,7 +77,7 @@ export const NoticeTitlePrefixTable: [string, NoticeType][] = [
 	['イベント', NoticeType.EVENTS],
 	['【イベント】', NoticeType.EVENTS],
 	['【復刻イベント】', NoticeType.EVENTS],
-	['大決戦', NoticeType.TEMP],
+	['大決戦', NoticeType.ELIMINATE_RAID],
 ];
 
 export enum NoticeCampaignType {
