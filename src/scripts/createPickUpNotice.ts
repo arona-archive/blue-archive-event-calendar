@@ -26,7 +26,14 @@ export const createPickUpNotice = (document: Document): NoticeParams => {
 
 	const getDateRange = (): [string, string] => {
 		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施'));
-		const dateRangeEl = elements[index + 1];
+
+		const getOffset = (): number => {
+			const text = elements[index]?.textContent?.trim();
+			return text === '▼実施期間' ? 1 : 0;
+		};
+		const offset = getOffset();
+
+		const dateRangeEl = elements[index + offset];
 		if (!dateRangeEl) {
 			throw new Error('cannot find date range element');
 		}
@@ -35,7 +42,6 @@ export const createPickUpNotice = (document: Document): NoticeParams => {
 		if (!dateRangeStr) {
 			throw new Error('cannot find date range string');
 		}
-
 		return convertDateRange(sanitizeText(dateRangeStr));
 	};
 	const [startsAt, endsAt] = getDateRange();
