@@ -647,6 +647,14 @@
       "startsAt": "2023-08-16T11:00",
       "endsAt": "2023-08-16T17:00",
       "url": "https://bluearchive.jp/news/newsJump/351"
+    },
+    {
+      "id": "10123082301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-08-23T11:00",
+      "endsAt": "2023-08-23T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/356"
     }
   ],
   "pickUps": [
@@ -1691,6 +1699,14 @@
       "startsAt": "2023-08-16T17:00",
       "endsAt": "2023-08-23T10:59",
       "url": "https://bluearchive.jp/news/newsJump/352"
+    },
+    {
+      "id": "10323082301",
+      "type": 3,
+      "title": "【イベント】「学漫同人物語 ～2人が求める最終回～」",
+      "startsAt": "2023-08-23T19:00",
+      "endsAt": "2023-09-06T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/357"
     }
   ],
   "totalAssults": [
@@ -2141,6 +2157,14 @@
       "startsAt": "2023-08-02T11:00",
       "endsAt": "2023-08-09T03:59",
       "url": "https://bluearchive.jp/news/newsJump/344"
+    },
+    {
+      "id": "10423083001",
+      "type": 4,
+      "title": "総力戦「屋外戦・ホバークラフト」",
+      "startsAt": "2023-08-30T11:00",
+      "endsAt": "2023-09-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/356"
     }
   ],
   "jointExcercises": [
