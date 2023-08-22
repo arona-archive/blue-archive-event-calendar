@@ -56,6 +56,7 @@ export const NOTICE_ID_FILTER: string[] = [
 	'333',
 	'336',
 	'353',
+	'358',
 ];
 
 export enum NoticeType {
