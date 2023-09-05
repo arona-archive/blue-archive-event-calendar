@@ -83,7 +83,7 @@ const createCampaignNotices = (elements: Element[], multiplier: number): NoticeP
 	return sections.map((section) => createCampaignNotice(section, multiplier));
 };
 
-const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
+const createNotice = (id: string, title: string, elements: Element[]): NoticeParams[] => {
 	{
 		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施時間'));
 		if (index !== -1) {
@@ -164,6 +164,17 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 					return [];
 				}
 
+				if (id === '362' && type === NoticeType.ELIMINATE_RAID) {
+					return [
+						{
+							type,
+							title,
+							startsAt: '2023-09-13T11:00',
+							endsAt: '2023-09-20T03:59',
+						},
+					];
+				}
+
 				const index = elements.findIndex((el) => {
 					const text = el.textContent?.trim();
 					return text?.startsWith('▼開催') || text?.startsWith('▼第1回開催');
@@ -185,7 +196,7 @@ const createNotice = (title: string, elements: Element[]): NoticeParams[] => {
 	return [];
 };
 
-export const createMaintanenceNotices = (title: string, document: Document): NoticeParams[] => {
+export const createMaintenanceNotices = (id: string, title: string, document: Document): NoticeParams[] => {
 	const elements = Array.from(document.querySelectorAll('body > *'));
 
 	if (elements.length === 0) {
@@ -210,5 +221,5 @@ export const createMaintanenceNotices = (title: string, document: Document): Not
 		sections[sectionIndex]?.push(element);
 	}
 
-	return sections.flatMap((section) => createNotice(title, section));
+	return sections.flatMap((section) => createNotice(id, title, section));
 };

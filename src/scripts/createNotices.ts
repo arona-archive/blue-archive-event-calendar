@@ -5,7 +5,7 @@ import { convertUrl, getId, sanitizeText } from '../utils';
 import { createEventNotice } from './createEventNotice';
 import { createLiveEventNotice } from './createLiveEventNotice';
 import { createLiveStreamNotice } from './createLiveStreamNotice';
-import { createMaintanenceNotices } from './createMaintanenceNotice';
+import { createMaintenanceNotices } from './createMaintenanceNotice';
 import { createPickUpNotice } from './createPickUpNotice';
 
 export const createNotices = (news: News): Notice[] => {
@@ -45,7 +45,7 @@ export const createNotices = (news: News): Notice[] => {
 	}
 
 	if (title.includes('メンテナンスのお知らせ')) {
-		const notices = createMaintanenceNotices(title, document);
+		const notices = createMaintenanceNotices(news.id, title, document);
 		return notices.map(({ subId, ...notice }) => ({
 			id: getId(notice.type, notice.startsAt, subId),
 			...notice,
