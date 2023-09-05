@@ -655,6 +655,14 @@
       "startsAt": "2023-08-23T11:00",
       "endsAt": "2023-08-23T19:00",
       "url": "https://bluearchive.jp/news/newsJump/356"
+    },
+    {
+      "id": "10123090601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-09-06T11:00",
+      "endsAt": "2023-09-06T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/362"
     }
   ],
   "pickUps": [
@@ -1366,7 +1374,7 @@
       "id": "10223090601",
       "type": 2,
       "title": "ピックアップ募集：★3 「コトリ（応援団）」、★3 「ウタハ（応援団）」、★3「ノア」",
-      "startsAt": "2023-09-06T19:00",
+      "startsAt": "2023-09-06T17:00",
       "endsAt": "2023-09-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/361"
     }
@@ -1715,6 +1723,14 @@
       "startsAt": "2023-08-23T19:00",
       "endsAt": "2023-09-06T10:59",
       "url": "https://bluearchive.jp/news/newsJump/357"
+    },
+    {
+      "id": "10323090601",
+      "type": 3,
+      "title": "【復刻イベント】「On your mark ＠ millennium ～キヴォトス晄輪大祭～」",
+      "startsAt": "2023-09-06T17:00",
+      "endsAt": "2023-09-15T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/363"
     }
   ],
   "totalAssults": [
@@ -2311,6 +2327,14 @@
       "startsAt": "2023-08-09T11:00",
       "endsAt": "2023-08-16T03:59",
       "url": "https://bluearchive.jp/news/newsJump/344"
+    },
+    {
+      "id": "10523090601",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2023-09-06T17:00",
+      "endsAt": "2023-09-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/362"
     }
   ],
   "campaigns": [
@@ -2724,9 +2748,17 @@
       "id": "10923081601",
       "type": 9,
       "title": "大決戦 「屋外戦・ペロロジラ」",
-      "startsAt": "2023-08-16T19:00",
+      "startsAt": "2023-08-16T17:00",
       "endsAt": "2023-08-23T03:59",
-      "url": "https://bluearchive.jp/news/newsJump/347"
+      "url": "https://bluearchive.jp/news/newsJump/351"
+    },
+    {
+      "id": "10923091301",
+      "type": 9,
+      "title": "大決戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2023-09-13T11:00",
+      "endsAt": "2023-09-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/362"
     }
   ]
 }
