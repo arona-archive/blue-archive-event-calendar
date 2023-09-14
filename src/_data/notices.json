@@ -663,6 +663,14 @@
       "startsAt": "2023-09-06T11:00",
       "endsAt": "2023-09-06T17:00",
       "url": "https://bluearchive.jp/news/newsJump/362"
+    },
+    {
+      "id": "10123091501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-09-15T11:00",
+      "endsAt": "2023-09-15T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/365"
     }
   ],
   "pickUps": [
@@ -1382,7 +1390,7 @@
       "id": "10223091501",
       "type": 2,
       "title": "ピックアップ募集：★3「ハルナ（体操服）」、★3「ユウカ（体操服）」、★3「マリー（体操服）」",
-      "startsAt": "2023-09-15T19:00",
+      "startsAt": "2023-09-15T17:00",
       "endsAt": "2023-09-27T10:59",
       "url": "https://bluearchive.jp/news/newsJump/364"
     }
@@ -1739,6 +1747,14 @@
       "startsAt": "2023-09-06T17:00",
       "endsAt": "2023-09-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/363"
+    },
+    {
+      "id": "10323091501",
+      "type": 3,
+      "title": "【復刻イベント】「Get Set, Go! ～キヴォトス晄輪大祭～」",
+      "startsAt": "2023-09-15T17:00",
+      "endsAt": "2023-09-27T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/366"
     }
   ],
   "totalAssults": [
