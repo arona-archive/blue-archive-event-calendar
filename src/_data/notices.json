@@ -671,6 +671,14 @@
       "startsAt": "2023-09-15T11:00",
       "endsAt": "2023-09-15T17:00",
       "url": "https://bluearchive.jp/news/newsJump/365"
+    },
+    {
+      "id": "10123092701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-09-27T11:00",
+      "endsAt": "2023-09-27T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/368"
     }
   ],
   "pickUps": [
@@ -1763,6 +1771,14 @@
       "startsAt": "2023-09-15T17:00",
       "endsAt": "2023-09-27T10:59",
       "url": "https://bluearchive.jp/news/newsJump/366"
+    },
+    {
+      "id": "10323092701",
+      "type": 3,
+      "title": "【イベント】「Trip-Trap-Train」",
+      "startsAt": "2023-09-27T19:00",
+      "endsAt": "2023-10-11T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/369"
     }
   ],
   "totalAssults": [
@@ -2221,6 +2237,14 @@
       "startsAt": "2023-08-30T11:00",
       "endsAt": "2023-09-06T03:59",
       "url": "https://bluearchive.jp/news/newsJump/356"
+    },
+    {
+      "id": "10423100401",
+      "type": 4,
+      "title": "総力戦「市街地戦・ビナー」",
+      "startsAt": "2023-10-04T11:00",
+      "endsAt": "2023-10-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/368"
     }
   ],
   "jointExcercises": [
