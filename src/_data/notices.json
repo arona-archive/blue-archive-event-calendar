@@ -679,6 +679,14 @@
       "startsAt": "2023-09-27T11:00",
       "endsAt": "2023-09-27T19:00",
       "url": "https://bluearchive.jp/news/newsJump/368"
+    },
+    {
+      "id": "10123101101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-10-11T11:00",
+      "endsAt": "2023-10-11T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/371"
     }
   ],
   "pickUps": [
@@ -1414,7 +1422,7 @@
       "id": "10223101101",
       "type": 2,
       "title": "ピックアップ募集：「★3 シグレ（温泉）」、「★3 チェリノ（温泉）」、「★3 チナツ（温泉）」、「★3 ノドカ（温泉）」",
-      "startsAt": "2023-10-11T19:00",
+      "startsAt": "2023-10-11T17:00",
       "endsAt": "2023-10-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/370"
     }
@@ -2399,6 +2407,14 @@
       "startsAt": "2023-09-06T17:00",
       "endsAt": "2023-09-13T03:59",
       "url": "https://bluearchive.jp/news/newsJump/362"
+    },
+    {
+      "id": "10523101101",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2023-10-11T17:00",
+      "endsAt": "2023-10-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/371"
     }
   ],
   "campaigns": [
@@ -2823,6 +2839,14 @@
       "startsAt": "2023-09-13T11:00",
       "endsAt": "2023-09-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/362"
+    },
+    {
+      "id": "10923101701",
+      "type": 9,
+      "title": "大決戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2023-10-17T11:00",
+      "endsAt": "2023-10-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/371"
     }
   ]
 }
