@@ -15,9 +15,9 @@ export const createLiveStreamNotice = (_title: string, document: Document): Noti
 			throw new Error('cannot find title element');
 		}
 
-		if (title !== titleEl.textContent) {
-			throw new Error(`invalid title: ${title}, ${titleEl.textContent}`);
-		}
+		// if (title !== titleEl.textContent) {
+		// 	throw new Error(`invalid title: ${title}, ${titleEl.textContent}`);
+		// }
 
 		return convertTitle(title);
 	};
