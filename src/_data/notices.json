@@ -687,6 +687,14 @@
       "startsAt": "2023-10-11T11:00",
       "endsAt": "2023-10-11T17:00",
       "url": "https://bluearchive.jp/news/newsJump/371"
+    },
+    {
+      "id": "10123102401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-10-24T11:00",
+      "endsAt": "2023-10-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/376"
     }
   ],
   "pickUps": [
@@ -1811,6 +1819,14 @@
       "startsAt": "2023-09-27T19:00",
       "endsAt": "2023-10-11T10:59",
       "url": "https://bluearchive.jp/news/newsJump/369"
+    },
+    {
+      "id": "10323102401",
+      "type": 3,
+      "title": "【イベント】「とある科学の青春記録」",
+      "startsAt": "2023-10-24T19:00",
+      "endsAt": "2023-11-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/377"
     }
   ],
   "totalAssults": [
@@ -2277,6 +2293,14 @@
       "startsAt": "2023-10-04T11:00",
       "endsAt": "2023-10-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/368"
+    },
+    {
+      "id": "10423110101",
+      "type": 4,
+      "title": "総力戦「屋外戦・ケセド」",
+      "startsAt": "2023-11-01T11:00",
+      "endsAt": "2023-11-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/376"
     }
   ],
   "jointExcercises": [
