@@ -14,7 +14,7 @@ export const sanitizeText = (text: string, isTitle = false): string => {
 	return text;
 };
 
-import { DATE_STR_REGEX, NOTICE_URL, NoticeType } from '../constants';
+import { DATE_STR_REGEX, DEFAULT_YEAR, NOTICE_URL, NoticeType } from '../constants';
 
 export const getId = (type: NoticeType, startsAt: string, subId: number = 1): string => {
 	const date = startsAt.split('T')[0]?.replaceAll('-', '').replace(/^20/, '');
@@ -98,16 +98,39 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 		throw new Error(`cannot find starts at: ${startsAtStr}`);
 	}
 
-	const getEndsAt = () => {
+	const getEndsAt = (): string | null => {
 		if (endsAtStr.startsWith('予定')) {
 			return getTempEndsAt(startsAt);
 		}
+
 		if (endsAtStr.endsWith('(予定)')) {
 			const date = startsAt.split('T')[0];
 			const time = endsAtStr.split('(')[0];
 			return `${date}T${time}`;
 		}
-		return convertDate(endsAtStr);
+
+		if (endsAtStr.includes('年')) {
+			return convertDate(endsAtStr);
+		}
+
+		const p = new Date(startsAt).getTime();
+		for (let i = 0; i < 10; ++i) {
+			const year = DEFAULT_YEAR + i;
+
+			const endsAt = convertDate(`${year}年${endsAtStr}`);
+			if (!endsAt) {
+				return null;
+			}
+
+			const q = new Date(endsAt).getTime();
+			if (q < p) {
+				continue;
+			}
+
+			return endsAt;
+		}
+
+		return null;
 	};
 	const endsAt = getEndsAt();
 	if (!endsAt) {

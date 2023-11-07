@@ -164,27 +164,6 @@ const createNotice = (id: string, title: string, elements: Element[]): NoticePar
 					return [];
 				}
 
-				if (id === '362' && type === NoticeType.ELIMINATE_RAID) {
-					return [
-						{
-							type,
-							title,
-							startsAt: '2023-09-13T11:00',
-							endsAt: '2023-09-20T03:59',
-						},
-					];
-				}
-				if (id === '371' && type === NoticeType.ELIMINATE_RAID) {
-					return [
-						{
-							type,
-							title,
-							startsAt: '2023-10-17T11:00',
-							endsAt: '2023-10-24T03:59',
-						},
-					];
-				}
-
 				const index = elements.findIndex((el) => {
 					const text = el.textContent?.trim();
 					return text?.startsWith('▼開催') || text?.startsWith('▼第1回開催');

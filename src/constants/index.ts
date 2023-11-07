@@ -107,3 +107,5 @@ export const NoticeCampaignTable: Record<NoticeCampaignType, number> = {
 	[NoticeCampaignType.E]: 5,
 	[NoticeCampaignType.F]: 6,
 };
+
+export const DEFAULT_YEAR = 2021;
