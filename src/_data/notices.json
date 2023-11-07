@@ -695,6 +695,14 @@
       "startsAt": "2023-10-24T11:00",
       "endsAt": "2023-10-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/376"
+    },
+    {
+      "id": "10123110801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-11-08T11:00",
+      "endsAt": "2023-11-08T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/380"
     }
   ],
   "pickUps": [
@@ -1454,7 +1462,7 @@
       "id": "10223110801",
       "type": 2,
       "title": "ピックアップ募集：★3「ユカリ」",
-      "startsAt": "2023-11-08T19:00",
+      "startsAt": "2023-11-08T17:00",
       "endsAt": "2023-11-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/379"
     }
@@ -2463,6 +2471,14 @@
       "startsAt": "2023-10-11T17:00",
       "endsAt": "2023-10-18T03:59",
       "url": "https://bluearchive.jp/news/newsJump/371"
+    },
+    {
+      "id": "10523110801",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2023-11-08T17:00",
+      "endsAt": "2023-11-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/380"
     }
   ],
   "campaigns": [
@@ -2983,6 +2999,14 @@
       "startsAt": "2023-10-17T11:00",
       "endsAt": "2023-10-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/371"
+    },
+    {
+      "id": "10923111501",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ホド」",
+      "startsAt": "2023-11-15T11:00",
+      "endsAt": "2023-11-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/380"
     }
   ]
 }
