@@ -703,6 +703,14 @@
       "startsAt": "2023-11-08T11:00",
       "endsAt": "2023-11-08T17:00",
       "url": "https://bluearchive.jp/news/newsJump/380"
+    },
+    {
+      "id": "10123112201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-11-22T11:00",
+      "endsAt": "2023-11-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/384"
     }
   ],
   "pickUps": [
@@ -2333,6 +2341,14 @@
       "startsAt": "2023-11-01T11:00",
       "endsAt": "2023-11-08T03:59",
       "url": "https://bluearchive.jp/news/newsJump/376"
+    },
+    {
+      "id": "10423112901",
+      "type": 4,
+      "title": "総力戦 「市街地戦・？？？」",
+      "startsAt": "2023-11-29T11:00",
+      "endsAt": "2023-12-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/384"
     }
   ],
   "jointExcercises": [
