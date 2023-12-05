@@ -711,6 +711,14 @@
       "startsAt": "2023-11-22T11:00",
       "endsAt": "2023-11-22T19:00",
       "url": "https://bluearchive.jp/news/newsJump/384"
+    },
+    {
+      "id": "10123120601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2023-12-06T11:00",
+      "endsAt": "2023-12-06T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/388"
     }
   ],
   "pickUps": [
@@ -1494,7 +1502,7 @@
       "id": "10223120601",
       "type": 2,
       "title": "ピックアップ募集：★3「エイミ(水着)」、★3「ヒマリ」",
-      "startsAt": "2023-12-06T19:00",
+      "startsAt": "2023-12-06T17:00",
       "endsAt": "2023-12-13T10:59",
       "url": "https://bluearchive.jp/news/newsJump/387"
     }
@@ -2519,6 +2527,14 @@
       "startsAt": "2023-11-08T17:00",
       "endsAt": "2023-11-15T03:59",
       "url": "https://bluearchive.jp/news/newsJump/380"
+    },
+    {
+      "id": "10523120601",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2023-12-06T17:00",
+      "endsAt": "2023-12-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/388"
     }
   ],
   "campaigns": [
@@ -3047,6 +3063,14 @@
       "startsAt": "2023-11-15T11:00",
       "endsAt": "2023-11-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/380"
+    },
+    {
+      "id": "10923121301",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ゴズ」",
+      "startsAt": "2023-12-13T11:00",
+      "endsAt": "2023-12-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/388"
     }
   ]
 }
