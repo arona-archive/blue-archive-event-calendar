@@ -170,6 +170,17 @@ const createNotice = (id: string, title: string, elements: Element[]): NoticePar
 				});
 				const [startsAt, endsAt] = getDateRange(elements, index);
 
+				if (id === '384' && type === NoticeType.TOTAL_ASSULTS) {
+					return [
+						{
+							type,
+							title: title.replace('？？？', 'クロカゲ'),
+							startsAt,
+							endsAt,
+						},
+					];
+				}
+
 				return [
 					{
 						type,
