@@ -727,6 +727,14 @@
       "startsAt": "2023-12-27T11:00",
       "endsAt": "2023-12-27T19:00",
       "url": "https://bluearchive.jp/news/newsJump/393"
+    },
+    {
+      "id": "10124011001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-01-10T11:00",
+      "endsAt": "2024-01-10T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/399"
     }
   ],
   "pickUps": [
@@ -1542,7 +1550,7 @@
       "id": "10224011001",
       "type": 2,
       "title": "ピックアップ募集：★3「アル（正月）」、★3「ムツキ（正月）」、★3「セリカ（正月）」、★3「カヨコ（正月）」、★3「ハルカ（正月）」",
-      "startsAt": "2024-01-10T19:00",
+      "startsAt": "2024-01-10T17:00",
       "endsAt": "2024-01-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/398"
     }
@@ -2591,6 +2599,14 @@
       "startsAt": "2023-12-06T17:00",
       "endsAt": "2023-12-13T03:59",
       "url": "https://bluearchive.jp/news/newsJump/388"
+    },
+    {
+      "id": "10524011001",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2024-01-10T17:00",
+      "endsAt": "2024-01-17T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/399"
     }
   ],
   "campaigns": [
@@ -3135,6 +3151,14 @@
       "startsAt": "2023-12-13T11:00",
       "endsAt": "2023-12-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/388"
+    },
+    {
+      "id": "10924011701",
+      "type": 9,
+      "title": "大決戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2024-01-17T11:00",
+      "endsAt": "2024-01-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/399"
     }
   ]
 }
