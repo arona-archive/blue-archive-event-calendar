@@ -735,6 +735,14 @@
       "startsAt": "2024-01-10T11:00",
       "endsAt": "2024-01-10T17:00",
       "url": "https://bluearchive.jp/news/newsJump/399"
+    },
+    {
+      "id": "10124011701",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2024-01-17T11:00",
+      "endsAt": "2024-01-17T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/406"
     }
   ],
   "pickUps": [
@@ -1558,7 +1566,7 @@
       "id": "10224011701",
       "type": 2,
       "title": "ピックアップ募集：★3「ミサキ」、★3「アツコ」",
-      "startsAt": "2024-01-17T19:00",
+      "startsAt": "2024-01-17T17:00",
       "endsAt": "2024-01-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/403"
     }
