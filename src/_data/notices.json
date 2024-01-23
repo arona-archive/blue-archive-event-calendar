@@ -743,6 +743,14 @@
       "startsAt": "2024-01-17T11:00",
       "endsAt": "2024-01-17T17:00",
       "url": "https://bluearchive.jp/news/newsJump/406"
+    },
+    {
+      "id": "10124012401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-01-24T11:00",
+      "endsAt": "2024-01-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/408"
     }
   ],
   "pickUps": [
@@ -1963,6 +1971,14 @@
       "startsAt": "2023-12-27T19:00",
       "endsAt": "2024-01-10T10:59",
       "url": "https://bluearchive.jp/news/newsJump/394"
+    },
+    {
+      "id": "10324012401",
+      "type": 3,
+      "title": "【イベント】「陽ひらく彼女たちの小夜曲」",
+      "startsAt": "2024-01-24T19:00",
+      "endsAt": "2024-02-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/409"
     }
   ],
   "totalAssults": [
@@ -2453,6 +2469,14 @@
       "startsAt": "2024-01-03T11:00",
       "endsAt": "2024-01-10T03:59",
       "url": "https://bluearchive.jp/news/newsJump/393"
+    },
+    {
+      "id": "10424013101",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ヒエロニムス」",
+      "startsAt": "2024-01-31T11:00",
+      "endsAt": "2024-02-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/408"
     }
   ],
   "jointExcercises": [
