@@ -759,6 +759,14 @@
       "startsAt": "2024-01-26T09:00",
       "endsAt": "2024-01-26T10:00",
       "url": "https://bluearchive.jp/news/newsJump/413"
+    },
+    {
+      "id": "10124020701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-02-07T11:00",
+      "endsAt": "2024-02-07T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/412"
     }
   ],
   "pickUps": [
@@ -1606,7 +1614,7 @@
       "id": "10224020701",
       "type": 2,
       "title": "ピックアップ募集：★3「ハナエ(クリスマス)」、★3「セリナ(クリスマス)」",
-      "startsAt": "2024-02-07T19:00",
+      "startsAt": "2024-02-07T17:00",
       "endsAt": "2024-02-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/411"
     }
@@ -2003,6 +2011,14 @@
       "startsAt": "2024-01-24T19:00",
       "endsAt": "2024-02-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/409"
+    },
+    {
+      "id": "10324020701",
+      "type": 3,
+      "title": "【復刻イベント】「聖堂のメリークリスマス~救護騎士団の贈り物~」",
+      "startsAt": "2024-02-07T17:00",
+      "endsAt": "2024-02-14T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/414"
     }
   ],
   "totalAssults": [
@@ -2679,6 +2695,14 @@
       "startsAt": "2024-01-10T17:00",
       "endsAt": "2024-01-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/399"
+    },
+    {
+      "id": "10524020701",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2024-02-07T17:00",
+      "endsAt": "2024-02-14T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/412"
     }
   ],
   "campaigns": [
@@ -3231,6 +3255,14 @@
       "startsAt": "2024-01-17T11:00",
       "endsAt": "2024-01-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/399"
+    },
+    {
+      "id": "10924021401",
+      "type": 9,
+      "title": "大決戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2024-02-14T11:00",
+      "endsAt": "2024-02-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/412"
     }
   ]
 }
