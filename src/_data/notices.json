@@ -767,6 +767,14 @@
       "startsAt": "2024-02-07T11:00",
       "endsAt": "2024-02-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/412"
+    },
+    {
+      "id": "10124022101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-02-21T11:00",
+      "endsAt": "2024-02-21T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/418"
     }
   ],
   "pickUps": [
@@ -2035,6 +2043,14 @@
       "startsAt": "2024-02-07T17:00",
       "endsAt": "2024-02-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/414"
+    },
+    {
+      "id": "10324022101",
+      "type": 3,
+      "title": "【イベント】「0068 オペラより愛をこめて！」",
+      "startsAt": "2024-02-21T19:00",
+      "endsAt": "2024-03-06T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/419"
     }
   ],
   "totalAssults": [
@@ -2533,6 +2549,14 @@
       "startsAt": "2024-01-31T11:00",
       "endsAt": "2024-02-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/408"
+    },
+    {
+      "id": "10424022801",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ケセド」",
+      "startsAt": "2024-02-28T11:00",
+      "endsAt": "2024-03-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/418"
     }
   ],
   "jointExcercises": [
