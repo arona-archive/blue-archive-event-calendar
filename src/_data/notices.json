@@ -2059,6 +2059,14 @@
       "startsAt": "2024-02-21T19:00",
       "endsAt": "2024-03-06T10:59",
       "url": "https://bluearchive.jp/news/newsJump/419"
+    },
+    {
+      "id": "10324030601",
+      "type": 3,
+      "title": "【復刻イベント】「喰積の 前にいささか ～一番勝負～」",
+      "startsAt": "2024-03-06T19:00",
+      "endsAt": "2024-03-20T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/423"
     }
   ],
   "totalAssults": [
@@ -2751,6 +2759,14 @@
       "startsAt": "2024-02-07T17:00",
       "endsAt": "2024-02-14T03:59",
       "url": "https://bluearchive.jp/news/newsJump/412"
+    },
+    {
+      "id": "10524030601",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2024-03-06T19:00",
+      "endsAt": "2024-03-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/422"
     }
   ],
   "campaigns": [
@@ -3311,6 +3327,14 @@
       "startsAt": "2024-02-14T11:00",
       "endsAt": "2024-02-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/412"
+    },
+    {
+      "id": "10924031301",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ビナー」",
+      "startsAt": "2024-03-13T11:00",
+      "endsAt": "2024-03-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/422"
     }
   ]
 }
