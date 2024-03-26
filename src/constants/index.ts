@@ -74,6 +74,7 @@ export const NOTICE_ID_FILTER: string[] = [
 	'427',
 	'428',
 	'429',
+	'434',
 	'435',
 ];
 
