@@ -775,6 +775,14 @@
       "startsAt": "2024-02-21T11:00",
       "endsAt": "2024-02-21T19:00",
       "url": "https://bluearchive.jp/news/newsJump/418"
+    },
+    {
+      "id": "10124032701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-03-27T11:00",
+      "endsAt": "2024-03-27T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/432"
     }
   ],
   "pickUps": [
@@ -2083,6 +2091,14 @@
       "startsAt": "2024-03-06T19:00",
       "endsAt": "2024-03-20T10:59",
       "url": "https://bluearchive.jp/news/newsJump/423"
+    },
+    {
+      "id": "10324032701",
+      "type": 3,
+      "title": "【イベント】「にぎにぎと ゆきゆきて」",
+      "startsAt": "2024-03-27T19:00",
+      "endsAt": "2024-04-11T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/433"
     }
   ],
   "totalAssults": [
@@ -2589,6 +2605,14 @@
       "startsAt": "2024-02-28T11:00",
       "endsAt": "2024-03-06T03:59",
       "url": "https://bluearchive.jp/news/newsJump/418"
+    },
+    {
+      "id": "10424040301",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ペロロジラ」",
+      "startsAt": "2024-04-03T11:00",
+      "endsAt": "2024-04-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/432"
     }
   ],
   "jointExcercises": [
@@ -3359,6 +3383,16 @@
       "startsAt": "2024-03-13T11:00",
       "endsAt": "2024-03-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/422"
+    }
+  ],
+  "multiFloorRaid": [
+    {
+      "id": "101024032801",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2024-03-28T11:00",
+      "endsAt": "2024-04-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/432"
     }
   ]
 }
