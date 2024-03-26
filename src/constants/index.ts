@@ -88,6 +88,7 @@ export enum NoticeType {
 	LIVE_STREAMS,
 	LIVE_EVENTS,
 	ELIMINATE_RAID,
+	TEMP_RAID, // TODO: rename
 }
 
 export const NoticeTitlePrefixTable: [string, NoticeType][] = [
@@ -99,6 +100,7 @@ export const NoticeTitlePrefixTable: [string, NoticeType][] = [
 	['【イベント】', NoticeType.EVENTS],
 	['【復刻イベント】', NoticeType.EVENTS],
 	['大決戦', NoticeType.ELIMINATE_RAID],
+	['制約解除決戦', NoticeType.TEMP_RAID],
 ];
 
 export enum NoticeCampaignType {
