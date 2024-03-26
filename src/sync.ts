@@ -34,6 +34,9 @@ const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 		case NoticeType.ELIMINATE_RAID: {
 			return 'eliminateRaid';
 		}
+		case NoticeType.MULTI_FLOOR_RAID: {
+			return 'multiFloorRaid';
+		}
 	}
 };
 
