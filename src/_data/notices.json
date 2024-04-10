@@ -783,6 +783,14 @@
       "startsAt": "2024-03-27T11:00",
       "endsAt": "2024-03-27T19:00",
       "url": "https://bluearchive.jp/news/newsJump/432"
+    },
+    {
+      "id": "10124041101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-04-11T11:00",
+      "endsAt": "2024-04-11T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/437"
     }
   ],
   "pickUps": [
@@ -1678,7 +1686,7 @@
       "id": "10224041101",
       "type": 2,
       "title": "ピックアップ募集：★3「カズサ」、★3「レイサ」、★3「ナツ」、★2「マリー」",
-      "startsAt": "2024-04-11T19:00",
+      "startsAt": "2024-04-11T17:00",
       "endsAt": "2024-04-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/436"
     }
@@ -2815,6 +2823,14 @@
       "startsAt": "2024-03-06T19:00",
       "endsAt": "2024-03-13T03:59",
       "url": "https://bluearchive.jp/news/newsJump/422"
+    },
+    {
+      "id": "10524041101",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2024-04-11T17:00",
+      "endsAt": "2024-04-17T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/437"
     }
   ],
   "campaigns": [
@@ -3391,6 +3407,14 @@
       "startsAt": "2024-03-13T11:00",
       "endsAt": "2024-03-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/422"
+    },
+    {
+      "id": "10924041701",
+      "type": 9,
+      "title": "大決戦 「屋内戦・グレゴリオ」",
+      "startsAt": "2024-04-17T11:00",
+      "endsAt": "2024-04-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/437"
     }
   ],
   "multiFloorRaid": [
