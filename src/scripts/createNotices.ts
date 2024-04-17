@@ -53,6 +53,15 @@ export const createNotices = (news: News): Notice[] => {
 		}));
 	}
 
+	if (title.includes('臨時メンテナンス')) {
+		const notices = createMaintenanceNotices(news.id, title, document);
+		return notices.map(({ subId, ...notice }) => ({
+			id: getId(notice.type, notice.startsAt, subId),
+			...notice,
+			url,
+		}));
+	}
+
 	if (title.includes('イベント】')) {
 		const { subId, ...notice } = createEventNotice(document);
 		return [

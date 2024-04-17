@@ -14,7 +14,7 @@ export const sanitizeText = (text: string, isTitle = false): string => {
 	return text;
 };
 
-import { DATE_STR_REGEX, DEFAULT_YEAR, NOTICE_URL, NoticeType } from '../constants';
+import { DATE_STR_REGEX, NOTICE_URL, NoticeType } from '../constants';
 
 export const getId = (type: NoticeType, startsAt: string, subId: number = 1): string => {
 	const date = startsAt.split('T')[0]?.replaceAll('-', '').replace(/^20/, '');
@@ -109,28 +109,78 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 			return `${date}T${time}`;
 		}
 
-		if (endsAtStr.includes('年')) {
-			return convertDate(endsAtStr);
-		}
+		const getEndsAtYear = () => {
+			const YEAR_REGEX = /(\d+)年/;
+			{
+				const match = endsAtStr.match(YEAR_REGEX);
+				if (match) {
+					return match[1];
+				}
+			}
+			{
+				const match = startsAtStr.match(YEAR_REGEX);
+				if (match) {
+					return match[1];
+				}
+			}
+			throw new Error(`cannot find year of ends at: ${startsAtStr}, ${endsAtStr}`);
+		};
 
-		const p = new Date(startsAt).getTime();
-		for (let i = 0; i < 10; ++i) {
-			const year = DEFAULT_YEAR + i;
+		const getEndsAtMonth = () => {
+			const MONTH_REGEX = /(\d+)月/;
+			{
+				const match = endsAtStr.match(MONTH_REGEX);
+				if (match) {
+					return match[1];
+				}
+			}
+			{
+				const match = startsAtStr.match(MONTH_REGEX);
+				if (match) {
+					return match[1];
+				}
+			}
+			throw new Error(`cannot find year of ends at: ${startsAtStr}, ${endsAtStr}`);
+		};
 
-			const endsAt = convertDate(`${year}年${endsAtStr}`);
-			if (!endsAt) {
-				return null;
+		const getEndsAtDate = () => {
+			const DATE_REGEX = /(\d+)日/;
+			{
+				const match = endsAtStr.match(DATE_REGEX);
+				if (match) {
+					return match[1];
+				}
+			}
+			{
+				const match = startsAtStr.match(DATE_REGEX);
+				if (match) {
+					return match[1];
+				}
+			}
+			throw new Error(`cannot find year of ends at: ${startsAtStr}, ${endsAtStr}`);
+		};
+
+		const getEndsAt = (prefix: string): string | null => {
+			const tempEndsAtStr = `${prefix}${endsAtStr}`;
+			if (tempEndsAtStr.includes('年')) {
+				if (tempEndsAtStr.includes('月')) {
+					if (tempEndsAtStr.includes('日')) {
+						return convertDate(tempEndsAtStr);
+					}
+
+					const date = getEndsAtDate();
+					return getEndsAt(`${prefix}${date}日`);
+				}
+
+				const month = getEndsAtMonth();
+				return getEndsAt(`${prefix}${month}月`);
 			}
 
-			const q = new Date(endsAt).getTime();
-			if (q < p) {
-				continue;
-			}
+			const year = getEndsAtYear();
+			return getEndsAt(`${prefix}${year}年`);
+		};
 
-			return endsAt;
-		}
-
-		return null;
+		return getEndsAt('');
 	};
 	const endsAt = getEndsAt();
 	if (!endsAt) {
