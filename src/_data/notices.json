@@ -807,6 +807,14 @@
       "startsAt": "2024-04-22T11:00",
       "endsAt": "2024-04-22T17:00",
       "url": "https://bluearchive.jp/news/newsJump/443"
+    },
+    {
+      "id": "10124042401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-04-24T11:00",
+      "endsAt": "2024-04-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/441"
     }
   ],
   "pickUps": [
@@ -2147,6 +2155,14 @@
       "startsAt": "2024-03-27T19:00",
       "endsAt": "2024-04-11T10:59",
       "url": "https://bluearchive.jp/news/newsJump/433"
+    },
+    {
+      "id": "10324042401",
+      "type": 3,
+      "title": "【イベント】「-ive aLIVE!」",
+      "startsAt": "2024-04-24T19:00",
+      "endsAt": "2024-05-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/442"
     }
   ],
   "totalAssults": [
@@ -2661,6 +2677,14 @@
       "startsAt": "2024-04-03T11:00",
       "endsAt": "2024-04-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/432"
+    },
+    {
+      "id": "10424050101",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ホド」",
+      "startsAt": "2024-05-01T11:00",
+      "endsAt": "2024-05-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/441"
     }
   ],
   "jointExcercises": [
@@ -3465,6 +3489,14 @@
       "startsAt": "2024-03-28T11:00",
       "endsAt": "2024-04-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/432"
+    },
+    {
+      "id": "101024042501",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2024-04-25T11:00",
+      "endsAt": "2024-05-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/441"
     }
   ]
 }
