@@ -823,6 +823,14 @@
       "startsAt": "2024-04-27T11:00",
       "endsAt": "2024-04-27T19:00",
       "url": "https://bluearchive.jp/news/newsJump/448"
+    },
+    {
+      "id": "10124050801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-05-08T11:00",
+      "endsAt": "2024-05-08T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/450"
     }
   ],
   "pickUps": [
@@ -1742,7 +1750,7 @@
       "id": "10224050801",
       "type": 2,
       "title": "ピックアップ募集：★3「キララ」、★3「カエデ」、★3「ツクヨ」、★3「カホ」",
-      "startsAt": "2024-05-08T19:00",
+      "startsAt": "2024-05-08T17:00",
       "endsAt": "2024-05-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/449"
     }
@@ -2903,6 +2911,14 @@
       "startsAt": "2024-04-11T17:00",
       "endsAt": "2024-04-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/437"
+    },
+    {
+      "id": "10524050801",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2024-05-08T17:00",
+      "endsAt": "2024-05-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/450"
     }
   ],
   "campaigns": [
@@ -3495,6 +3511,14 @@
       "startsAt": "2024-04-17T11:00",
       "endsAt": "2024-04-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/437"
+    },
+    {
+      "id": "10924051501",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2024-05-15T11:00",
+      "endsAt": "2024-05-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/450"
     }
   ],
   "multiFloorRaid": [
