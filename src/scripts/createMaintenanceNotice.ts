@@ -83,7 +83,7 @@ const createCampaignNotices = (elements: Element[], multiplier: number): NoticeP
 	return sections.map((section) => createCampaignNotice(section, multiplier));
 };
 
-const createNotice = (id: string, title: string, elements: Element[]): NoticeParams[] => {
+const createNotice = (id: number, title: string, elements: Element[]): NoticeParams[] => {
 	{
 		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施時間'));
 		if (index !== -1) {
@@ -170,7 +170,7 @@ const createNotice = (id: string, title: string, elements: Element[]): NoticePar
 				});
 				const [startsAt, endsAt] = getDateRange(elements, index);
 
-				if (id === '384' && type === NoticeType.TOTAL_ASSULTS) {
+				if (id === 384 && type === NoticeType.TOTAL_ASSULTS) {
 					return [
 						{
 							type,
@@ -196,7 +196,7 @@ const createNotice = (id: string, title: string, elements: Element[]): NoticePar
 	return [];
 };
 
-export const createMaintenanceNotices = (id: string, title: string, document: Document): NoticeParams[] => {
+export const createMaintenanceNotices = (id: number, title: string, document: Document): NoticeParams[] => {
 	const elements = Array.from(document.querySelectorAll('body > *'));
 
 	if (elements.length === 0) {

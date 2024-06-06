@@ -1,8 +1,8 @@
 import { NoticeType } from '../constants';
 import { NoticeParams } from '../types';
 
-export const createLiveEventNotice = (id: string): NoticeParams[] => {
-	if (id === '276') {
+export const createLiveEventNotice = (id: number): NoticeParams[] => {
+	if (id === 276) {
 		return [
 			{
 				type: NoticeType.LIVE_EVENTS,
@@ -34,7 +34,7 @@ export const createLiveEventNotice = (id: string): NoticeParams[] => {
 		];
 	}
 
-	if (id === '378') {
+	if (id === 378) {
 		return [
 			{
 				type: NoticeType.LIVE_EVENTS,

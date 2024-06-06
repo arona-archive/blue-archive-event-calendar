@@ -109,7 +109,7 @@ const main = async () => {
 
 	const news = await fetchNews();
 
-	const notices = exportNotices(news.data.items);
+	const notices = exportNotices(news.data.rows);
 	await exportJson(notices, dataPath, 'notices.json');
 };
 

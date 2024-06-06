@@ -24,7 +24,7 @@ export const getId = (type: NoticeType, startsAt: string, subId: number = 1): st
 	return `10${type}${date}${`${subId}`.padStart(2, '0')}`;
 };
 
-export const convertUrl = (id: string): string => {
+export const convertUrl = (id: number): string => {
 	return `${NOTICE_URL}/${id}`;
 };
 

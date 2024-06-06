@@ -1,15 +1,12 @@
 import { NoticeType } from '../constants';
 
 export interface News {
-	id: string;
+	id: number;
 	title: string;
-	category: number;
-	content: NewsContent[];
-	lang: string;
-	highlight: number;
-	publishedAt: string;
-	ext1: string;
-	ext2: null;
+	summary: string;
+	content: string;
+	typeId: number;
+	publishedTime: string;
 }
 
 export interface NewsContent {

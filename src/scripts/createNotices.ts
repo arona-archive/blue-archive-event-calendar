@@ -9,7 +9,7 @@ import { createMaintenanceNotices } from './createMaintenanceNotice';
 import { createPickUpNotice } from './createPickUpNotice';
 
 export const createNotices = (news: News): Notice[] => {
-	const title = sanitizeText(news.ext1);
+	const title = sanitizeText(news.summary);
 
 	if (NOTICE_ID_FILTER.includes(news.id)) {
 		return [];
@@ -24,12 +24,12 @@ export const createNotices = (news: News): Notice[] => {
 
 	console.log('title', news.id, title);
 
-	const content = news.content[0];
+	const content = news.content;
 	if (!content) {
 		throw new Error('cannot find content');
 	}
 
-	const document = new JSDOM(content.value).window.document;
+	const document = new JSDOM(content).window.document;
 
 	const url = convertUrl(news.id);
 
