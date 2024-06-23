@@ -109,6 +109,12 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 			return `${date}T${time}`;
 		}
 
+		if (endsAtStr.endsWith('（予定）')) {
+			const date = startsAt.split('T')[0];
+			const time = endsAtStr.split('（')[0];
+			return `${date}T${time}`;
+		}
+
 		const getEndsAtYear = () => {
 			const YEAR_REGEX = /(\d+)年/;
 			{

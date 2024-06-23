@@ -24,20 +24,16 @@ export const createLiveStreamNotice = (_title: string, document: Document): Noti
 	const title = getTitle(_title);
 
 	const getDateRange = (): [string, string] => {
-		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼配信'));
-		const getDateRangeEl = () => {
-			const text = elements[index]?.textContent?.trim();
+		const texts = elements.flatMap((element) => element.innerHTML.split('<br>')).map((text) => text.trim());
+		const index = texts.findIndex((text) => text.startsWith('▼配信') || text.includes('▼開催'));
+		const getDateRangeStr = () => {
+			const text = texts[index];
 			if (text?.match(DATE_STR_REGEX)) {
-				return elements[index];
+				return texts[index];
 			}
-			return elements[index + 1];
+			return texts[index + 1];
 		};
-		const dateRangeEl = getDateRangeEl();
-		if (!dateRangeEl) {
-			throw new Error('cannot find date range element');
-		}
-
-		const dateRangeStr = dateRangeEl.textContent?.trim();
+		const dateRangeStr = getDateRangeStr();
 		if (!dateRangeStr) {
 			throw new Error('cannot find date range string');
 		}
