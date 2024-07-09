@@ -855,6 +855,14 @@
       "startsAt": "2024-06-26T11:00",
       "endsAt": "2024-06-26T19:00",
       "url": "https://bluearchive.jp/news/newsJump/460"
+    },
+    {
+      "id": "10124071001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-07-10T11:00",
+      "endsAt": "2024-07-10T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/465"
     }
   ],
   "pickUps": [
@@ -1822,7 +1830,7 @@
       "id": "10224071001",
       "type": 2,
       "title": "ピックアップ募集：★3「モエ(水着)」、★3「ミヤコ(水着)」、★3「サキ(水着)」",
-      "startsAt": "2024-07-10T19:00",
+      "startsAt": "2024-07-10T17:00",
       "endsAt": "2024-07-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/464"
     }
@@ -2283,6 +2291,14 @@
       "startsAt": "2024-06-26T19:00",
       "endsAt": "2024-07-10T10:59",
       "url": "https://bluearchive.jp/news/newsJump/461"
+    },
+    {
+      "id": "10324071001",
+      "type": 3,
+      "title": "【復刻イベント】「夏の特殊作戦！RABBIT小隊と消えたエビの謎」",
+      "startsAt": "2024-07-10T17:00",
+      "endsAt": "2024-07-17T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/466"
     }
   ],
   "totalAssults": [
@@ -3039,6 +3055,14 @@
       "startsAt": "2024-06-05T17:00",
       "endsAt": "2024-06-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/457"
+    },
+    {
+      "id": "10524071001",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2024-07-10T17:00",
+      "endsAt": "2024-07-17T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/465"
     }
   ],
   "campaigns": [
@@ -3663,6 +3687,14 @@
       "startsAt": "2024-06-12T11:00",
       "endsAt": "2024-06-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/457"
+    },
+    {
+      "id": "10924071701",
+      "type": 9,
+      "title": "大決戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2024-07-17T11:00",
+      "endsAt": "2024-07-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/465"
     }
   ],
   "multiFloorRaid": [
