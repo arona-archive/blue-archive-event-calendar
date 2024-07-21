@@ -863,6 +863,14 @@
       "startsAt": "2024-07-10T11:00",
       "endsAt": "2024-07-10T17:00",
       "url": "https://bluearchive.jp/news/newsJump/465"
+    },
+    {
+      "id": "10124072201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-07-22T11:00",
+      "endsAt": "2024-07-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/469"
     }
   ],
   "pickUps": [
@@ -2307,6 +2315,14 @@
       "startsAt": "2024-07-10T17:00",
       "endsAt": "2024-07-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/466"
+    },
+    {
+      "id": "10324072201",
+      "type": 3,
+      "title": "【イベント】「Sheside outside」",
+      "startsAt": "2024-07-22T19:00",
+      "endsAt": "2024-08-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/470"
     }
   ],
   "totalAssults": [
@@ -2845,6 +2861,14 @@
       "startsAt": "2024-07-03T11:00",
       "endsAt": "2024-07-10T03:59",
       "url": "https://bluearchive.jp/news/newsJump/460"
+    },
+    {
+      "id": "10424073101",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2024-07-31T11:00",
+      "endsAt": "2024-08-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/469"
     }
   ],
   "jointExcercises": [
@@ -3737,6 +3761,14 @@
       "startsAt": "2024-06-27T11:00",
       "endsAt": "2024-07-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/460"
+    },
+    {
+      "id": "101024072301",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2024-07-23T11:00",
+      "endsAt": "2024-08-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/469"
     }
   ]
 }
