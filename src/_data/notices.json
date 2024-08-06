@@ -871,6 +871,14 @@
       "startsAt": "2024-07-22T11:00",
       "endsAt": "2024-07-22T19:00",
       "url": "https://bluearchive.jp/news/newsJump/469"
+    },
+    {
+      "id": "10124080701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-08-07T11:00",
+      "endsAt": "2024-08-07T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/474"
     }
   ],
   "pickUps": [
@@ -1870,7 +1878,7 @@
       "id": "10224080701",
       "type": 2,
       "title": "ピックアップ募集：★3「メル」、★2「モミジ」、★3「チェリノ」、★3「マリナ」",
-      "startsAt": "2024-08-07T19:00",
+      "startsAt": "2024-08-07T17:00",
       "endsAt": "2024-08-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/473"
     }
@@ -2347,6 +2355,14 @@
       "startsAt": "2024-07-22T19:00",
       "endsAt": "2024-08-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/470"
+    },
+    {
+      "id": "10324080701",
+      "type": 3,
+      "title": "【復刻イベント】「学漫同人物語 ～2人が求める最終回～」",
+      "startsAt": "2024-08-07T17:00",
+      "endsAt": "2024-08-14T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/475"
     }
   ],
   "totalAssults": [
@@ -3119,6 +3135,14 @@
       "startsAt": "2024-07-10T17:00",
       "endsAt": "2024-07-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/465"
+    },
+    {
+      "id": "10524080701",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2024-08-07T17:00",
+      "endsAt": "2024-08-14T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/474"
     }
   ],
   "campaigns": [
@@ -3751,6 +3775,14 @@
       "startsAt": "2024-07-17T11:00",
       "endsAt": "2024-07-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/465"
+    },
+    {
+      "id": "10924081401",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ゴズ」",
+      "startsAt": "2024-08-14T11:00",
+      "endsAt": "2024-08-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/474"
     }
   ],
   "multiFloorRaid": [
