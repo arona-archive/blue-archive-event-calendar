@@ -879,6 +879,14 @@
       "startsAt": "2024-08-07T11:00",
       "endsAt": "2024-08-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/474"
+    },
+    {
+      "id": "10124082101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-08-21T11:00",
+      "endsAt": "2024-08-21T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/479"
     }
   ],
   "pickUps": [
@@ -2379,6 +2387,14 @@
       "startsAt": "2024-08-07T17:00",
       "endsAt": "2024-08-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/475"
+    },
+    {
+      "id": "10324082101",
+      "type": 3,
+      "title": "【イベント】「月華夢騒」",
+      "startsAt": "2024-08-21T19:00",
+      "endsAt": "2024-09-04T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/480"
     }
   ],
   "totalAssults": [
@@ -2925,6 +2941,14 @@
       "startsAt": "2024-07-31T11:00",
       "endsAt": "2024-08-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/469"
+    },
+    {
+      "id": "10424082801",
+      "type": 4,
+      "title": "総力戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2024-08-28T11:00",
+      "endsAt": "2024-09-04T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/479"
     }
   ],
   "jointExcercises": [
@@ -3841,6 +3865,14 @@
       "startsAt": "2024-07-23T11:00",
       "endsAt": "2024-08-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/469"
+    },
+    {
+      "id": "101024082201",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2024-08-22T11:00",
+      "endsAt": "2024-09-25T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/479"
     }
   ]
 }
