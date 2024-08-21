@@ -85,7 +85,10 @@ const getTempEndsAt = (startsAt: string): string | null => {
 };
 
 export const convertDateRange = (dateRangeStr: string): [string, string] => {
-	const [startsAtStr, endsAtStr] = dateRangeStr.split('~').map((x) => x.trim());
+	const [startsAtStr, endsAtStr] = dateRangeStr
+		.replace('2024月9月', '2024年9月') // temp
+		.split('~')
+		.map((x) => x.trim());
 	if (!startsAtStr) {
 		throw new Error('cannot find starts at string');
 	}
