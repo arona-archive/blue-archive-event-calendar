@@ -887,6 +887,14 @@
       "startsAt": "2024-08-21T11:00",
       "endsAt": "2024-08-21T19:00",
       "url": "https://bluearchive.jp/news/newsJump/479"
+    },
+    {
+      "id": "10124090401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-09-04T11:00",
+      "endsAt": "2024-09-04T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/482"
     }
   ],
   "pickUps": [
@@ -1910,7 +1918,7 @@
       "id": "10224090401",
       "type": 2,
       "title": "ピックアップ募集：★3「ウイ(水着)」、★3「ヒナタ(水着)」、★3「イロハ」、★3「ミユ」",
-      "startsAt": "2024-09-04T19:00",
+      "startsAt": "2024-09-04T17:00",
       "endsAt": "2024-09-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/481"
     }
@@ -2403,6 +2411,14 @@
       "startsAt": "2024-08-21T19:00",
       "endsAt": "2024-09-04T10:59",
       "url": "https://bluearchive.jp/news/newsJump/480"
+    },
+    {
+      "id": "10324090401",
+      "type": 3,
+      "title": "【復刻イベント】「隠されし遺産を求めて ～トリニティの課外活動～」",
+      "startsAt": "2024-09-04T17:00",
+      "endsAt": "2024-09-18T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/483"
     }
   ],
   "totalAssults": [
@@ -3191,6 +3207,14 @@
       "startsAt": "2024-08-07T17:00",
       "endsAt": "2024-08-14T03:59",
       "url": "https://bluearchive.jp/news/newsJump/474"
+    },
+    {
+      "id": "10524090401",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2024-09-04T17:00",
+      "endsAt": "2024-09-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/482"
     }
   ],
   "campaigns": [
@@ -3831,6 +3855,14 @@
       "startsAt": "2024-08-14T11:00",
       "endsAt": "2024-08-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/474"
+    },
+    {
+      "id": "10924091101",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2024-09-11T11:00",
+      "endsAt": "2024-09-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/482"
     }
   ],
   "multiFloorRaid": [
