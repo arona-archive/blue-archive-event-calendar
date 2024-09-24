@@ -87,6 +87,7 @@ const getTempEndsAt = (startsAt: string): string | null => {
 export const convertDateRange = (dateRangeStr: string): [string, string] => {
 	const [startsAtStr, endsAtStr] = dateRangeStr
 		.replace('2024月9月', '2024年9月') // temp
+		.replace('2024月10月', '2024年10月') // temp
 		.split('~')
 		.map((x) => x.trim());
 	if (!startsAtStr) {
