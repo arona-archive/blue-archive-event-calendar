@@ -903,6 +903,14 @@
       "startsAt": "2024-09-25T11:00",
       "endsAt": "2024-09-25T19:00",
       "url": "https://bluearchive.jp/news/newsJump/486"
+    },
+    {
+      "id": "10124101001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-10-10T11:00",
+      "endsAt": "2024-10-10T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/489"
     }
   ],
   "pickUps": [
@@ -1950,7 +1958,7 @@
       "id": "10224101001",
       "type": 2,
       "title": "ピックアップ募集：★3「アズサ(水着)」、★3「マシロ(水着)」、★3 「ヒフミ(水着)」",
-      "startsAt": "2024-10-10T19:00",
+      "startsAt": "2024-10-10T17:00",
       "endsAt": "2024-10-16T10:59",
       "url": "https://bluearchive.jp/news/newsJump/488"
     }
@@ -3263,6 +3271,14 @@
       "startsAt": "2024-09-04T17:00",
       "endsAt": "2024-09-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/482"
+    },
+    {
+      "id": "10524101001",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2024-10-10T17:00",
+      "endsAt": "2024-10-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/489"
     }
   ],
   "campaigns": [
@@ -3911,6 +3927,14 @@
       "startsAt": "2024-09-11T11:00",
       "endsAt": "2024-09-18T03:59",
       "url": "https://bluearchive.jp/news/newsJump/482"
+    },
+    {
+      "id": "10924101601",
+      "type": 9,
+      "title": "大決戦 「市街地戦・クロカゲ」",
+      "startsAt": "2024-10-16T11:00",
+      "endsAt": "2024-10-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/489"
     }
   ],
   "multiFloorRaid": [
