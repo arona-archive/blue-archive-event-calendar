@@ -3787,6 +3787,78 @@
       "startsAt": "2024-10-20T19:00",
       "endsAt": "2024-10-20T21:00",
       "url": "https://bluearchive.jp/news/newsJump/491"
+    },
+    {
+      "id": "10725011701",
+      "type": 7,
+      "title": "「ブルアカふぇす！すたーと！」",
+      "startsAt": "2025-01-17T10:00",
+      "endsAt": "2025-01-17T11:15",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011702",
+      "type": 7,
+      "title": "「みんなで振り返ろう！ブルアカひすとりー！」",
+      "startsAt": "2025-01-17T11:45",
+      "endsAt": "2025-01-17T14:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011703",
+      "type": 7,
+      "title": "「ブルアカふぇす！スペシャルDJステージ！Day1」",
+      "startsAt": "2025-01-17T15:00",
+      "endsAt": "2025-01-17T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011801",
+      "type": 7,
+      "title": "「先生、僕たちにもお時間いただけますか？2025」",
+      "startsAt": "2025-01-18T10:00",
+      "endsAt": "2025-01-18T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011802",
+      "type": 7,
+      "title": "「ブルアカふぇす！スペシャルDJステージ！Day2」",
+      "startsAt": "2025-01-18T13:00",
+      "endsAt": "2025-01-18T14:30",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011803",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ふぉーすあにばSP！Part1」",
+      "startsAt": "2025-01-18T15:30",
+      "endsAt": "2025-01-18T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011901",
+      "type": 7,
+      "title": "「計算通り完璧ー♪数字から見るブルーアーカイブ！」",
+      "startsAt": "2025-01-19T10:00",
+      "endsAt": "2025-01-19T12:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011902",
+      "type": 7,
+      "title": "「ブルアカふぇす！スペシャルDJステージ！Day3」",
+      "startsAt": "2025-01-19T12:45",
+      "endsAt": "2025-01-19T14:15",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725011903",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ふぉーすあにばSP！Part2」",
+      "startsAt": "2025-01-19T15:00",
+      "endsAt": "2025-01-19T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
     }
   ],
   "liveEvents": [
@@ -3813,6 +3885,30 @@
       "startsAt": "2024-01-21T09:00",
       "endsAt": "2024-01-21T18:00",
       "url": "https://bluearchive.jp/news/newsJump/378"
+    },
+    {
+      "id": "10825011701",
+      "type": 8,
+      "title": "「ブルアカふぇす！～4えばーちゃれんじ♪～」",
+      "startsAt": "2025-01-17T09:00",
+      "endsAt": "2025-01-17T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10825011801",
+      "type": 8,
+      "title": "「ブルアカふぇす！～4えばーちゃれんじ♪～」",
+      "startsAt": "2025-01-18T09:00",
+      "endsAt": "2025-01-18T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10825011901",
+      "type": 8,
+      "title": "「ブルアカふぇす！～4えばーちゃれんじ♪～」",
+      "startsAt": "2025-01-19T09:00",
+      "endsAt": "2025-01-19T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/495"
     }
   ],
   "eliminateRaid": [
