@@ -147,6 +147,9 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 				if (title.includes('シャーレの総決算with連邦生徒会')) {
 					return [];
 				}
+				if (title.includes('特殊調査')) {
+					return [];
+				}
 
 				const getType = (): NoticeType | null => {
 					for (const [prefix, type] of NoticeTitlePrefixTable) {
