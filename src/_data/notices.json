@@ -919,6 +919,14 @@
       "startsAt": "2024-10-23T11:00",
       "endsAt": "2024-10-23T19:00",
       "url": "https://bluearchive.jp/news/newsJump/493"
+    },
+    {
+      "id": "10124110601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-11-06T11:00",
+      "endsAt": "2024-11-06T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/497"
     }
   ],
   "pickUps": [
@@ -1990,7 +1998,7 @@
       "id": "10224110601",
       "type": 2,
       "title": "ピックアップ募集：★3「ヒナタ」、★3「サオリ」",
-      "startsAt": "2024-11-06T19:00",
+      "startsAt": "2024-11-06T17:00",
       "endsAt": "2024-11-13T10:59",
       "url": "https://bluearchive.jp/news/newsJump/496"
     }
@@ -3327,6 +3335,14 @@
       "startsAt": "2024-10-10T17:00",
       "endsAt": "2024-10-16T03:59",
       "url": "https://bluearchive.jp/news/newsJump/489"
+    },
+    {
+      "id": "10524110601",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2024-11-06T17:00",
+      "endsAt": "2024-11-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/497"
     }
   ],
   "campaigns": [
@@ -4087,6 +4103,14 @@
       "startsAt": "2024-10-16T11:00",
       "endsAt": "2024-10-23T03:59",
       "url": "https://bluearchive.jp/news/newsJump/489"
+    },
+    {
+      "id": "10924111301",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ケセド」",
+      "startsAt": "2024-11-13T11:00",
+      "endsAt": "2024-11-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/497"
     }
   ],
   "multiFloorRaid": [
