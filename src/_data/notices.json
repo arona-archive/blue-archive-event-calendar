@@ -927,6 +927,14 @@
       "startsAt": "2024-11-06T11:00",
       "endsAt": "2024-11-06T17:00",
       "url": "https://bluearchive.jp/news/newsJump/497"
+    },
+    {
+      "id": "10124112001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-11-20T11:00",
+      "endsAt": "2024-11-20T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/500"
     }
   ],
   "pickUps": [
@@ -2531,6 +2539,14 @@
       "startsAt": "2024-10-23T19:00",
       "endsAt": "2024-11-06T10:59",
       "url": "https://bluearchive.jp/news/newsJump/494"
+    },
+    {
+      "id": "10324112001",
+      "type": 3,
+      "title": "【復刻イベント】「陽ひらく彼女たちの小夜曲」",
+      "startsAt": "2024-11-20T19:00",
+      "endsAt": "2024-12-04T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/501"
     }
   ],
   "totalAssults": [
@@ -3101,6 +3117,14 @@
       "startsAt": "2024-10-30T11:00",
       "endsAt": "2024-11-06T03:59",
       "url": "https://bluearchive.jp/news/newsJump/493"
+    },
+    {
+      "id": "10424112701",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2024-11-27T11:00",
+      "endsAt": "2024-12-04T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/500"
     }
   ],
   "jointExcercises": [
@@ -4193,6 +4217,14 @@
       "startsAt": "2024-10-24T11:00",
       "endsAt": "2024-11-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/493"
+    },
+    {
+      "id": "101024112101",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2024-11-21T11:00",
+      "endsAt": "2024-12-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/500"
     }
   ]
 }
