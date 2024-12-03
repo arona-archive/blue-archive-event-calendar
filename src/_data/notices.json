@@ -935,6 +935,14 @@
       "startsAt": "2024-11-20T11:00",
       "endsAt": "2024-11-20T19:00",
       "url": "https://bluearchive.jp/news/newsJump/500"
+    },
+    {
+      "id": "10124120401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-12-04T11:00",
+      "endsAt": "2024-12-04T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/503"
     }
   ],
   "pickUps": [
@@ -2030,7 +2038,7 @@
       "id": "10224120401",
       "type": 2,
       "title": "ピックアップ募集：★3「カスミ」、★3「イチカ」、★3「イオリ」、★3「メグ」",
-      "startsAt": "2024-12-04T19:00",
+      "startsAt": "2024-12-04T17:00",
       "endsAt": "2024-12-11T10:59",
       "url": "https://bluearchive.jp/news/newsJump/502"
     }
@@ -2555,6 +2563,14 @@
       "startsAt": "2024-11-20T19:00",
       "endsAt": "2024-12-04T10:59",
       "url": "https://bluearchive.jp/news/newsJump/501"
+    },
+    {
+      "id": "10324120401",
+      "type": 3,
+      "title": "【復刻イベント】「Trip-Trap-Train」",
+      "startsAt": "2024-12-04T17:00",
+      "endsAt": "2024-12-11T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/504"
     }
   ],
   "totalAssults": [
@@ -3391,6 +3407,14 @@
       "startsAt": "2024-11-06T17:00",
       "endsAt": "2024-11-13T03:59",
       "url": "https://bluearchive.jp/news/newsJump/497"
+    },
+    {
+      "id": "10524120401",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2024-12-04T17:00",
+      "endsAt": "2024-12-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/503"
     }
   ],
   "campaigns": [
@@ -4159,6 +4183,14 @@
       "startsAt": "2024-11-13T11:00",
       "endsAt": "2024-11-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/497"
+    },
+    {
+      "id": "10924121101",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ビナー」",
+      "startsAt": "2024-12-11T11:00",
+      "endsAt": "2024-12-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/503"
     }
   ],
   "multiFloorRaid": [
