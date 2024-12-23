@@ -951,6 +951,14 @@
       "startsAt": "2024-12-11T11:00",
       "endsAt": "2024-12-11T17:00",
       "url": "https://bluearchive.jp/news/newsJump/505"
+    },
+    {
+      "id": "10124122401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2024-12-24T11:00",
+      "endsAt": "2024-12-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/510"
     }
   ],
   "pickUps": [
@@ -2603,6 +2611,14 @@
       "startsAt": "2024-12-04T17:00",
       "endsAt": "2024-12-11T10:59",
       "url": "https://bluearchive.jp/news/newsJump/504"
+    },
+    {
+      "id": "10324122401",
+      "type": 3,
+      "title": "【イベント】「秘密のミッドナイトパーティー ～オニの手は鐘と共に～」",
+      "startsAt": "2024-12-24T19:00",
+      "endsAt": "2025-01-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/511"
     }
   ],
   "totalAssults": [
@@ -3181,6 +3197,14 @@
       "startsAt": "2024-11-27T11:00",
       "endsAt": "2024-12-04T03:59",
       "url": "https://bluearchive.jp/news/newsJump/500"
+    },
+    {
+      "id": "10425010101",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ホバークラフト」",
+      "startsAt": "2025-01-01T11:00",
+      "endsAt": "2025-01-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/510"
     }
   ],
   "jointExcercises": [
@@ -4305,6 +4329,14 @@
       "startsAt": "2024-11-21T11:00",
       "endsAt": "2024-12-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/500"
+    },
+    {
+      "id": "101024122501",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2024-12-25T11:00",
+      "endsAt": "2025-01-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/510"
     }
   ]
 }
