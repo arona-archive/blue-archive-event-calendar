@@ -959,6 +959,14 @@
       "startsAt": "2024-12-24T11:00",
       "endsAt": "2024-12-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/510"
+    },
+    {
+      "id": "10125010801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-01-08T11:00",
+      "endsAt": "2025-01-08T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/514"
     }
   ],
   "pickUps": [
@@ -2086,7 +2094,7 @@
       "id": "10225010801",
       "type": 2,
       "title": "ピックアップ募集：★3「アル(正月)」、★3「ムツキ(正月)」、★3「カヨコ(正月)」、★3「ハルカ(正月)」",
-      "startsAt": "2025-01-08T19:00",
+      "startsAt": "2025-01-08T17:00",
       "endsAt": "2025-01-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/513"
     }
@@ -3479,6 +3487,14 @@
       "startsAt": "2024-12-04T17:00",
       "endsAt": "2024-12-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/503"
+    },
+    {
+      "id": "10525010801",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2025-01-08T17:00",
+      "endsAt": "2025-01-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/514"
     }
   ],
   "campaigns": [
@@ -4263,6 +4279,14 @@
       "startsAt": "2024-12-11T11:00",
       "endsAt": "2024-12-18T03:59",
       "url": "https://bluearchive.jp/news/newsJump/503"
+    },
+    {
+      "id": "10925011501",
+      "type": 9,
+      "title": "大決戦 「市街地戦・KAITEN FX Mk.0」",
+      "startsAt": "2025-01-15T11:00",
+      "endsAt": "2025-01-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/514"
     }
   ],
   "multiFloorRaid": [
