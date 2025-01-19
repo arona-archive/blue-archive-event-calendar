@@ -967,6 +967,14 @@
       "startsAt": "2025-01-08T11:00",
       "endsAt": "2025-01-08T17:00",
       "url": "https://bluearchive.jp/news/newsJump/514"
+    },
+    {
+      "id": "10125012001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-01-20T11:00",
+      "endsAt": "2025-01-20T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/518"
     }
   ],
   "pickUps": [
@@ -2643,6 +2651,14 @@
       "startsAt": "2024-12-24T19:00",
       "endsAt": "2025-01-08T10:59",
       "url": "https://bluearchive.jp/news/newsJump/511"
+    },
+    {
+      "id": "10325012001",
+      "type": 3,
+      "title": "【イベント】「Code: BOX ミレニアムに迫る影 ～一つの問いと二つの答え～」",
+      "startsAt": "2025-01-20T19:00",
+      "endsAt": "2025-02-03T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/520"
     }
   ],
   "totalAssults": [
@@ -3229,6 +3245,14 @@
       "startsAt": "2025-01-01T11:00",
       "endsAt": "2025-01-08T03:59",
       "url": "https://bluearchive.jp/news/newsJump/510"
+    },
+    {
+      "id": "10425012701",
+      "type": 4,
+      "title": "新総力戦 「屋外戦・ゲブラ」",
+      "startsAt": "2025-01-27T11:00",
+      "endsAt": "2025-02-03T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/518"
     }
   ],
   "jointExcercises": [
@@ -4377,6 +4401,14 @@
       "startsAt": "2024-12-25T11:00",
       "endsAt": "2025-01-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/510"
+    },
+    {
+      "id": "101025012101",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2025-01-21T11:00",
+      "endsAt": "2025-02-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/518"
     }
   ]
 }
