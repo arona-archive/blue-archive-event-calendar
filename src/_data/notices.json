@@ -975,6 +975,14 @@
       "startsAt": "2025-01-20T11:00",
       "endsAt": "2025-01-20T19:00",
       "url": "https://bluearchive.jp/news/newsJump/518"
+    },
+    {
+      "id": "10125020301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-02-03T11:00",
+      "endsAt": "2025-02-03T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/526"
     }
   ],
   "pickUps": [
@@ -2134,7 +2142,7 @@
       "id": "10225020301",
       "type": 2,
       "title": "ピックアップ募集：★3「ヒマリ」、★3「エイミ(水着)」",
-      "startsAt": "2025-02-03T19:00",
+      "startsAt": "2025-02-03T17:00",
       "endsAt": "2025-02-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/525"
     }
@@ -2683,6 +2691,14 @@
       "startsAt": "2025-01-20T19:00",
       "endsAt": "2025-02-03T10:59",
       "url": "https://bluearchive.jp/news/newsJump/520"
+    },
+    {
+      "id": "10325021201",
+      "title": "スペシャルイベント「バレンタインの約束」",
+      "type": 3,
+      "startsAt": "2025-02-12T11:00",
+      "endsAt": "2025-02-26T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/526"
     }
   ],
   "totalAssults": [
@@ -3551,6 +3567,14 @@
       "startsAt": "2025-01-08T17:00",
       "endsAt": "2025-01-15T03:59",
       "url": "https://bluearchive.jp/news/newsJump/514"
+    },
+    {
+      "id": "10525020301",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2025-02-03T17:00",
+      "endsAt": "2025-02-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/526"
     }
   ],
   "campaigns": [
@@ -4343,6 +4367,14 @@
       "startsAt": "2025-01-15T11:00",
       "endsAt": "2025-01-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/514"
+    },
+    {
+      "id": "10925021201",
+      "type": 9,
+      "title": "大決戦 「屋内戦・グレゴリオ」",
+      "startsAt": "2025-02-12T11:00",
+      "endsAt": "2025-02-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/526"
     }
   ],
   "multiFloorRaid": [
