@@ -150,6 +150,16 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 				if (title.includes('特殊調査')) {
 					return [];
 				}
+				if (title === 'スペシャルイベント「バレンタインの約束」') {
+					return [
+						{
+							title: 'スペシャルイベント「バレンタインの約束」',
+							type: NoticeType.EVENTS,
+							startsAt: '2025-02-12T11:00',
+							endsAt: '2025-02-26T10:59',
+						},
+					];
+				}
 
 				const getType = (): NoticeType | null => {
 					for (const [prefix, type] of NoticeTitlePrefixTable) {
