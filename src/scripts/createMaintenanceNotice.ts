@@ -87,7 +87,12 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 	{
 		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施時間'));
 		if (index !== -1) {
-			const [startsAt, endsAt] = getDateRange(elements, index);
+			const [startsAt, endsAt] = (() => {
+				if (id === 530) {
+					return ['2025-02-26T11:00', '2025-02-26T19:00'];
+				}
+				return getDateRange(elements, index);
+			})();
 
 			return [
 				{
