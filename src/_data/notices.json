@@ -983,6 +983,14 @@
       "startsAt": "2025-02-03T11:00",
       "endsAt": "2025-02-03T17:00",
       "url": "https://bluearchive.jp/news/newsJump/526"
+    },
+    {
+      "id": "10125022601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-02-26T(水 11:00",
+      "endsAt": "2025-02-26T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/530"
     }
   ],
   "pickUps": [
@@ -2715,6 +2723,14 @@
       "startsAt": "2025-02-12T11:00",
       "endsAt": "2025-02-26T10:59",
       "url": "https://bluearchive.jp/news/newsJump/526"
+    },
+    {
+      "id": "10325022601",
+      "type": 3,
+      "title": "【イベント】「パンデミック・ハザード～奇跡の一枚～」",
+      "startsAt": "2025-02-26T19:00",
+      "endsAt": "2025-03-12T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/531"
     }
   ],
   "totalAssults": [
@@ -3309,6 +3325,14 @@
       "startsAt": "2025-01-27T11:00",
       "endsAt": "2025-02-03T03:59",
       "url": "https://bluearchive.jp/news/newsJump/518"
+    },
+    {
+      "id": "10425030501",
+      "type": 4,
+      "title": "総力戦 「市街地戦・クロカゲ」",
+      "startsAt": "2025-03-05T11:00",
+      "endsAt": "2025-03-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/530"
     }
   ],
   "jointExcercises": [
@@ -4481,6 +4505,14 @@
       "startsAt": "2025-01-21T11:00",
       "endsAt": "2025-02-26T03:59",
       "url": "https://bluearchive.jp/news/newsJump/518"
+    },
+    {
+      "id": "101025022701",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2025-02-27T11:00",
+      "endsAt": "2025-03-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/530"
     }
   ]
 }
