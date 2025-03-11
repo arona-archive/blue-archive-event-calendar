@@ -991,6 +991,14 @@
       "startsAt": "2025-02-26T11:00",
       "endsAt": "2025-02-26T19:00",
       "url": "https://bluearchive.jp/news/newsJump/530"
+    },
+    {
+      "id": "10125031201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-03-12T11:00",
+      "endsAt": "2025-03-12T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/533"
     }
   ],
   "pickUps": [
@@ -2174,7 +2182,7 @@
       "id": "10225031201",
       "type": 2,
       "title": "ピックアップ募集：★3「ハナエ(クリスマス)」、★3「セリナ(クリスマス)」",
-      "startsAt": "2025-03-12T19:00",
+      "startsAt": "2025-03-12T17:00",
       "endsAt": "2025-03-19T10:59",
       "url": "https://bluearchive.jp/news/newsJump/532"
     }
@@ -3623,6 +3631,14 @@
       "startsAt": "2025-02-03T17:00",
       "endsAt": "2025-02-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/526"
+    },
+    {
+      "id": "10525031201",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2025-03-12T17:00",
+      "endsAt": "2025-03-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/533"
     }
   ],
   "campaigns": [
@@ -4423,6 +4439,14 @@
       "startsAt": "2025-02-12T11:00",
       "endsAt": "2025-02-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/526"
+    },
+    {
+      "id": "10925031901",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ビナー」",
+      "startsAt": "2025-03-19T11:00",
+      "endsAt": "2025-03-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/533"
     }
   ],
   "multiFloorRaid": [
