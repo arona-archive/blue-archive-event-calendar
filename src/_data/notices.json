@@ -999,6 +999,14 @@
       "startsAt": "2025-03-12T11:00",
       "endsAt": "2025-03-12T17:00",
       "url": "https://bluearchive.jp/news/newsJump/533"
+    },
+    {
+      "id": "10125032601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-03-26T11:00",
+      "endsAt": "2025-03-26T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/536"
     }
   ],
   "pickUps": [
@@ -2763,6 +2771,14 @@
       "startsAt": "2025-02-26T19:00",
       "endsAt": "2025-03-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/531"
+    },
+    {
+      "id": "10325032601",
+      "type": 3,
+      "title": "【イベント】「プレイボール！~目指せ！満塁ホームラン～」",
+      "startsAt": "2025-03-26T19:00",
+      "endsAt": "2025-04-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/537"
     }
   ],
   "totalAssults": [
@@ -3365,6 +3381,14 @@
       "startsAt": "2025-03-05T11:00",
       "endsAt": "2025-03-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/530"
+    },
+    {
+      "id": "10425040201",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ホバークラフト」",
+      "startsAt": "2025-04-02T11:00",
+      "endsAt": "2025-04-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/536"
     }
   ],
   "jointExcercises": [
@@ -4561,6 +4585,14 @@
       "startsAt": "2025-02-27T11:00",
       "endsAt": "2025-03-26T03:59",
       "url": "https://bluearchive.jp/news/newsJump/530"
+    },
+    {
+      "id": "101025032701",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2025-03-27T11:00",
+      "endsAt": "2025-04-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/536"
     }
   ]
 }
