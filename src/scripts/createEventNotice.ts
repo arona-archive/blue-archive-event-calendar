@@ -25,9 +25,11 @@ export const createEventNotice = (document: Document): NoticeParams => {
 		return convertTitle(title);
 	};
 	const title = getTitle();
-
 	const getDateRange = (): [string, string] => {
-		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼開催期間'));
+		const index = elements.findIndex((el) => el.textContent?.trim().includes('▼開催期間'));
+		if (index === -1) {
+			throw new Error('cannot find date range element');
+		}
 		const dateRangeEl = elements[index + 1];
 		if (!dateRangeEl) {
 			throw new Error('cannot find date range element');
