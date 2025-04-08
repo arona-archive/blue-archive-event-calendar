@@ -1007,6 +1007,14 @@
       "startsAt": "2025-03-26T11:00",
       "endsAt": "2025-03-26T19:00",
       "url": "https://bluearchive.jp/news/newsJump/536"
+    },
+    {
+      "id": "10125040901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-04-09T11:00",
+      "endsAt": "2025-04-09T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/539"
     }
   ],
   "pickUps": [
@@ -2214,7 +2222,7 @@
       "id": "10225040901",
       "type": 2,
       "title": "ピックアップ募集：★3「サオリ(ドレス)」、★3「アル(ドレス)」、★3「カヨコ(ドレス)」",
-      "startsAt": "2025-04-09T19:00",
+      "startsAt": "2025-04-09T17:00",
       "endsAt": "2025-04-16T10:59",
       "url": "https://bluearchive.jp/news/newsJump/538"
     }
@@ -2787,6 +2795,14 @@
       "startsAt": "2025-03-26T19:00",
       "endsAt": "2025-04-09T10:59",
       "url": "https://bluearchive.jp/news/newsJump/537"
+    },
+    {
+      "id": "10325040901",
+      "type": 3,
+      "title": "【復刻イベント】「0068 オペラより愛をこめて！」",
+      "startsAt": "2025-04-09T17:00",
+      "endsAt": "2025-04-16T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/540"
     }
   ],
   "totalAssults": [
@@ -3687,6 +3703,14 @@
       "startsAt": "2025-03-12T17:00",
       "endsAt": "2025-03-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/533"
+    },
+    {
+      "id": "10525040901",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2025-04-09T17:00",
+      "endsAt": "2025-04-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/539"
     }
   ],
   "campaigns": [
@@ -4495,6 +4519,14 @@
       "startsAt": "2025-03-19T11:00",
       "endsAt": "2025-03-26T03:59",
       "url": "https://bluearchive.jp/news/newsJump/533"
+    },
+    {
+      "id": "10925041601",
+      "type": 9,
+      "title": "大決戦 「屋内戦・ケセド」",
+      "startsAt": "2025-04-16T11:00",
+      "endsAt": "2025-04-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/539"
     }
   ],
   "multiFloorRaid": [
