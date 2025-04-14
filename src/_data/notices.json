@@ -2774,11 +2774,11 @@
     },
     {
       "id": "10325021201",
-      "title": "スペシャルイベント「バレンタインの約束」",
       "type": 3,
+      "title": "【復刻イベント】「電脳新春行進曲」",
       "startsAt": "2025-02-12T11:00",
       "endsAt": "2025-02-26T10:59",
-      "url": "https://bluearchive.jp/news/newsJump/526"
+      "url": "https://bluearchive.jp/news/newsJump/528"
     },
     {
       "id": "10325022601",
@@ -4291,6 +4291,14 @@
       "startsAt": "2025-01-19T15:00",
       "endsAt": "2025-01-19T18:00",
       "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10725042001",
+      "type": 7,
+      "title": "「ブルアカらいぶ！すぷりんぐはずかむ！SP」配信情報！",
+      "startsAt": "2025-04-20T19:00",
+      "endsAt": "2025-04-20T21:00",
+      "url": "https://bluearchive.jp/news/newsJump/543"
     }
   ],
   "liveEvents": [
