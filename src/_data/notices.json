@@ -1015,6 +1015,14 @@
       "startsAt": "2025-04-09T11:00",
       "endsAt": "2025-04-09T17:00",
       "url": "https://bluearchive.jp/news/newsJump/539"
+    },
+    {
+      "id": "10125042201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-04-22T11:00",
+      "endsAt": "2025-04-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/545"
     }
   ],
   "pickUps": [
@@ -2819,6 +2827,14 @@
       "startsAt": "2025-04-09T17:00",
       "endsAt": "2025-04-16T10:59",
       "url": "https://bluearchive.jp/news/newsJump/540"
+    },
+    {
+      "id": "10325042201",
+      "type": 3,
+      "title": "【イベント】「ハイランダー鉄道爆走事件~そして列車はなくなった~」",
+      "startsAt": "2025-04-22T19:00",
+      "endsAt": "2025-05-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/546"
     }
   ],
   "totalAssults": [
@@ -3429,6 +3445,14 @@
       "startsAt": "2025-04-02T11:00",
       "endsAt": "2025-04-09T03:59",
       "url": "https://bluearchive.jp/news/newsJump/536"
+    },
+    {
+      "id": "10425043001",
+      "type": 4,
+      "title": "総力戦 「屋内戦・グレゴリオ」",
+      "startsAt": "2025-04-30T11:00",
+      "endsAt": "2025-05-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/545"
     }
   ],
   "jointExcercises": [
@@ -4657,6 +4681,14 @@
       "startsAt": "2025-03-27T11:00",
       "endsAt": "2025-04-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/536"
+    },
+    {
+      "id": "101025042301",
+      "type": 10,
+      "title": "制約解除決戦「ティファレト」",
+      "startsAt": "2025-04-23T11:00",
+      "endsAt": "2025-05-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/545"
     }
   ]
 }
