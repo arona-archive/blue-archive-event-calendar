@@ -1023,6 +1023,14 @@
       "startsAt": "2025-04-22T11:00",
       "endsAt": "2025-04-22T19:00",
       "url": "https://bluearchive.jp/news/newsJump/545"
+    },
+    {
+      "id": "10125050701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-05-07T11:00",
+      "endsAt": "2025-05-07T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/550"
     }
   ],
   "pickUps": [
@@ -3759,6 +3767,14 @@
       "startsAt": "2025-04-09T17:00",
       "endsAt": "2025-04-16T03:59",
       "url": "https://bluearchive.jp/news/newsJump/539"
+    },
+    {
+      "id": "10525050701",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2025-05-07T17:00",
+      "endsAt": "2025-05-14T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/550"
     }
   ],
   "campaigns": [
@@ -4583,6 +4599,14 @@
       "startsAt": "2025-04-16T11:00",
       "endsAt": "2025-04-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/539"
+    },
+    {
+      "id": "10925051401",
+      "type": 9,
+      "title": "大決戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2025-05-14T11:00",
+      "endsAt": "2025-05-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/550"
     }
   ],
   "multiFloorRaid": [
