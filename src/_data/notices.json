@@ -1031,6 +1031,14 @@
       "startsAt": "2025-05-07T11:00",
       "endsAt": "2025-05-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/550"
+    },
+    {
+      "id": "10125052101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-05-21T11:00",
+      "endsAt": "2025-05-21T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/555"
     }
   ],
   "pickUps": [
@@ -3493,6 +3501,14 @@
       "startsAt": "2025-04-30T11:00",
       "endsAt": "2025-05-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/545"
+    },
+    {
+      "id": "10425052801",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ゲブラ」",
+      "startsAt": "2025-05-28T11:00",
+      "endsAt": "2025-06-04T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/555"
     }
   ],
   "jointExcercises": [
@@ -4753,6 +4769,14 @@
       "startsAt": "2025-04-23T11:00",
       "endsAt": "2025-05-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/545"
+    },
+    {
+      "id": "101025052201",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2025-05-22T11:00",
+      "endsAt": "2025-06-25T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/555"
     }
   ]
 }
