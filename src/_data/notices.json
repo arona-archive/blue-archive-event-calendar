@@ -1039,6 +1039,14 @@
       "startsAt": "2025-05-21T11:00",
       "endsAt": "2025-05-21T19:00",
       "url": "https://bluearchive.jp/news/newsJump/555"
+    },
+    {
+      "id": "10125060401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-06-04T11:00",
+      "endsAt": "2025-06-04T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/557"
     }
   ],
   "pickUps": [
@@ -2294,7 +2302,7 @@
       "id": "10225060401",
       "type": 2,
       "title": "ピックアップ募集：★3「ナツ(バンド)」、★3「カズサ(バンド)」、★3「ヨシミ(バンド)」、★3「キキョウ」",
-      "startsAt": "2025-06-04T19:00",
+      "startsAt": "2025-06-04T17:00",
       "endsAt": "2025-06-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/556"
     }
@@ -2891,6 +2899,14 @@
       "startsAt": "2025-05-14T11:00",
       "endsAt": "2025-05-21T10:59",
       "url": "https://bluearchive.jp/news/newsJump/552"
+    },
+    {
+      "id": "10325060401",
+      "type": 3,
+      "title": "【復刻イベント】「-ive aLIVE!」",
+      "startsAt": "2025-06-04T17:00",
+      "endsAt": "2025-06-18T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/558"
     }
   ],
   "totalAssults": [
@@ -3823,6 +3839,14 @@
       "startsAt": "2025-05-07T17:00",
       "endsAt": "2025-05-14T03:59",
       "url": "https://bluearchive.jp/news/newsJump/550"
+    },
+    {
+      "id": "10525060401",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2025-06-04T17:00",
+      "endsAt": "2025-06-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/557"
     }
   ],
   "campaigns": [
@@ -4663,6 +4687,14 @@
       "startsAt": "2025-05-14T11:00",
       "endsAt": "2025-05-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/550"
+    },
+    {
+      "id": "10925061101",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2025-06-11T11:00",
+      "endsAt": "2025-06-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/557"
     }
   ],
   "multiFloorRaid": [
