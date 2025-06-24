@@ -1047,6 +1047,14 @@
       "startsAt": "2025-06-04T11:00",
       "endsAt": "2025-06-04T17:00",
       "url": "https://bluearchive.jp/news/newsJump/557"
+    },
+    {
+      "id": "10125062501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-06-25T11:00",
+      "endsAt": "2025-06-25T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/562"
     }
   ],
   "pickUps": [
@@ -2923,6 +2931,14 @@
       "startsAt": "2025-06-04T17:00",
       "endsAt": "2025-06-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/558"
+    },
+    {
+      "id": "10325062501",
+      "type": 3,
+      "title": "【イベント】「百ヨリ出ズル一輪ノ～いざ尋常に、水上勝負～」",
+      "startsAt": "2025-06-25T19:00",
+      "endsAt": "2025-07-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/563"
     }
   ],
   "totalAssults": [
@@ -3549,6 +3565,14 @@
       "startsAt": "2025-05-28T11:00",
       "endsAt": "2025-06-04T03:59",
       "url": "https://bluearchive.jp/news/newsJump/555"
+    },
+    {
+      "id": "10425070201",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ゴズ」",
+      "startsAt": "2025-07-02T11:00",
+      "endsAt": "2025-07-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/562"
     }
   ],
   "jointExcercises": [
@@ -4849,6 +4873,14 @@
       "startsAt": "2025-05-22T11:00",
       "endsAt": "2025-06-25T03:59",
       "url": "https://bluearchive.jp/news/newsJump/555"
+    },
+    {
+      "id": "101025062601",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2025-06-26T11:00",
+      "endsAt": "2025-07-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/562"
     }
   ]
 }
