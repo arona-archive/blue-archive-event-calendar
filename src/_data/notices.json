@@ -1055,6 +1055,14 @@
       "startsAt": "2025-06-25T11:00",
       "endsAt": "2025-06-25T19:00",
       "url": "https://bluearchive.jp/news/newsJump/562"
+    },
+    {
+      "id": "10125070901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-07-09T11:00",
+      "endsAt": "2025-07-09T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/566"
     }
   ],
   "pickUps": [
@@ -2334,7 +2342,7 @@
       "id": "10225070901",
       "type": 2,
       "title": "ピックアップ募集：★3「ミヤコ(水着)」、★3「サキ(水着)」、★3「モエ(水着)」",
-      "startsAt": "2025-07-09T19:00",
+      "startsAt": "2025-07-09T17:00",
       "endsAt": "2025-07-22T10:59",
       "url": "https://bluearchive.jp/news/newsJump/565"
     }
@@ -3895,6 +3903,14 @@
       "startsAt": "2025-06-04T17:00",
       "endsAt": "2025-06-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/557"
+    },
+    {
+      "id": "10525070901",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2025-07-09T17:00",
+      "endsAt": "2025-07-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/566"
     }
   ],
   "campaigns": [
@@ -4759,6 +4775,14 @@
       "startsAt": "2025-06-11T11:00",
       "endsAt": "2025-06-18T03:59",
       "url": "https://bluearchive.jp/news/newsJump/557"
+    },
+    {
+      "id": "10925071601",
+      "type": 9,
+      "title": "大決戦 「屋外戦・KAITEN FX Mk.0」",
+      "startsAt": "2025-07-16T11:00",
+      "endsAt": "2025-07-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/566"
     }
   ],
   "multiFloorRaid": [
