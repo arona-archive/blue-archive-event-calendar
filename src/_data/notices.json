@@ -1063,6 +1063,14 @@
       "startsAt": "2025-07-09T11:00",
       "endsAt": "2025-07-09T17:00",
       "url": "https://bluearchive.jp/news/newsJump/566"
+    },
+    {
+      "id": "10125072201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-07-22T11:00",
+      "endsAt": "2025-07-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/570"
     }
   ],
   "pickUps": [
@@ -2963,6 +2971,14 @@
       "startsAt": "2025-06-25T19:00",
       "endsAt": "2025-07-09T10:59",
       "url": "https://bluearchive.jp/news/newsJump/563"
+    },
+    {
+      "id": "10325072201",
+      "type": 3,
+      "title": "【イベント】「夏空のやくそく」",
+      "startsAt": "2025-07-22T19:00",
+      "endsAt": "2025-08-06T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/571"
     }
   ],
   "totalAssults": [
@@ -3597,6 +3613,14 @@
       "startsAt": "2025-07-02T11:00",
       "endsAt": "2025-07-09T03:59",
       "url": "https://bluearchive.jp/news/newsJump/562"
+    },
+    {
+      "id": "10425073001",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ホド」",
+      "startsAt": "2025-07-30T11:00",
+      "endsAt": "2025-08-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/570"
     }
   ],
   "jointExcercises": [
@@ -4921,6 +4945,14 @@
       "startsAt": "2025-06-26T11:00",
       "endsAt": "2025-07-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/562"
+    },
+    {
+      "id": "101025072301",
+      "type": 10,
+      "title": "制約解除決戦「ティファレト」",
+      "startsAt": "2025-07-23T11:00",
+      "endsAt": "2025-08-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/570"
     }
   ]
 }
