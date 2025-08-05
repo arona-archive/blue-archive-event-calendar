@@ -1071,6 +1071,14 @@
       "startsAt": "2025-07-22T11:00",
       "endsAt": "2025-07-22T19:00",
       "url": "https://bluearchive.jp/news/newsJump/570"
+    },
+    {
+      "id": "10125080601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-08-06T11:00",
+      "endsAt": "2025-08-06T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/576"
     }
   ],
   "pickUps": [
@@ -2374,7 +2382,7 @@
       "id": "10225080601",
       "type": 2,
       "title": "ピックアップ募集：★3「カンナ(水着)」、★3「フブキ(水着)」",
-      "startsAt": "2025-08-06T19:00",
+      "startsAt": "2025-08-06T17:00",
       "endsAt": "2025-08-13T10:59",
       "url": "https://bluearchive.jp/news/newsJump/575"
     }
@@ -2995,6 +3003,14 @@
       "startsAt": "2025-07-22T19:00",
       "endsAt": "2025-08-06T10:59",
       "url": "https://bluearchive.jp/news/newsJump/571"
+    },
+    {
+      "id": "10325080601",
+      "type": 3,
+      "title": "【イベント】「Say-Bing!」",
+      "startsAt": "2025-08-06T17:00",
+      "endsAt": "2025-08-13T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/577"
     }
   ],
   "totalAssults": [
@@ -3959,6 +3975,14 @@
       "startsAt": "2025-07-09T17:00",
       "endsAt": "2025-07-16T03:59",
       "url": "https://bluearchive.jp/news/newsJump/566"
+    },
+    {
+      "id": "10525080601",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2025-08-06T17:00",
+      "endsAt": "2025-08-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/576"
     }
   ],
   "campaigns": [
@@ -4831,6 +4855,14 @@
       "startsAt": "2025-07-16T11:00",
       "endsAt": "2025-07-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/566"
+    },
+    {
+      "id": "10925081301",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ビナー」",
+      "startsAt": "2025-08-13T11:00",
+      "endsAt": "2025-08-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/576"
     }
   ],
   "multiFloorRaid": [
