@@ -1079,6 +1079,14 @@
       "startsAt": "2025-08-06T11:00",
       "endsAt": "2025-08-06T17:00",
       "url": "https://bluearchive.jp/news/newsJump/576"
+    },
+    {
+      "id": "10125082001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-08-20T11:00",
+      "endsAt": "2025-08-20T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/581"
     }
   ],
   "pickUps": [
@@ -3027,6 +3035,14 @@
       "startsAt": "2025-08-06T17:00",
       "endsAt": "2025-08-13T10:59",
       "url": "https://bluearchive.jp/news/newsJump/577"
+    },
+    {
+      "id": "10325082001",
+      "type": 3,
+      "title": "【イベント】「我らオカルト研究会！ ～学院の不思議と古の呪文～」",
+      "startsAt": "2025-08-20T19:00",
+      "endsAt": "2025-09-03T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/583"
     }
   ],
   "totalAssults": [
@@ -3669,6 +3685,14 @@
       "startsAt": "2025-07-30T11:00",
       "endsAt": "2025-08-06T03:59",
       "url": "https://bluearchive.jp/news/newsJump/570"
+    },
+    {
+      "id": "10425082701",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2025-08-27T11:00",
+      "endsAt": "2025-09-03T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/581"
     }
   ],
   "jointExcercises": [
@@ -5025,6 +5049,14 @@
       "startsAt": "2025-07-23T11:00",
       "endsAt": "2025-08-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/570"
+    },
+    {
+      "id": "101025082101",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2025-08-21T11:00",
+      "endsAt": "2025-09-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/581"
     }
   ]
 }
