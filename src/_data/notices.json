@@ -1087,6 +1087,14 @@
       "startsAt": "2025-08-20T11:00",
       "endsAt": "2025-08-20T19:00",
       "url": "https://bluearchive.jp/news/newsJump/581"
+    },
+    {
+      "id": "10125090301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-09-03T11:00",
+      "endsAt": "2025-09-03T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/585"
     }
   ],
   "pickUps": [
@@ -2414,7 +2422,7 @@
       "id": "10225090301",
       "type": 2,
       "title": "ピックアップ募集：★3「ミサキ(水着)」、★3「サオリ(水着)」、★3「ヒヨリ(水着)」、★3「シロコ(水着)」、★3「ノノミ(水着)」",
-      "startsAt": "2025-09-03T19:00",
+      "startsAt": "2025-09-03T17:00",
       "endsAt": "2025-09-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/584"
     }
@@ -3051,6 +3059,14 @@
       "startsAt": "2025-08-20T19:00",
       "endsAt": "2025-09-03T10:59",
       "url": "https://bluearchive.jp/news/newsJump/583"
+    },
+    {
+      "id": "10325090301",
+      "type": 3,
+      "title": "【復刻イベント】「Sheside outside」",
+      "startsAt": "2025-09-03T17:00",
+      "endsAt": "2025-09-17T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/586"
     }
   ],
   "totalAssults": [
@@ -4031,6 +4047,14 @@
       "startsAt": "2025-08-06T17:00",
       "endsAt": "2025-08-13T03:59",
       "url": "https://bluearchive.jp/news/newsJump/576"
+    },
+    {
+      "id": "10525090301",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2025-09-03T17:00",
+      "endsAt": "2025-09-10T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/585"
     }
   ],
   "campaigns": [
@@ -4919,6 +4943,14 @@
       "startsAt": "2025-08-13T11:00",
       "endsAt": "2025-08-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/576"
+    },
+    {
+      "id": "10925091001",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ケセド」",
+      "startsAt": "2025-09-10T11:00",
+      "endsAt": "2025-09-17T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/585"
     }
   ],
   "multiFloorRaid": [
