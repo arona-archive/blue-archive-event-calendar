@@ -1095,6 +1095,14 @@
       "startsAt": "2025-09-03T11:00",
       "endsAt": "2025-09-03T17:00",
       "url": "https://bluearchive.jp/news/newsJump/585"
+    },
+    {
+      "id": "10125092401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-09-24T11:00",
+      "endsAt": "2025-09-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/589"
     }
   ],
   "pickUps": [
@@ -3083,6 +3091,14 @@
       "startsAt": "2025-09-03T17:00",
       "endsAt": "2025-09-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/586"
+    },
+    {
+      "id": "10325092401",
+      "type": 3,
+      "title": "【イベント】「誰が為の芸術～偽飾の絵画と美学の行方～」",
+      "startsAt": "2025-09-24T19:00",
+      "endsAt": "2025-10-15T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/590"
     }
   ],
   "totalAssults": [
@@ -3733,6 +3749,14 @@
       "startsAt": "2025-08-27T11:00",
       "endsAt": "2025-09-03T03:59",
       "url": "https://bluearchive.jp/news/newsJump/581"
+    },
+    {
+      "id": "10425100101",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ゲブラ」",
+      "startsAt": "2025-10-01T11:00",
+      "endsAt": "2025-10-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/589"
     }
   ],
   "jointExcercises": [
@@ -4071,6 +4095,14 @@
       "startsAt": "2025-09-03T17:00",
       "endsAt": "2025-09-10T03:59",
       "url": "https://bluearchive.jp/news/newsJump/585"
+    },
+    {
+      "id": "10525100801",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2025-10-08T11:00",
+      "endsAt": "2025-10-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/589"
     }
   ],
   "campaigns": [
@@ -4975,6 +5007,14 @@
       "startsAt": "2025-09-10T11:00",
       "endsAt": "2025-09-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/585"
+    },
+    {
+      "id": "10925101501",
+      "type": 9,
+      "title": "大決戦 「屋内戦・シロ＆クロ」",
+      "startsAt": "2025-10-15T11:00",
+      "endsAt": "2025-10-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/589"
     }
   ],
   "multiFloorRaid": [
@@ -5121,6 +5161,14 @@
       "startsAt": "2025-08-21T11:00",
       "endsAt": "2025-09-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/581"
+    },
+    {
+      "id": "101025092501",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2025-09-25T11:00",
+      "endsAt": "2025-10-22T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/589"
     }
   ]
 }
