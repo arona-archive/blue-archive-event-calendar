@@ -4755,6 +4755,54 @@
       "startsAt": "2025-10-18T19:00",
       "endsAt": "2025-10-18T21:00",
       "url": "https://bluearchive.jp/news/newsJump/598"
+    },
+    {
+      "id": "10726011701",
+      "type": 7,
+      "title": "「ブルアカふぇす！すたーと！」",
+      "startsAt": "2026-01-17T10:00",
+      "endsAt": "2026-01-17T11:15",
+      "url": "https://bluearchive.jp/news/newsJump/599"
+    },
+    {
+      "id": "10726011702",
+      "type": 7,
+      "title": "「ブルアカふぇす！スペシャルDJステージ！Day1」",
+      "startsAt": "2026-01-17T12:15",
+      "endsAt": "2026-01-17T14:15",
+      "url": "https://bluearchive.jp/news/newsJump/599"
+    },
+    {
+      "id": "10726011703",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ふぃふすあにばSP！Day1」",
+      "startsAt": "2026-01-17T15:00",
+      "endsAt": "2026-01-17T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/599"
+    },
+    {
+      "id": "10726011801",
+      "type": 7,
+      "title": "「計算通り完璧ー♪数字から見るブルーアーカイブ！」",
+      "startsAt": "2026-01-18T10:00",
+      "endsAt": "2026-01-18T11:30",
+      "url": "https://bluearchive.jp/news/newsJump/599"
+    },
+    {
+      "id": "10726011802",
+      "type": 7,
+      "title": "「ブルアカふぇす！スペシャルDJステージ！Day2」",
+      "startsAt": "2026-01-18T12:15",
+      "endsAt": "2026-01-18T14:15",
+      "url": "https://bluearchive.jp/news/newsJump/599"
+    },
+    {
+      "id": "10726011803",
+      "type": 7,
+      "title": "「ブルアカらいぶ！ふぃふすあにばSP！Day2」",
+      "startsAt": "2026-01-18T15:00",
+      "endsAt": "2026-01-18T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/599"
     }
   ],
   "liveEvents": [
@@ -4805,6 +4853,22 @@
       "startsAt": "2025-01-19T09:00",
       "endsAt": "2025-01-19T18:00",
       "url": "https://bluearchive.jp/news/newsJump/495"
+    },
+    {
+      "id": "10826011701",
+      "type": 8,
+      "title": "「ブルアカふぇす！～ごー！ごー！！先生♪～」",
+      "startsAt": "2026-01-17T09:00",
+      "endsAt": "2026-01-17T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/599"
+    },
+    {
+      "id": "10826011801",
+      "type": 8,
+      "title": "「ブルアカふぇす！～ごー！ごー！！先生♪～」",
+      "startsAt": "2026-01-18T09:00",
+      "endsAt": "2026-01-18T18:00",
+      "url": "https://bluearchive.jp/news/newsJump/599"
     }
   ],
   "eliminateRaid": [
