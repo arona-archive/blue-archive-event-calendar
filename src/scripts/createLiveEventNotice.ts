@@ -193,6 +193,65 @@ export const createLiveEventNotice = (id: number): NoticeParams[] => {
 				},
 			];
 		}
+
+		case 599: {
+			return [
+				{
+					type: NoticeType.LIVE_EVENTS,
+					title: '「ブルアカふぇす！～ごー！ごー！！先生♪～」',
+					startsAt: '2026-01-17T09:00',
+					endsAt: '2026-01-17T18:00',
+				},
+				{
+					type: NoticeType.LIVE_STREAMS,
+					title: '「ブルアカふぇす！すたーと！」',
+					startsAt: '2026-01-17T10:00',
+					endsAt: '2026-01-17T11:15',
+					subId: 1,
+				},
+				{
+					type: NoticeType.LIVE_STREAMS,
+					title: '「ブルアカふぇす！スペシャルDJステージ！Day1」',
+					startsAt: '2026-01-17T12:15',
+					endsAt: '2026-01-17T14:15',
+					subId: 2,
+				},
+				{
+					type: NoticeType.LIVE_STREAMS,
+					title: '「ブルアカらいぶ！ふぃふすあにばSP！Day1」',
+					startsAt: '2026-01-17T15:00',
+					endsAt: '2026-01-17T18:00',
+					subId: 3,
+				},
+				{
+					type: NoticeType.LIVE_EVENTS,
+					title: '「ブルアカふぇす！～ごー！ごー！！先生♪～」',
+					startsAt: '2026-01-18T09:00',
+					endsAt: '2026-01-18T18:00',
+				},
+				{
+					type: NoticeType.LIVE_STREAMS,
+					title: '「計算通り完璧ー♪数字から見るブルーアーカイブ！」',
+					startsAt: '2026-01-18T10:00',
+					endsAt: '2026-01-18T11:30',
+					subId: 1,
+				},
+				{
+					type: NoticeType.LIVE_STREAMS,
+					title: '「ブルアカふぇす！スペシャルDJステージ！Day2」',
+					startsAt: '2026-01-18T12:15',
+					endsAt: '2026-01-18T14:15',
+					subId: 2,
+				},
+				{
+					type: NoticeType.LIVE_STREAMS,
+					title: '「ブルアカらいぶ！ふぃふすあにばSP！Day2」',
+					startsAt: '2026-01-18T15:00',
+					endsAt: '2026-01-18T18:00',
+					subId: 3,
+				},
+			];
+		}
 	}
 
 	throw new Error('live event is not defined');
