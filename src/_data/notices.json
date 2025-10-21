@@ -1103,6 +1103,14 @@
       "startsAt": "2025-09-24T11:00",
       "endsAt": "2025-09-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/589"
+    },
+    {
+      "id": "10125102201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-10-22T11:00",
+      "endsAt": "2025-10-22T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/596"
     }
   ],
   "pickUps": [
@@ -3123,6 +3131,14 @@
       "startsAt": "2025-09-24T19:00",
       "endsAt": "2025-10-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/590"
+    },
+    {
+      "id": "10325102201",
+      "type": 3,
+      "title": "【イベント】「魔法少女ヘヴィキャリバー～エラの野望と正義の資格～」",
+      "startsAt": "2025-10-22T19:00",
+      "endsAt": "2025-11-05T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/597"
     }
   ],
   "totalAssults": [
@@ -3781,6 +3797,14 @@
       "startsAt": "2025-10-01T11:00",
       "endsAt": "2025-10-08T03:59",
       "url": "https://bluearchive.jp/news/newsJump/589"
+    },
+    {
+      "id": "10425102901",
+      "type": 4,
+      "title": "新総力戦 「市街地戦・イェソド」",
+      "startsAt": "2025-10-29T11:00",
+      "endsAt": "2025-11-05T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/596"
     }
   ],
   "jointExcercises": [
@@ -5265,6 +5289,14 @@
       "startsAt": "2025-09-25T11:00",
       "endsAt": "2025-10-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/589"
+    },
+    {
+      "id": "101025102301",
+      "type": 10,
+      "title": "制約解除決戦「ティファレト」",
+      "startsAt": "2025-10-23T11:00",
+      "endsAt": "2025-11-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/596"
     }
   ]
 }
