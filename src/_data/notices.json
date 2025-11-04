@@ -1111,6 +1111,14 @@
       "startsAt": "2025-10-22T11:00",
       "endsAt": "2025-10-22T19:00",
       "url": "https://bluearchive.jp/news/newsJump/596"
+    },
+    {
+      "id": "10125110501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-11-05T11:00",
+      "endsAt": "2025-11-05T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/601"
     }
   ],
   "pickUps": [
@@ -2486,7 +2494,7 @@
       "id": "10225110501",
       "type": 2,
       "title": "ピックアップ募集：★3「トモエ(チーパオ)」、★3「マリナ(チーパオ)」、★3「ミヤコ」、★3「サキ」、★3「モエ」",
-      "startsAt": "2025-11-05T19:00",
+      "startsAt": "2025-11-05T17:00",
       "endsAt": "2025-11-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/600"
     }
@@ -3147,6 +3155,14 @@
       "startsAt": "2025-10-22T19:00",
       "endsAt": "2025-11-05T10:59",
       "url": "https://bluearchive.jp/news/newsJump/597"
+    },
+    {
+      "id": "10325110501",
+      "type": 3,
+      "title": "【復刻イベント】「月華夢騒」開催",
+      "startsAt": "2025-11-05T17:00",
+      "endsAt": "2025-11-12T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/602"
     }
   ],
   "totalAssults": [
@@ -4159,6 +4175,14 @@
       "startsAt": "2025-10-08T11:00",
       "endsAt": "2025-10-15T03:59",
       "url": "https://bluearchive.jp/news/newsJump/589"
+    },
+    {
+      "id": "10525110501",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2025-11-05T17:00",
+      "endsAt": "2025-11-12T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/601"
     }
   ],
   "campaigns": [
@@ -5143,6 +5167,14 @@
       "startsAt": "2025-10-15T11:00",
       "endsAt": "2025-10-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/589"
+    },
+    {
+      "id": "10925111201",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2025-11-12T11:00",
+      "endsAt": "2025-11-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/601"
     }
   ],
   "multiFloorRaid": [
