@@ -1119,6 +1119,14 @@
       "startsAt": "2025-11-05T11:00",
       "endsAt": "2025-11-05T17:00",
       "url": "https://bluearchive.jp/news/newsJump/601"
+    },
+    {
+      "id": "10125111901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-11-19T11:00",
+      "endsAt": "2025-11-19T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/605"
     }
   ],
   "pickUps": [
@@ -3179,6 +3187,14 @@
       "startsAt": "2025-11-05T17:00",
       "endsAt": "2025-11-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/602"
+    },
+    {
+      "id": "10325111901",
+      "type": 3,
+      "title": "【イベント】「冬空の文芸復興～健全なる文化の交流について～」",
+      "startsAt": "2025-11-19T19:00",
+      "endsAt": "2025-12-03T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/606"
     }
   ],
   "totalAssults": [
@@ -3845,6 +3861,14 @@
       "startsAt": "2025-10-29T11:00",
       "endsAt": "2025-11-05T03:59",
       "url": "https://bluearchive.jp/news/newsJump/596"
+    },
+    {
+      "id": "10425112601",
+      "type": 4,
+      "title": "総力戦 「市街地戦・クロカゲ」",
+      "startsAt": "2025-11-26T11:00",
+      "endsAt": "2025-12-03T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/605"
     }
   ],
   "jointExcercises": [
@@ -5353,6 +5377,14 @@
       "startsAt": "2025-10-23T11:00",
       "endsAt": "2025-11-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/596"
+    },
+    {
+      "id": "101025112001",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2025-11-20T11:00",
+      "endsAt": "2025-12-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/605"
     }
   ]
 }
