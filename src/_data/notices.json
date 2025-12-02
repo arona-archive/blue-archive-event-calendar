@@ -1127,6 +1127,14 @@
       "startsAt": "2025-11-19T11:00",
       "endsAt": "2025-11-19T19:00",
       "url": "https://bluearchive.jp/news/newsJump/605"
+    },
+    {
+      "id": "10125120301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-12-03T11:00",
+      "endsAt": "2025-12-03T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/609"
     }
   ],
   "pickUps": [
@@ -2526,7 +2534,7 @@
       "id": "10225120301",
       "type": 2,
       "title": "ピックアップ募集：★3「マリー(アイドル)」、★3「サクラコ(アイドル)」、★3「カホ」、★3「カズサ」",
-      "startsAt": "2025-12-03T19:00",
+      "startsAt": "2025-12-03T17:00",
       "endsAt": "2025-12-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/608"
     }
@@ -3203,6 +3211,14 @@
       "startsAt": "2025-11-19T19:00",
       "endsAt": "2025-12-03T10:59",
       "url": "https://bluearchive.jp/news/newsJump/606"
+    },
+    {
+      "id": "10325120301",
+      "type": 3,
+      "title": "【復刻イベント】「Serenade Promenade」",
+      "startsAt": "2025-12-03T17:00",
+      "endsAt": "2025-12-17T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/610"
     }
   ],
   "totalAssults": [
@@ -4231,6 +4247,14 @@
       "startsAt": "2025-11-05T17:00",
       "endsAt": "2025-11-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/601"
+    },
+    {
+      "id": "10525120301",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2025-12-03T17:00",
+      "endsAt": "2025-12-10T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/609"
     }
   ],
   "campaigns": [
@@ -5223,6 +5247,14 @@
       "startsAt": "2025-11-12T11:00",
       "endsAt": "2025-11-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/601"
+    },
+    {
+      "id": "10925121001",
+      "type": 9,
+      "title": "大決戦 「市街地戦・KAITEN FX Mk.0」",
+      "startsAt": "2025-12-10T11:00",
+      "endsAt": "2025-12-17T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/609"
     }
   ],
   "multiFloorRaid": [
