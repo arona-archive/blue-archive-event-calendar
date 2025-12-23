@@ -1135,6 +1135,14 @@
       "startsAt": "2025-12-03T11:00",
       "endsAt": "2025-12-03T17:00",
       "url": "https://bluearchive.jp/news/newsJump/609"
+    },
+    {
+      "id": "10125122401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2025-12-24T11:00",
+      "endsAt": "2025-12-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/614"
     }
   ],
   "pickUps": [
@@ -2553,6 +2561,14 @@
       "startsAt": "2025-12-24T19:00",
       "endsAt": "2026-01-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/613"
+    },
+    {
+      "id": "10225123101",
+      "type": 2,
+      "title": "リコレクト募集：★3「ワカモ」、★3「ホシノ(水着)」、★3「ミカ」",
+      "startsAt": "2025-12-31T11:00",
+      "endsAt": "2026-01-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/614"
     }
   ],
   "events": [
@@ -3235,6 +3251,14 @@
       "startsAt": "2025-12-03T17:00",
       "endsAt": "2025-12-17T10:59",
       "url": "https://bluearchive.jp/news/newsJump/610"
+    },
+    {
+      "id": "10325122401",
+      "type": 3,
+      "title": "【イベント】「不忍ノ道 ～ファッションショー警護任務！の巻～」",
+      "startsAt": "2025-12-24T19:00",
+      "endsAt": "2026-01-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/615"
     }
   ],
   "totalAssults": [
@@ -3909,6 +3933,14 @@
       "startsAt": "2025-11-26T11:00",
       "endsAt": "2025-12-03T03:59",
       "url": "https://bluearchive.jp/news/newsJump/605"
+    },
+    {
+      "id": "10425123101",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ホバークラフト」",
+      "startsAt": "2025-12-31T11:00",
+      "endsAt": "2026-01-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/614"
     }
   ],
   "jointExcercises": [
@@ -5449,6 +5481,14 @@
       "startsAt": "2025-11-20T11:00",
       "endsAt": "2025-12-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/605"
+    },
+    {
+      "id": "101025122501",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2025-12-25T11:00",
+      "endsAt": "2026-01-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/614"
     }
   ]
 }
