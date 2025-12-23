@@ -1,4 +1,11 @@
-import { NoticeCampaignTable, NoticeCampaignType, NoticeTitlePrefixTable, NoticeType, TITLE_REGEX } from '../constants';
+import {
+	NoticeCampaignTable,
+	NoticeCampaignType,
+	NoticeTitlePrefixTable,
+	NoticeType,
+	PICK_UP_REGEX,
+	TITLE_REGEX,
+} from '../constants';
 import { NoticeParams } from '../types';
 import { convertDateRange, sanitizeText } from '../utils';
 
@@ -18,6 +25,38 @@ const getDateRange = (elements: Element[], index: number): [string, string] => {
 
 const getCampaignTitle = (type: NoticeCampaignType, multiplier: number): string => {
 	return `育成キャンペーン「${type}ドロップ量${multiplier}倍」`;
+};
+
+const getRecollectPickUps = (elements: Element[]): string[] => {
+	const index = elements.findIndex((el) => {
+		const text = el.textContent?.trim();
+		return text?.startsWith('▼選択募集対象');
+	});
+
+	const pickUpEls: Element[] = [];
+	for (let i = index + 1; i < index + 100; ++i) {
+		const element = elements[i];
+		if (!element?.textContent.includes('★')) {
+			break;
+		}
+
+		pickUpEls.push(element);
+	}
+
+	const pickUps = pickUpEls.map((el) => {
+		const match = el.textContent.match(PICK_UP_REGEX);
+		if (!match) {
+			throw new Error(`invalid pickUp text: ${el.textContent}`);
+		}
+
+		return match[0];
+	});
+
+	return pickUps;
+};
+
+const getRecollectPickUpTitle = (pickUps: string[]): string => {
+	return `リコレクト募集：${pickUps.join('、')}`;
 };
 
 const createCampaignNotice = (elements: Element[], multiplier: number): NoticeParams => {
@@ -162,6 +201,24 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 							type: NoticeType.EVENTS,
 							startsAt: '2025-02-12T11:00',
 							endsAt: '2025-02-26T10:59',
+						},
+					];
+				}
+				if (title.includes('リコレクト募集')) {
+					const index = elements.findIndex((el) => {
+						const text = el.textContent?.trim();
+						return text?.startsWith('▼開催') || text?.startsWith('▼第1回開催');
+					});
+					const [startsAt, endsAt] = getDateRange(elements, index);
+
+					const pickUps = getRecollectPickUps(elements);
+
+					return [
+						{
+							type: NoticeType.PICK_UPS,
+							title: getRecollectPickUpTitle(pickUps),
+							startsAt,
+							endsAt,
 						},
 					];
 				}

@@ -8,6 +8,7 @@ export const NOTICE_URL = 'https://bluearchive.jp/news/newsJump';
 
 export const DATE_STR_REGEX = /(\d+)年(\d+)月(\d+)日\ ?(?:[\(（].+[\)）])?(.+)/;
 export const TITLE_REGEX = /[（\(]\d+[）\)](.+)(開催|紹介)/;
+export const PICK_UP_REGEX = /★(\d)「(.+)」/;
 
 export const TIME_THRESHOLD = 7 * 24 * 60 * 60 * 1000; // 7 days
 
