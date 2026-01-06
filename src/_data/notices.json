@@ -1143,6 +1143,14 @@
       "startsAt": "2025-12-24T11:00",
       "endsAt": "2025-12-24T19:00",
       "url": "https://bluearchive.jp/news/newsJump/614"
+    },
+    {
+      "id": "10126010701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-01-07T11:00",
+      "endsAt": "2026-01-07T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/618"
     }
   ],
   "pickUps": [
@@ -2574,7 +2582,7 @@
       "id": "10226010701",
       "type": 2,
       "title": "ピックアップ募集：★3「キサキ」、★3「レイジョ」、★3「ユウカ(体操服)」、★3「マリー(体操服)」",
-      "startsAt": "2026-01-07T19:00",
+      "startsAt": "2026-01-07T17:00",
       "endsAt": "2026-01-20T10:59",
       "url": "https://bluearchive.jp/news/newsJump/617"
     }
@@ -3267,6 +3275,14 @@
       "startsAt": "2025-12-24T19:00",
       "endsAt": "2026-01-07T10:59",
       "url": "https://bluearchive.jp/news/newsJump/615"
+    },
+    {
+      "id": "10326010701",
+      "type": 3,
+      "title": "【復刻イベント】「五塵来降」",
+      "startsAt": "2026-01-07T17:00",
+      "endsAt": "2026-01-20T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/619"
     }
   ],
   "totalAssults": [
@@ -4311,6 +4327,14 @@
       "startsAt": "2025-12-03T17:00",
       "endsAt": "2025-12-10T10:59",
       "url": "https://bluearchive.jp/news/newsJump/609"
+    },
+    {
+      "id": "10526010701",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2026-01-07T17:00",
+      "endsAt": "2026-01-14T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/618"
     }
   ],
   "campaigns": [
@@ -5319,6 +5343,14 @@
       "startsAt": "2025-12-10T11:00",
       "endsAt": "2025-12-17T03:59",
       "url": "https://bluearchive.jp/news/newsJump/609"
+    },
+    {
+      "id": "10926011401",
+      "type": 9,
+      "title": "大決戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2026-01-14T11:00",
+      "endsAt": "2026-01-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/618"
     }
   ],
   "multiFloorRaid": [
