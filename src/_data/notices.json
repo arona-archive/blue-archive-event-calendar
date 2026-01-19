@@ -1151,6 +1151,14 @@
       "startsAt": "2026-01-07T11:00",
       "endsAt": "2026-01-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/618"
+    },
+    {
+      "id": "10126012001",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-01-20T11:00",
+      "endsAt": "2026-01-20T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/624"
     }
   ],
   "pickUps": [
@@ -3291,6 +3299,14 @@
       "startsAt": "2026-01-07T17:00",
       "endsAt": "2026-01-20T10:59",
       "url": "https://bluearchive.jp/news/newsJump/619"
+    },
+    {
+      "id": "10326012001",
+      "type": 3,
+      "title": "【イベント】「鋼鉄大陸攻略戦」",
+      "startsAt": "2026-01-20T19:00",
+      "endsAt": "2026-01-29T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/625"
     }
   ],
   "totalAssults": [
@@ -5537,6 +5553,14 @@
       "startsAt": "2025-12-25T11:00",
       "endsAt": "2026-01-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/614"
+    },
+    {
+      "id": "101026012101",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2026-01-21T11:00",
+      "endsAt": "2026-02-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/624"
     }
   ]
 }
