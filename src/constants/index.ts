@@ -41,6 +41,10 @@ export const NOTICE_TITLE_FILTER: { value: string; position: 'start' | 'end' }[]
 		value: '【ミニゲーム】',
 		position: 'start',
 	},
+	{
+		value: '特別アンケート開催',
+		position: 'end',
+	},
 ];
 export const NOTICE_ID_FILTER: number[] = [
 	211, 231, 243, 280, 290, 286, 296, 297, 295, 313, 312, 333, 336, 353, 358, 359, 360, 373, 381, 386, 395, 396, 400,
