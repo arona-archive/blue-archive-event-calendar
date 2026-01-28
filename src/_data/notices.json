@@ -1159,6 +1159,14 @@
       "startsAt": "2026-01-20T11:00",
       "endsAt": "2026-01-20T19:00",
       "url": "https://bluearchive.jp/news/newsJump/624"
+    },
+    {
+      "id": "10126012901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-01-29T11:00",
+      "endsAt": "2026-01-29T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/629"
     }
   ],
   "pickUps": [
@@ -2606,7 +2614,7 @@
       "id": "10226012901",
       "type": 2,
       "title": "ピックアップ募集：★3「ケイ」、★3「アリス(臨戦)」、★3「ホシノ(臨戦)」、★3「シロコ＊テラー」",
-      "startsAt": "2026-01-29T19:00",
+      "startsAt": "2026-01-29T17:00",
       "endsAt": "2026-02-05T10:59",
       "url": "https://bluearchive.jp/news/newsJump/628"
     }
@@ -3315,6 +3323,14 @@
       "startsAt": "2026-01-20T19:00",
       "endsAt": "2026-01-29T10:59",
       "url": "https://bluearchive.jp/news/newsJump/625"
+    },
+    {
+      "id": "10326012901",
+      "type": 3,
+      "title": "【イベント】「鋼鉄大陸攻略戦 -マルクト戦-」",
+      "startsAt": "2026-01-29T17:00",
+      "endsAt": "2026-02-12T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/630"
     }
   ],
   "totalAssults": [
@@ -4367,6 +4383,14 @@
       "startsAt": "2026-01-07T17:00",
       "endsAt": "2026-01-14T10:59",
       "url": "https://bluearchive.jp/news/newsJump/618"
+    },
+    {
+      "id": "10526012901",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2026-01-29T17:00",
+      "endsAt": "2026-02-05T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/629"
     }
   ],
   "campaigns": [
