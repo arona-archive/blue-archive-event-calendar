@@ -195,12 +195,18 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					return [];
 				}
 				if (title === 'スペシャルイベント「バレンタインの約束」') {
+					const index = elements.findIndex((el) => {
+						const text = el.textContent?.trim();
+						return text?.startsWith('▼開催期間');
+					});
+					const [startsAt, endsAt] = getDateRange(elements, index);
+
 					return [
 						{
 							title: 'スペシャルイベント「バレンタインの約束」',
 							type: NoticeType.EVENTS,
-							startsAt: '2025-02-12T11:00',
-							endsAt: '2025-02-26T10:59',
+							startsAt,
+							endsAt,
 						},
 					];
 				}
@@ -217,6 +223,22 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 						{
 							type: NoticeType.PICK_UPS,
 							title: getRecollectPickUpTitle(pickUps),
+							startsAt,
+							endsAt,
+						},
+					];
+				}
+				if (title.includes('アンコール募集')) {
+					const index = elements.findIndex((el) => {
+						const text = el.textContent?.trim();
+						return text?.startsWith('▼開催期間');
+					});
+					const [startsAt, endsAt] = getDateRange(elements, index);
+
+					return [
+						{
+							type: NoticeType.PICK_UPS,
+							title: 'アンコール募集',
 							startsAt,
 							endsAt,
 						},
