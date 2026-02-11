@@ -1167,6 +1167,14 @@
       "startsAt": "2026-01-29T11:00",
       "endsAt": "2026-01-29T17:00",
       "url": "https://bluearchive.jp/news/newsJump/629"
+    },
+    {
+      "id": "10126021201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-02-12T11:00",
+      "endsAt": "2026-02-12T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/634"
     }
   ],
   "pickUps": [
@@ -2625,6 +2633,22 @@
       "startsAt": "2026-02-05T11:00",
       "endsAt": "2026-02-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/631"
+    },
+    {
+      "id": "10226021201",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ユズ(臨戦)」、★3「エイミ(臨戦)」",
+      "startsAt": "2026-02-12T19:00",
+      "endsAt": "2026-02-25T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/633"
+    },
+    {
+      "id": "10226022501",
+      "type": 2,
+      "title": "アンコール募集",
+      "startsAt": "2026-02-25T11:00",
+      "endsAt": "2026-03-04T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/634"
     }
   ],
   "events": [
@@ -3339,6 +3363,22 @@
       "startsAt": "2026-01-29T17:00",
       "endsAt": "2026-02-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/630"
+    },
+    {
+      "id": "10326021301",
+      "type": 3,
+      "title": "【イベント】「DECAGRAMMATON決戦」",
+      "startsAt": "2026-02-13T11:00",
+      "endsAt": "2026-02-18T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/635"
+    },
+    {
+      "id": "10326021801",
+      "title": "スペシャルイベント「バレンタインの約束」",
+      "type": 3,
+      "startsAt": "2026-02-18T11:00",
+      "endsAt": "2026-03-04T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/634"
     }
   ],
   "totalAssults": [
@@ -4021,6 +4061,14 @@
       "startsAt": "2025-12-31T11:00",
       "endsAt": "2026-01-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/614"
+    },
+    {
+      "id": "10426021801",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ビナー」",
+      "startsAt": "2026-02-18T11:00",
+      "endsAt": "2026-02-25T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/634"
     }
   ],
   "jointExcercises": [
@@ -4399,6 +4447,14 @@
       "startsAt": "2026-01-29T17:00",
       "endsAt": "2026-02-05T03:59",
       "url": "https://bluearchive.jp/news/newsJump/629"
+    },
+    {
+      "id": "10526022501",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2026-02-25T11:00",
+      "endsAt": "2026-03-04T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/634"
     }
   ],
   "campaigns": [
@@ -5601,6 +5657,14 @@
       "startsAt": "2026-01-21T11:00",
       "endsAt": "2026-02-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/624"
+    },
+    {
+      "id": "101026021301",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2026-02-13T11:00",
+      "endsAt": "2026-03-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/634"
     }
   ]
 }
