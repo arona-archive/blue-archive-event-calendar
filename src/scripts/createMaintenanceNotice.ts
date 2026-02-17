@@ -189,7 +189,7 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					if (id === 299) {
 						return [
 							{
-								subId: 2,
+								subId: 3,
 								type: NoticeType.EVENTS,
 								title: '【イベント】「D.U.シラトリ区 復旧作業」',
 								startsAt: '2023-03-12T11:00',
@@ -201,7 +201,7 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					if (id === 634) {
 						return [
 							{
-								subId: 2,
+								subId: 3,
 								type: NoticeType.EVENTS,
 								title: '【イベント】「ゲーム開発部のお掃除大作戦」',
 								startsAt: '2026-02-18T11:00',
@@ -222,6 +222,7 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					if (id === 526) {
 						return [
 							{
+								subId: 2,
 								type: NoticeType.EVENTS,
 								title: '【スペシャルイベント】「バレンタインの約束」',
 								startsAt: '2025-02-12T11:00',
@@ -238,6 +239,7 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 
 					return [
 						{
+							subId: 2,
 							type: NoticeType.EVENTS,
 							title: '【スペシャルイベント】「バレンタインの約束」',
 							startsAt,

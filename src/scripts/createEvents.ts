@@ -12,23 +12,31 @@ const areCalendarEventsEqual = (p: CalendarEvent, q: CalendarEvent): boolean => 
 		throw new Error(`invalid calendar events compare: ${p.id}, ${q.id}`);
 	}
 
+	let areEqual = true;
+
 	if (q.status === 'cancelled') {
-		return false;
+		console.log('cancelled');
+		areEqual = false;
 	}
 
 	if (p.summary !== q.summary) {
-		return false;
+		console.log('summary', p.summary, q.summary);
+		areEqual = false;
 	}
 	if (p.description !== q.description) {
-		return false;
+		console.log('description', p.description, q.description);
+		areEqual = false;
 	}
 	if (p.start?.dateTime !== q.start?.dateTime) {
-		return false;
+		console.log('start.dateTime', p.start?.dateTime, q.start?.dateTime);
+		areEqual = false;
 	}
 	if (p.end?.dateTime !== q.end?.dateTime) {
-		return false;
+		console.log('end.dateTime', p.end?.dateTime, q.end?.dateTime);
+		areEqual = false;
 	}
-	return true;
+
+	return areEqual;
 };
 
 const getEvent = async (calendar: GoogleApis.calendar_v3.Calendar, eventId: string): Promise<CalendarEvent | null> => {
@@ -47,7 +55,7 @@ const getEvent = async (calendar: GoogleApis.calendar_v3.Calendar, eventId: stri
 };
 
 const createEvent = async (calendar: Calendar, eventId: string, event: CalendarEvent) => {
-	console.log('create event:', event.id);
+	console.log('createEvent', event.id);
 
 	const prevEvent = await getEvent(calendar, eventId);
 	if (prevEvent) {
@@ -61,7 +69,7 @@ const createEvent = async (calendar: Calendar, eventId: string, event: CalendarE
 };
 
 const updateEvent = async (calendar: Calendar, eventId: string, event: CalendarEvent) => {
-	console.log('update event:', eventId);
+	console.log('updateEvent', eventId);
 
 	const prevEvent = await getEvent(calendar, eventId);
 	if (!prevEvent) {
@@ -71,6 +79,8 @@ const updateEvent = async (calendar: Calendar, eventId: string, event: CalendarE
 	if (areCalendarEventsEqual(event, prevEvent)) {
 		return;
 	}
+
+	console.log('update', eventId, event);
 
 	await calendar.events.update({
 		calendarId: process.env.GOOGLE_CALENDAR_ID,
@@ -87,11 +97,11 @@ const convertCalendarEvent = (notice: Notice): CalendarEvent => {
 		id: notice.id,
 		summary: notice.title,
 		start: {
-			dateTime: `${notice.startsAt}:00`,
+			dateTime: `${notice.startsAt}:00+09:00`,
 			timeZone: 'Asia/Tokyo',
 		},
 		end: {
-			dateTime: `${notice.endsAt}:00`,
+			dateTime: `${notice.endsAt}:00+09:00`,
 			timeZone: 'Asia/Tokyo',
 		},
 		description: notice.url,

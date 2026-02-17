@@ -2893,6 +2893,14 @@
       "url": "https://bluearchive.jp/news/newsJump/278"
     },
     {
+      "id": "10323012401",
+      "type": 3,
+      "title": "【イベント】「F.SCT攻略戦」",
+      "startsAt": "2023-01-24T19:00",
+      "endsAt": "2023-02-10T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/284"
+    },
+    {
       "id": "10323021001",
       "type": 3,
       "title": "【復刻イベント】「どたばたシスターと古書館の魔術師」",
@@ -2913,6 +2921,14 @@
       "type": 3,
       "title": "【イベント】「PHT決戦」",
       "startsAt": "2023-03-08T19:00",
+      "endsAt": "2023-03-22T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/299"
+    },
+    {
+      "id": "10323031203",
+      "type": 3,
+      "title": "【イベント】「D.U.シラトリ区 復旧作業」",
+      "startsAt": "2023-03-12T11:00",
       "endsAt": "2023-03-22T10:59",
       "url": "https://bluearchive.jp/news/newsJump/299"
     },
@@ -3205,6 +3221,14 @@
       "url": "https://bluearchive.jp/news/newsJump/528"
     },
     {
+      "id": "10325021202",
+      "title": "【スペシャルイベント】「バレンタインの約束」",
+      "type": 3,
+      "startsAt": "2025-02-12T11:00",
+      "endsAt": "2025-02-26T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/526"
+    },
+    {
       "id": "10325022601",
       "type": 3,
       "title": "【イベント】「パンデミック・ハザード～奇跡の一枚～」",
@@ -3373,7 +3397,7 @@
       "url": "https://bluearchive.jp/news/newsJump/635"
     },
     {
-      "id": "10326021801",
+      "id": "10326021802",
       "type": 3,
       "title": "【スペシャルイベント】「バレンタインの約束」",
       "startsAt": "2026-02-18T11:00",
@@ -3381,7 +3405,7 @@
       "url": "https://bluearchive.jp/news/newsJump/634"
     },
     {
-      "id": "10326021802",
+      "id": "10326021803",
       "type": 3,
       "title": "【イベント】「ゲーム開発部のお掃除大作戦」",
       "startsAt": "2026-02-18T11:00",
@@ -4791,9 +4815,9 @@
     {
       "id": "10723012201",
       "type": 7,
-      "title": "「ブルアカらいぶ！せかんどあにばSP！」配信情報",
+      "title": "「ブルアカらいぶ！ ふぁーすとあにばSP！ 直前集会 ぱーと１」",
       "startsAt": "2023-01-22T12:00",
-      "endsAt": "2023-01-22T19:00",
+      "endsAt": "2023-01-22T13:15",
       "url": "https://bluearchive.jp/news/newsJump/281"
     },
     {
