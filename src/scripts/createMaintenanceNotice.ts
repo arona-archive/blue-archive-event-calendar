@@ -186,6 +186,30 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					// return createCampaignNotices(elements, multiplier);
 				}
 				if (title.includes('【イベント】「？？？」')) {
+					if (id === 299) {
+						return [
+							{
+								subId: 2,
+								type: NoticeType.EVENTS,
+								title: '【イベント】「D.U.シラトリ区 復旧作業」',
+								startsAt: '2023-03-12T11:00',
+								endsAt: '2023-03-22T10:59',
+							},
+						];
+					}
+
+					if (id === 634) {
+						return [
+							{
+								subId: 2,
+								type: NoticeType.EVENTS,
+								title: '【イベント】「ゲーム開発部のお掃除大作戦」',
+								startsAt: '2026-02-18T11:00',
+								endsAt: '2026-03-04T10:59',
+							},
+						];
+					}
+
 					return [];
 				}
 				if (title.includes('シャーレの総決算with連邦生徒会')) {
@@ -195,6 +219,17 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					return [];
 				}
 				if (title === 'スペシャルイベント「バレンタインの約束」') {
+					if (id === 526) {
+						return [
+							{
+								type: NoticeType.EVENTS,
+								title: '【スペシャルイベント】「バレンタインの約束」',
+								startsAt: '2025-02-12T11:00',
+								endsAt: '2025-02-26T10:59',
+							},
+						];
+					}
+
 					const index = elements.findIndex((el) => {
 						const text = el.textContent?.trim();
 						return text?.startsWith('▼開催期間');
@@ -203,8 +238,8 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 
 					return [
 						{
-							title: 'スペシャルイベント「バレンタインの約束」',
 							type: NoticeType.EVENTS,
+							title: '【スペシャルイベント】「バレンタインの約束」',
 							startsAt,
 							endsAt,
 						},
