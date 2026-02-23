@@ -186,29 +186,29 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					// return createCampaignNotices(elements, multiplier);
 				}
 				if (title.includes('【イベント】「？？？」')) {
-					if (id === 299) {
-						return [
-							{
-								subId: 3,
-								type: NoticeType.EVENTS,
-								title: '【イベント】「D.U.シラトリ区 復旧作業」',
-								startsAt: '2023-03-12T11:00',
-								endsAt: '2023-03-22T10:59',
-							},
-						];
-					}
+					// if (id === 299) {
+					// 	return [
+					// 		{
+					// 			subId: 9,
+					// 			type: NoticeType.EVENTS,
+					// 			title: '【イベント】「D.U.シラトリ区 復旧作業」',
+					// 			startsAt: '2023-03-12T11:00',
+					// 			endsAt: '2023-03-22T10:59',
+					// 		},
+					// 	];
+					// }
 
-					if (id === 634) {
-						return [
-							{
-								subId: 3,
-								type: NoticeType.EVENTS,
-								title: '【イベント】「ゲーム開発部のお掃除大作戦」',
-								startsAt: '2026-02-18T11:00',
-								endsAt: '2026-03-04T10:59',
-							},
-						];
-					}
+					// if (id === 634) {
+					// 	return [
+					// 		{
+					// 			subId: 9,
+					// 			type: NoticeType.EVENTS,
+					// 			title: '【イベント】「ゲーム開発部のお掃除大作戦」',
+					// 			startsAt: '2026-02-18T11:00',
+					// 			endsAt: '2026-03-04T10:59',
+					// 		},
+					// 	];
+					// }
 
 					return [];
 				}
