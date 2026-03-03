@@ -1175,6 +1175,14 @@
       "startsAt": "2026-02-12T11:00",
       "endsAt": "2026-02-12T19:00",
       "url": "https://bluearchive.jp/news/newsJump/634"
+    },
+    {
+      "id": "10126030401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-03-04T11:00",
+      "endsAt": "2026-03-04T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/639"
     }
   ],
   "pickUps": [
@@ -2654,7 +2662,7 @@
       "id": "10226030401",
       "type": 2,
       "title": "ピックアップ募集：★3「コユキ(パジャマ)」、★3「ユウカ(パジャマ)」、★3「ノア(パジャマ)」、★3「ハルナ(正月)」、★3「フウカ(正月)」",
-      "startsAt": "2026-03-04T19:00",
+      "startsAt": "2026-03-04T17:00",
       "endsAt": "2026-03-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/638"
     }
@@ -3419,6 +3427,14 @@
       "startsAt": "2026-02-18T11:00",
       "endsAt": "2026-03-04T10:59",
       "url": "https://bluearchive.jp/news/newsJump/634"
+    },
+    {
+      "id": "10326030401",
+      "type": 3,
+      "title": "【復刻イベント】「秘密のミッドナイトパーティー ～オニの手は鐘と共に～」",
+      "startsAt": "2026-03-04T17:00",
+      "endsAt": "2026-03-18T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/640"
     }
   ],
   "totalAssults": [
@@ -5511,6 +5527,14 @@
       "startsAt": "2026-01-14T11:00",
       "endsAt": "2026-01-20T03:59",
       "url": "https://bluearchive.jp/news/newsJump/618"
+    },
+    {
+      "id": "10926030401",
+      "type": 9,
+      "title": "大決戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2026-03-04T17:00",
+      "endsAt": "2026-03-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/639"
     }
   ],
   "multiFloorRaid": [
