@@ -1183,6 +1183,14 @@
       "startsAt": "2026-03-04T11:00",
       "endsAt": "2026-03-04T17:00",
       "url": "https://bluearchive.jp/news/newsJump/639"
+    },
+    {
+      "id": "10126031801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-03-18T11:00",
+      "endsAt": "2026-03-18T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/642"
     }
   ],
   "pickUps": [
@@ -3443,6 +3451,14 @@
       "startsAt": "2026-03-04T17:00",
       "endsAt": "2026-03-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/640"
+    },
+    {
+      "id": "10326031801",
+      "type": 3,
+      "title": "【イベント】「キヴォトス・未確認ミステリー～邪を払うツチノコ大調査～」",
+      "startsAt": "2026-03-18T19:00",
+      "endsAt": "2026-04-01T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/643"
     }
   ],
   "totalAssults": [
@@ -4133,6 +4149,14 @@
       "startsAt": "2026-02-18T11:00",
       "endsAt": "2026-02-25T03:59",
       "url": "https://bluearchive.jp/news/newsJump/634"
+    },
+    {
+      "id": "10426032501",
+      "type": 4,
+      "title": "総力戦 「屋外戦・ゴズ」",
+      "startsAt": "2026-03-25T11:00",
+      "endsAt": "2026-04-01T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/642"
     }
   ],
   "jointExcercises": [
@@ -5737,6 +5761,14 @@
       "startsAt": "2026-02-13T11:00",
       "endsAt": "2026-03-18T03:59",
       "url": "https://bluearchive.jp/news/newsJump/634"
+    },
+    {
+      "id": "101026031901",
+      "type": 10,
+      "title": "制約解除決戦「ティファレト」",
+      "startsAt": "2026-03-19T11:00",
+      "endsAt": "2026-04-21T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/642"
     }
   ]
 }
