@@ -1191,6 +1191,14 @@
       "startsAt": "2026-03-18T11:00",
       "endsAt": "2026-03-18T19:00",
       "url": "https://bluearchive.jp/news/newsJump/642"
+    },
+    {
+      "id": "10126040101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-04-01T11:00",
+      "endsAt": "2026-04-01T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/645"
     }
   ],
   "pickUps": [
@@ -2681,6 +2689,14 @@
       "startsAt": "2026-03-18T19:00",
       "endsAt": "2026-04-01T10:59",
       "url": "https://bluearchive.jp/news/newsJump/641"
+    },
+    {
+      "id": "10226040101",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アカネ(制服)」、★3「セイア」、★3「アスナ(制服)」、★3「トキ(バニーガール)」",
+      "startsAt": "2026-04-01T17:00",
+      "endsAt": "2026-04-15T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/644"
     }
   ],
   "events": [
@@ -3459,6 +3475,14 @@
       "startsAt": "2026-03-18T19:00",
       "endsAt": "2026-04-01T10:59",
       "url": "https://bluearchive.jp/news/newsJump/643"
+    },
+    {
+      "id": "10326040101",
+      "type": 3,
+      "title": "【復刻イベント】「Code: BOX ミレニアムに迫る影 ～一つの問いと二つの答え～」",
+      "startsAt": "2026-04-01T17:00",
+      "endsAt": "2026-04-15T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/646"
     }
   ],
   "totalAssults": [
@@ -4543,6 +4567,14 @@
       "startsAt": "2026-02-25T11:00",
       "endsAt": "2026-03-04T03:59",
       "url": "https://bluearchive.jp/news/newsJump/634"
+    },
+    {
+      "id": "10526040101",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「突破演習」",
+      "startsAt": "2026-04-01T17:00",
+      "endsAt": "2026-04-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/645"
     }
   ],
   "campaigns": [
@@ -5567,6 +5599,14 @@
       "startsAt": "2026-03-04T17:00",
       "endsAt": "2026-03-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/639"
+    },
+    {
+      "id": "10926040801",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ペロロジラ」",
+      "startsAt": "2026-04-08T11:00",
+      "endsAt": "2026-04-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/645"
     }
   ],
   "multiFloorRaid": [
