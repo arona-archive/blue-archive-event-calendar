@@ -5,9 +5,9 @@ import {
 	NoticeType,
 	PICK_UP_REGEX,
 	TITLE_REGEX,
-} from '../constants';
-import { NoticeParams } from '../types';
-import { convertDateRange, sanitizeText } from '../utils';
+} from '../constants/index.js';
+import { NoticeParams } from '../types/index.js';
+import { convertDateRange, sanitizeText } from '../utils/index.js';
 
 const getDateRange = (elements: Element[], index: number): [string, string] => {
 	const dateRangeEl = elements[index + 1];

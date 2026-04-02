@@ -1,8 +1,8 @@
 import { sleep } from '@sapphire-sh/utils';
 import GoogleApis, { google } from 'googleapis';
-import { TIME_THRESHOLD } from '../constants';
-import { Notice } from '../types';
-import { authorize } from '../utils';
+import { TIME_THRESHOLD } from '../constants/index.js';
+import { Notice } from '../types/index.js';
+import { authorize } from '../utils/index.js';
 
 type Calendar = GoogleApis.calendar_v3.Calendar;
 type CalendarEvent = GoogleApis.calendar_v3.Schema$Event;

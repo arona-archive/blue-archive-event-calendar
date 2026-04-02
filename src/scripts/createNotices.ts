@@ -1,12 +1,12 @@
 import { JSDOM } from 'jsdom';
-import { NOTICE_ID_FILTER, NOTICE_TITLE_FILTER } from '../constants';
-import { News, Notice } from '../types';
-import { convertUrl, getId, sanitizeText } from '../utils';
-import { createEventNotice } from './createEventNotice';
-import { createLiveEventNotice } from './createLiveEventNotice';
-import { createLiveStreamNotice } from './createLiveStreamNotice';
-import { createMaintenanceNotices } from './createMaintenanceNotice';
-import { createPickUpNotice } from './createPickUpNotice';
+import { NOTICE_ID_FILTER, NOTICE_TITLE_FILTER } from '../constants/index.js';
+import { News, Notice } from '../types/index.js';
+import { convertUrl, getId, sanitizeText } from '../utils/index.js';
+import { createEventNotice } from './createEventNotice.js';
+import { createLiveEventNotice } from './createLiveEventNotice.js';
+import { createLiveStreamNotice } from './createLiveStreamNotice.js';
+import { createMaintenanceNotices } from './createMaintenanceNotice.js';
+import { createPickUpNotice } from './createPickUpNotice.js';
 
 export const createNotices = (news: News): Notice[] => {
 	const title = sanitizeText(news.summary);

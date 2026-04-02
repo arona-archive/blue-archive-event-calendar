@@ -1,9 +1,9 @@
-import fs from 'fs';
-import notices from './_data/notices.json';
-import { dataPath, NoticeType } from './constants';
-import { createNotices, fetchNews } from './scripts';
-import { News } from './types';
-import { exportJson } from './utils';
+import fs from 'node:fs';
+import notices from './_data/notices.json' with { type: 'json' };
+import { dataPath, NoticeType } from './constants/index.js';
+import { createNotices, fetchNews } from './scripts/index.js';
+import { News } from './types/index.js';
+import { exportJson } from './utils/index.js';
 
 const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 	switch (type) {

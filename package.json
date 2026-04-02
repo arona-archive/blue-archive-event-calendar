@@ -2,10 +2,11 @@
   "name": "blue-archive-event-calendar",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "node -r dotenv/config -r @swc-node/register ./src/index.ts",
-    "sync": "node -r dotenv/config -r @swc-node/register ./src/sync.ts"
+    "start": "node --import dotenv/config --import @swc-node/register/esm-register ./src/index.ts",
+    "sync": "node --import dotenv/config --import @swc-node/register/esm-register ./src/sync.ts"
   },
   "repository": {
     "type": "git",

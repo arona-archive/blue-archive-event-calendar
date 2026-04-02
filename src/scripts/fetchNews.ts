@@ -1,5 +1,5 @@
 import { request } from 'gaxios';
-import { News } from '../types';
+import { News } from '../types/index.js';
 
 export const fetchNews = async () => {
 	const res = await request<{ data: { rows: News[] } }>({

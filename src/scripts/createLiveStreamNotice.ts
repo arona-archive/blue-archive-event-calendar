@@ -1,6 +1,6 @@
-import { DATE_STR_REGEX, NoticeType } from '../constants';
-import { NoticeParams } from '../types';
-import { convertDateRange, sanitizeText } from '../utils';
+import { DATE_STR_REGEX, NoticeType } from '../constants/index.js';
+import { NoticeParams } from '../types/index.js';
+import { convertDateRange, sanitizeText } from '../utils/index.js';
 
 const convertTitle = (title: string): string => {
 	return title.replace(/、.+$/, '');

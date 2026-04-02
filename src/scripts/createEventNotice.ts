@@ -1,6 +1,6 @@
-import { NoticeType } from '../constants';
-import { NoticeParams } from '../types';
-import { convertDateRange, sanitizeText } from '../utils';
+import { NoticeType } from '../constants/index.js';
+import { NoticeParams } from '../types/index.js';
+import { convertDateRange, sanitizeText } from '../utils/index.js';
 
 const convertTitle = (title: string): string => {
 	return sanitizeText(title.replace('紹介', ''), true);

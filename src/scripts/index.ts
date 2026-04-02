@@ -1,3 +1,3 @@
-export * from './createEvents';
-export * from './createNotices';
-export * from './fetchNews';
+export * from './createEvents.js';
+export * from './createNotices.js';
+export * from './fetchNews.js';
