@@ -10,7 +10,8 @@
 		"start": "node --import dotenv/config --import @swc-node/register/esm-register ./src/index.ts",
 		"sync": "node --import dotenv/config --import @swc-node/register/esm-register ./src/sync.ts",
 		"prettier": "prettier --check .",
-		"prettier:fix": "prettier --write ."
+		"prettier:fix": "prettier --write .",
+		"bootstrap": "sapphire-bootstrap"
 	},
 	"repository": {
 		"type": "git",
@@ -22,7 +23,7 @@
 	},
 	"homepage": "https://github.com/arona-archive/blue-archive-birthdays-calendar#readme",
 	"dependencies": {
-		"@sapphire-sh/utils": "^1.56.0",
+		"@sapphire-sh/utils": "^1.61.0",
 		"gaxios": "^7.1.2",
 		"googleapis": "^171.4.0",
 		"jsdom": "^28.1.0"
