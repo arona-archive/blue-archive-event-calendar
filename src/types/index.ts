@@ -1,4 +1,4 @@
-import { NoticeType } from '../constants/index.js';
+import type { NoticeType } from '../constants/index.js';
 
 export interface News {
 	id: number;

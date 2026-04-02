@@ -5,6 +5,6 @@ const main = async () => {
 	await createEvents(Object.values(notices).flat());
 };
 
-(async () => {
+void (async () => {
 	await main();
 })();

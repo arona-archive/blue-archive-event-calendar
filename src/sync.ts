@@ -1,8 +1,8 @@
 import fs from 'node:fs';
 import notices from './_data/notices.json' with { type: 'json' };
-import { dataPath, NoticeType } from './constants/index.js';
+import { NoticeType, dataPath } from './constants/index.js';
 import { createNotices, fetchNews } from './scripts/index.js';
-import { News } from './types/index.js';
+import type { News } from './types/index.js';
 import { exportJson } from './utils/index.js';
 
 const getNoticeKey = (type: NoticeType): keyof typeof notices => {
@@ -41,19 +41,15 @@ const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 };
 
 const exportNotices = (news: News[]) => {
-	for (const notice of news.flatMap((news) => createNotices(news))) {
+	for (const notice of news.flatMap((n) => createNotices(n))) {
 		const key = getNoticeKey(notice.type);
 
-		if (!notices[key]) {
-			notices[key] = [];
-		}
-
 		const index = notices[key].findIndex((x) => x.id === notice.id);
-		if (index !== -1) {
-			notices[key][index] = notice;
-		} else {
+		if (index === -1) {
 			notices[key].push(notice);
 			notices[key].sort((a, b) => a.id.localeCompare(b.id));
+		} else {
+			notices[key][index] = notice;
 		}
 	}
 
@@ -61,7 +57,7 @@ const exportNotices = (news: News[]) => {
 
 	for (const notice of Object.values(notices).flat()) {
 		if (notice.startsAt.endsWith('メンテナンス後')) {
-			const date = notice.startsAt.split('T')[0];
+			const [date] = notice.startsAt.split('T');
 			if (!date) {
 				throw new Error(`invalid starts at: ${notice.startsAt}`);
 			}
@@ -79,7 +75,7 @@ const exportNotices = (news: News[]) => {
 		}
 
 		if (notice.endsAt.endsWith('メンテナンス前')) {
-			const date = notice.endsAt.split('T')[0];
+			const [date] = notice.endsAt.split('T');
 			if (!date) {
 				throw new Error(`invalid ends at: ${notice.endsAt}`);
 			}
@@ -113,6 +109,6 @@ const main = async () => {
 	await exportJson(notices, dataPath, 'notices.json');
 };
 
-(async () => {
+void (async () => {
 	await main();
 })();

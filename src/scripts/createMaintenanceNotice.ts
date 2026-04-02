@@ -6,16 +6,16 @@ import {
 	PICK_UP_REGEX,
 	TITLE_REGEX,
 } from '../constants/index.js';
-import { NoticeParams } from '../types/index.js';
+import type { NoticeParams } from '../types/index.js';
 import { convertDateRange, sanitizeText } from '../utils/index.js';
 
 const getDateRange = (elements: Element[], index: number): [string, string] => {
-	const dateRangeEl = elements[index + 1];
-	if (!dateRangeEl) {
+	const dateRangeEl = elements.at(index + 1);
+	if (dateRangeEl === undefined) {
 		throw new Error('cannot find date range element');
 	}
 
-	const dateRangeStr = dateRangeEl.textContent?.trim();
+	const dateRangeStr = dateRangeEl.textContent.trim();
 	if (!dateRangeStr) {
 		throw new Error('cannot find date range string');
 	}
@@ -23,20 +23,18 @@ const getDateRange = (elements: Element[], index: number): [string, string] => {
 	return convertDateRange(sanitizeText(dateRangeStr));
 };
 
-const getCampaignTitle = (type: NoticeCampaignType, multiplier: number): string => {
-	return `育成キャンペーン「${type}ドロップ量${multiplier}倍」`;
-};
+const getCampaignTitle = (type: NoticeCampaignType, multiplier: number): string => `育成キャンペーン「${type}ドロップ量${multiplier}倍」`;
 
 const getRecollectPickUps = (elements: Element[]): string[] => {
 	const index = elements.findIndex((el) => {
-		const text = el.textContent?.trim();
-		return text?.startsWith('▼選択募集対象');
+		const text = el.textContent.trim();
+		return text.startsWith('▼選択募集対象');
 	});
 
 	const pickUpEls: Element[] = [];
 	for (let i = index + 1; i < index + 100; ++i) {
-		const element = elements[i];
-		if (!element?.textContent.includes('★')) {
+		const element = elements.at(i);
+		if (element?.textContent.includes('★') !== true) {
 			break;
 		}
 
@@ -55,13 +53,11 @@ const getRecollectPickUps = (elements: Element[]): string[] => {
 	return pickUps;
 };
 
-const getRecollectPickUpTitle = (pickUps: string[]): string => {
-	return `リコレクト募集：${pickUps.join('、')}`;
-};
+const getRecollectPickUpTitle = (pickUps: string[]): string => `リコレクト募集：${pickUps.join('、')}`;
 
 const createCampaignNotice = (elements: Element[], multiplier: number): NoticeParams => {
-	const titleEl = elements[0];
-	if (!titleEl || !titleEl.textContent) {
+	const titleEl = elements.at(0);
+	if (titleEl === undefined || titleEl.textContent === '') {
 		throw new Error(`cannot find title element`);
 	}
 
@@ -75,11 +71,11 @@ const createCampaignNotice = (elements: Element[], multiplier: number): NoticePa
 		return null;
 	};
 	const campaignType = getCampaignType(titleEl.textContent);
-	if (!campaignType) {
+	if (campaignType === null) {
 		throw new Error(`cannot find campaign type: ${titleEl.textContent}`);
 	}
 
-	const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼開催'));
+	const index = elements.findIndex((el) => el.textContent.trim().startsWith('▼開催'));
 	const [startsAt, endsAt] = getDateRange(elements, index);
 
 	const title = getCampaignTitle(campaignType, multiplier);
@@ -93,7 +89,7 @@ const createCampaignNotice = (elements: Element[], multiplier: number): NoticePa
 	};
 };
 
-const createCampaignNotices = (elements: Element[], multiplier: number): NoticeParams[] => {
+const _createCampaignNotices = (elements: Element[], multiplier: number): NoticeParams[] => {
 	const types = Object.values(NoticeCampaignType);
 
 	let sectionIndex = -1;
@@ -124,7 +120,7 @@ const createCampaignNotices = (elements: Element[], multiplier: number): NoticeP
 
 const createNotice = (id: number, title: string, elements: Element[]): NoticeParams[] => {
 	{
-		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施時間'));
+		const index = elements.findIndex((el) => el.textContent.trim().startsWith('▼実施時間'));
 		if (index !== -1) {
 			const [startsAt, endsAt] = (() => {
 				if (id === 530) {
@@ -145,10 +141,10 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 	}
 
 	{
-		const titleEl = elements.find((el) => el.textContent?.match(TITLE_REGEX));
-		if (titleEl && titleEl.textContent) {
+		const titleEl = elements.find((el) => TITLE_REGEX.test(el.textContent));
+		if (titleEl !== undefined && titleEl.textContent !== '') {
 			const match = titleEl.textContent.match(TITLE_REGEX);
-			if (!match || !match[1]) {
+			if (match?.[1] === undefined || match[1] === '') {
 				throw new Error(`invalid title: ${titleEl.textContent}`);
 			}
 
@@ -232,8 +228,8 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					}
 
 					const index = elements.findIndex((el) => {
-						const text = el.textContent?.trim();
-						return text?.startsWith('▼開催期間');
+						const text = el.textContent.trim();
+						return text.startsWith('▼開催期間');
 					});
 					const [startsAt, endsAt] = getDateRange(elements, index);
 
@@ -249,8 +245,8 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 				}
 				if (title.includes('リコレクト募集')) {
 					const index = elements.findIndex((el) => {
-						const text = el.textContent?.trim();
-						return text?.startsWith('▼開催') || text?.startsWith('▼第1回開催');
+						const text = el.textContent.trim();
+						return text.startsWith('▼開催') || text.startsWith('▼第1回開催');
 					});
 					const [startsAt, endsAt] = getDateRange(elements, index);
 
@@ -267,8 +263,8 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 				}
 				if (title.includes('アンコール募集')) {
 					const index = elements.findIndex((el) => {
-						const text = el.textContent?.trim();
-						return text?.startsWith('▼開催期間');
+						const text = el.textContent.trim();
+						return text.startsWith('▼開催期間');
 					});
 					const [startsAt, endsAt] = getDateRange(elements, index);
 
@@ -291,7 +287,7 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 					return null;
 				};
 				const type = getType();
-				if (!type) {
+				if (type === null) {
 					throw new Error(`cannot find type: ${title}`);
 				}
 				if (type === NoticeType.EVENTS) {
@@ -299,8 +295,8 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 				}
 
 				const index = elements.findIndex((el) => {
-					const text = el.textContent?.trim();
-					return text?.startsWith('▼開催') || text?.startsWith('▼第1回開催');
+					const text = el.textContent.trim();
+					return text.startsWith('▼開催') || text.startsWith('▼第1回開催');
 				});
 				const [startsAt, endsAt] = getDateRange(elements, index);
 

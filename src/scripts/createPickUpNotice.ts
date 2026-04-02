@@ -1,16 +1,14 @@
 import { NoticeType } from '../constants/index.js';
-import { NoticeParams } from '../types/index.js';
+import type { NoticeParams } from '../types/index.js';
 import { convertDateRange, sanitizeText } from '../utils/index.js';
 
-const convertTitle = (title: string): string => {
-	return sanitizeText(title.replace('ピックアップ募集紹介', 'ピックアップ募集'), true);
-};
+const convertTitle = (title: string): string => sanitizeText(title.replace('ピックアップ募集紹介', 'ピックアップ募集'), true);
 
 export const createPickUpNotice = (document: Document): NoticeParams => {
 	const elements = Array.from(document.querySelectorAll('p'));
 
 	const getTitle = (): string => {
-		const titleEl = elements.find((e) => e.textContent?.startsWith('ピックアップ募集紹介'));
+		const titleEl = elements.find((e) => e.textContent.startsWith('ピックアップ募集紹介'));
 		if (!titleEl) {
 			throw new Error('cannot find title element');
 		}
@@ -25,20 +23,20 @@ export const createPickUpNotice = (document: Document): NoticeParams => {
 	const title = getTitle();
 
 	const getDateRange = (): [string, string] => {
-		const index = elements.findIndex((el) => el.textContent?.trim().startsWith('▼実施'));
+		const index = elements.findIndex((el) => el.textContent.trim().startsWith('▼実施'));
 
 		const getOffset = (): number => {
-			const text = elements[index]?.textContent?.trim();
+			const text = elements[index]?.textContent.trim();
 			return text === '▼実施期間' ? 1 : 0;
 		};
 		const offset = getOffset();
 
-		const dateRangeEl = elements[index + offset];
-		if (!dateRangeEl) {
+		const dateRangeEl = elements.at(index + offset);
+		if (dateRangeEl === undefined) {
 			throw new Error('cannot find date range element');
 		}
 
-		const dateRangeStr = dateRangeEl.textContent?.trim();
+		const dateRangeStr = dateRangeEl.textContent.trim();
 		if (!dateRangeStr) {
 			throw new Error('cannot find date range string');
 		}

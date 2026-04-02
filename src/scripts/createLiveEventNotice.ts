@@ -1,5 +1,5 @@
 import { NoticeType } from '../constants/index.js';
-import { NoticeParams } from '../types/index.js';
+import type { NoticeParams } from '../types/index.js';
 
 export const createLiveEventNotice = (id: number): NoticeParams[] => {
 	switch (id) {

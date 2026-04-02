@@ -1,7 +1,8 @@
 import { sleep } from '@sapphire-sh/utils';
-import GoogleApis, { google } from 'googleapis';
+import type GoogleApis from 'googleapis';
+import { google } from 'googleapis';
 import { TIME_THRESHOLD } from '../constants/index.js';
-import { Notice } from '../types/index.js';
+import type { Notice } from '../types/index.js';
 import { authorize } from '../utils/index.js';
 
 type Calendar = GoogleApis.calendar_v3.Calendar;
@@ -47,7 +48,7 @@ const getEvent = async (calendar: GoogleApis.calendar_v3.Calendar, eventId: stri
 		});
 		return res.data;
 	} catch (error) {
-		if ((error as any).code === 404) {
+		if (error instanceof Error && 'code' in error && error.code === 404) {
 			return null;
 		}
 		throw error;
@@ -59,7 +60,7 @@ const createEvent = async (calendar: Calendar, eventId: string, event: CalendarE
 
 	const prevEvent = await getEvent(calendar, eventId);
 	if (prevEvent) {
-		return await updateEvent(calendar, eventId, event);
+		return updateEvent(calendar, eventId, event);
 	}
 
 	await calendar.events.insert({
@@ -84,7 +85,7 @@ const updateEvent = async (calendar: Calendar, eventId: string, event: CalendarE
 
 	await calendar.events.update({
 		calendarId: process.env.GOOGLE_CALENDAR_ID,
-		eventId: eventId,
+		eventId,
 		requestBody: {
 			...event,
 			status: 'confirmed',
@@ -92,8 +93,7 @@ const updateEvent = async (calendar: Calendar, eventId: string, event: CalendarE
 	});
 };
 
-const convertCalendarEvent = (notice: Notice): CalendarEvent => {
-	return {
+const convertCalendarEvent = (notice: Notice): CalendarEvent => ({
 		id: notice.id,
 		summary: notice.title,
 		start: {
@@ -105,8 +105,7 @@ const convertCalendarEvent = (notice: Notice): CalendarEvent => {
 			timeZone: 'Asia/Tokyo',
 		},
 		description: notice.url,
-	};
-};
+	});
 
 export const createEvents = async (notices: Notice[]) => {
 	console.log('create events');

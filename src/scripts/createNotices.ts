@@ -1,6 +1,6 @@
 import { JSDOM } from 'jsdom';
 import { NOTICE_ID_FILTER, NOTICE_TITLE_FILTER } from '../constants/index.js';
-import { News, Notice } from '../types/index.js';
+import type { News, Notice } from '../types/index.js';
 import { convertUrl, getId, sanitizeText } from '../utils/index.js';
 import { createEventNotice } from './createEventNotice.js';
 import { createLiveEventNotice } from './createLiveEventNotice.js';
@@ -24,12 +24,12 @@ export const createNotices = (news: News): Notice[] => {
 
 	console.log('title', news.id, title);
 
-	const content = news.content;
+	const {content} = news;
 	if (!content) {
 		throw new Error('cannot find content');
 	}
 
-	const document = new JSDOM(content).window.document;
+	const {document} = new JSDOM(content).window;
 
 	const url = convertUrl(news.id);
 

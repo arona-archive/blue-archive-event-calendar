@@ -1,20 +1,21 @@
-export const sanitizeText = (text: string, isTitle = false): string => {
-	text = text.replaceAll('〜', '~');
-	text = text.replaceAll('　', ' ');
-	text = text.replaceAll('、 ', '、');
-	text = text.replaceAll(/ +/g, ' ');
+export const sanitizeText = (input: string, isTitle = false): string => {
+	let result = input.replaceAll('〜', '~');
+	result = result.replaceAll('　', ' ');
+	result = result.replaceAll('、 ', '、');
+	result = result.replaceAll(/ +/g, ' ');
 
 	if (!isTitle) {
-		text = text.replaceAll('～', '~');
-		text = text.replaceAll('：', ':');
+		result = result.replaceAll('～', '~');
+		result = result.replaceAll('：', ':');
 	}
 
-	text = text.trim();
+	result = result.trim();
 
-	return text;
+	return result;
 };
 
-import { DATE_STR_REGEX, NOTICE_URL, NoticeType } from '../constants/index.js';
+import type { NoticeType } from '../constants/index.js';
+import { DATE_STR_REGEX, NOTICE_URL } from '../constants/index.js';
 
 export const getId = (type: NoticeType, startsAt: string, subId: number = 1): string => {
 	const date = startsAt.split('T')[0]?.replaceAll('-', '').replace(/^20/, '');
@@ -24,9 +25,7 @@ export const getId = (type: NoticeType, startsAt: string, subId: number = 1): st
 	return `10${type}${date}${`${subId}`.padStart(2, '0')}`;
 };
 
-export const convertUrl = (id: number): string => {
-	return `${NOTICE_URL}/${id}`;
-};
+export const convertUrl = (id: number): string => `${NOTICE_URL}/${id}`;
 
 const convertDate = (dateStr: string): string | null => {
 	const match = dateStr.match(DATE_STR_REGEX);
@@ -39,9 +38,7 @@ const convertDate = (dateStr: string): string | null => {
 		return null;
 	}
 
-	const getDate = () => {
-		return `${yearStr}-${monthStr.padStart(2, '0')}-${dayStr.padStart(2, '0')}`;
-	};
+	const getDate = () => `${yearStr}-${monthStr.padStart(2, '0')}-${dayStr.padStart(2, '0')}`;
 	const date = getDate();
 
 	const getTime = () => {
@@ -61,9 +58,7 @@ const getTempEndsAt = (startsAt: string): string | null => {
 		return null;
 	}
 
-	const getDate = () => {
-		return dateStr;
-	};
+	const getDate = () => dateStr;
 	const date = getDate();
 
 	const getTime = (): string | null => {
@@ -72,8 +67,8 @@ const getTempEndsAt = (startsAt: string): string | null => {
 			return null;
 		}
 
-		const hours = parseInt(hoursStr, 10);
-		if (isNaN(hours)) {
+		const hours = Number.parseInt(hoursStr, 10);
+		if (Number.isNaN(hours)) {
 			return null;
 		}
 
@@ -98,7 +93,7 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 	}
 
 	const startsAt = convertDate(startsAtStr);
-	if (!startsAt) {
+	if (startsAt === null) {
 		throw new Error(`cannot find starts at: ${startsAtStr}`);
 	}
 
@@ -108,14 +103,14 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 		}
 
 		if (endsAtStr.endsWith('(予定)')) {
-			const date = startsAt.split('T')[0];
-			const time = endsAtStr.split('(')[0];
+			const [date] = startsAt.split('T');
+			const [time] = endsAtStr.split('(');
 			return `${date}T${time}`;
 		}
 
 		if (endsAtStr.endsWith('（予定）')) {
-			const date = startsAt.split('T')[0];
-			const time = endsAtStr.split('（')[0];
+			const [date] = startsAt.split('T');
+			const [time] = endsAtStr.split('（');
 			return `${date}T${time}`;
 		}
 
@@ -193,7 +188,7 @@ export const convertDateRange = (dateRangeStr: string): [string, string] => {
 		return getEndsAt('');
 	};
 	const endsAt = getEndsAt();
-	if (!endsAt) {
+	if (endsAt === null) {
 		throw new Error(`cannot find ends at: ${endsAtStr}`);
 	}
 
