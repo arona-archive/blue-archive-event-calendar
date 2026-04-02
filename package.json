@@ -4,14 +4,14 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
+		"bootstrap": "sapphire-bootstrap",
 		"build": "tsc",
+		"start": "node --import dotenv/config --import @swc-node/register/esm-register ./src/index.ts",
 		"lint": "eslint src",
 		"lint:fix": "eslint src --fix",
-		"start": "node --import dotenv/config --import @swc-node/register/esm-register ./src/index.ts",
-		"sync": "node --import dotenv/config --import @swc-node/register/esm-register ./src/sync.ts",
 		"prettier": "prettier --check .",
 		"prettier:fix": "prettier --write .",
-		"bootstrap": "sapphire-bootstrap"
+		"sync": "node --import dotenv/config --import @swc-node/register/esm-register ./src/sync.ts"
 	},
 	"repository": {
 		"type": "git",
