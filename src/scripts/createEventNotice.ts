@@ -8,9 +8,7 @@ export const createEventNotice = (document: Document): NoticeParams => {
 	const elements = Array.from(document.querySelectorAll('p'));
 
 	const getTitle = (): string => {
-		const titleEl = elements.find((e) =>
-			['【イベント】', '【復刻イベント】'].some((x) => e.textContent.startsWith(x))
-		);
+		const titleEl = elements.find((e) => ['【イベント】', '【復刻イベント】'].some((x) => e.textContent.startsWith(x)));
 		if (!titleEl) {
 			throw new Error('cannot find title element');
 		}

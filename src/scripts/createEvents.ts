@@ -94,18 +94,18 @@ const updateEvent = async (calendar: Calendar, eventId: string, event: CalendarE
 };
 
 const convertCalendarEvent = (notice: Notice): CalendarEvent => ({
-		id: notice.id,
-		summary: notice.title,
-		start: {
-			dateTime: `${notice.startsAt}:00+09:00`,
-			timeZone: 'Asia/Tokyo',
-		},
-		end: {
-			dateTime: `${notice.endsAt}:00+09:00`,
-			timeZone: 'Asia/Tokyo',
-		},
-		description: notice.url,
-	});
+	id: notice.id,
+	summary: notice.title,
+	start: {
+		dateTime: `${notice.startsAt}:00+09:00`,
+		timeZone: 'Asia/Tokyo',
+	},
+	end: {
+		dateTime: `${notice.endsAt}:00+09:00`,
+		timeZone: 'Asia/Tokyo',
+	},
+	description: notice.url,
+});
 
 export const createEvents = async (notices: Notice[]) => {
 	console.log('create events');

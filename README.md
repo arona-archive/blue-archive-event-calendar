@@ -13,19 +13,18 @@ An automated event calendar for Blue Archive JP server
 ## Usage
 
 - Add to your Google Calendar
-
   - https://calendar.google.com/calendar?cid=Y19zMjF2ZmhlY3BwcGgwOTVnN2IzbjYzaXUwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
 - Embed into your website
 
 ```html
 <iframe
-  src="https://calendar.google.com/calendar/embed?src=c_s21vfhecppph095g7b3n63iu00%40group.calendar.google.com"
-  style="border: 0"
-  width="800"
-  height="600"
-  frameborder="0"
-  scrolling="no"
+	src="https://calendar.google.com/calendar/embed?src=c_s21vfhecppph095g7b3n63iu00%40group.calendar.google.com"
+	style="border: 0"
+	width="800"
+	height="600"
+	frameborder="0"
+	scrolling="no"
 ></iframe>
 ```
 

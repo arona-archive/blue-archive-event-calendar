@@ -9,8 +9,8 @@
 		"lint:fix": "eslint src --fix",
 		"start": "node --import dotenv/config --import @swc-node/register/esm-register ./src/index.ts",
 		"sync": "node --import dotenv/config --import @swc-node/register/esm-register ./src/sync.ts",
-		"prettier": "prettier --check src",
-		"prettier:fix": "prettier --write src"
+		"prettier": "prettier --check .",
+		"prettier:fix": "prettier --write ."
 	},
 	"repository": {
 		"type": "git",

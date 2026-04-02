@@ -23,7 +23,8 @@ const getDateRange = (elements: Element[], index: number): [string, string] => {
 	return convertDateRange(sanitizeText(dateRangeStr));
 };
 
-const getCampaignTitle = (type: NoticeCampaignType, multiplier: number): string => `育成キャンペーン「${type}ドロップ量${multiplier}倍」`;
+const getCampaignTitle = (type: NoticeCampaignType, multiplier: number): string =>
+	`育成キャンペーン「${type}ドロップ量${multiplier}倍」`;
 
 const getRecollectPickUps = (elements: Element[]): string[] => {
 	const index = elements.findIndex((el) => {

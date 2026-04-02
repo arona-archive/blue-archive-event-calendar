@@ -2,7 +2,8 @@ import { NoticeType } from '../constants/index.js';
 import type { NoticeParams } from '../types/index.js';
 import { convertDateRange, sanitizeText } from '../utils/index.js';
 
-const convertTitle = (title: string): string => sanitizeText(title.replace('ピックアップ募集紹介', 'ピックアップ募集'), true);
+const convertTitle = (title: string): string =>
+	sanitizeText(title.replace('ピックアップ募集紹介', 'ピックアップ募集'), true);
 
 export const createPickUpNotice = (document: Document): NoticeParams => {
 	const elements = Array.from(document.querySelectorAll('p'));

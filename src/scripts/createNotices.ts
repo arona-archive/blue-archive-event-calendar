@@ -24,12 +24,12 @@ export const createNotices = (news: News): Notice[] => {
 
 	console.log('title', news.id, title);
 
-	const {content} = news;
+	const { content } = news;
 	if (!content) {
 		throw new Error('cannot find content');
 	}
 
-	const {document} = new JSDOM(content).window;
+	const { document } = new JSDOM(content).window;
 
 	const url = convertUrl(news.id);
 
