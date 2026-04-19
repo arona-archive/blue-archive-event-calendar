@@ -1,5 +1,5 @@
 {
-	"extends": "@sapphire-sh/utils/tsconfig.esm.json",
+	"extends": "@sapphire-sh/utils/tsconfig",
 	"compilerOptions": {
 		"outDir": "./build",
 		"resolveJsonModule": true
