@@ -1199,6 +1199,14 @@
       "startsAt": "2026-04-01T11:00",
       "endsAt": "2026-04-01T17:00",
       "url": "https://bluearchive.jp/news/newsJump/645"
+    },
+    {
+      "id": "10126042101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-04-21T11:00",
+      "endsAt": "2026-04-21T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/651"
     }
   ],
   "pickUps": [
@@ -2705,6 +2713,14 @@
       "startsAt": "2026-04-15T11:00",
       "endsAt": "2026-04-21T10:59",
       "url": "https://bluearchive.jp/news/newsJump/648"
+    },
+    {
+      "id": "10226042101",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ニコ」、★3「クルミ」",
+      "startsAt": "2026-04-21T19:00",
+      "endsAt": "2026-05-06T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/650"
     }
   ],
   "events": [
@@ -3491,6 +3507,14 @@
       "startsAt": "2026-04-01T17:00",
       "endsAt": "2026-04-15T10:59",
       "url": "https://bluearchive.jp/news/newsJump/646"
+    },
+    {
+      "id": "10326042101",
+      "type": 3,
+      "title": "【イベント】特殊作戦「ロア追跡」編",
+      "startsAt": "2026-04-21T19:00",
+      "endsAt": "2026-05-06T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/652"
     }
   ],
   "totalAssults": [
@@ -4189,6 +4213,14 @@
       "startsAt": "2026-03-25T11:00",
       "endsAt": "2026-04-01T03:59",
       "url": "https://bluearchive.jp/news/newsJump/642"
+    },
+    {
+      "id": "10426042901",
+      "type": 4,
+      "title": "総力戦 「市街地戦・KAITEN FX Mk.0」",
+      "startsAt": "2026-04-29T11:00",
+      "endsAt": "2026-05-06T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/651"
     }
   ],
   "jointExcercises": [
@@ -4583,6 +4615,14 @@
       "startsAt": "2026-04-01T17:00",
       "endsAt": "2026-04-08T03:59",
       "url": "https://bluearchive.jp/news/newsJump/645"
+    },
+    {
+      "id": "10526050601",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2026-05-06T11:00",
+      "endsAt": "2026-05-13T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/651"
     }
   ],
   "campaigns": [
@@ -5623,6 +5663,14 @@
       "startsAt": "2026-04-08T11:00",
       "endsAt": "2026-04-15T03:59",
       "url": "https://bluearchive.jp/news/newsJump/645"
+    },
+    {
+      "id": "10926051301",
+      "type": 9,
+      "title": "大決戦 「市街地戦・クロカゲ」",
+      "startsAt": "2026-05-13T11:00",
+      "endsAt": "2026-05-20T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/651"
     }
   ],
   "multiFloorRaid": [
@@ -5825,6 +5873,14 @@
       "startsAt": "2026-03-19T11:00",
       "endsAt": "2026-04-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/642"
+    },
+    {
+      "id": "101026042201",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2026-04-22T11:00",
+      "endsAt": "2026-05-27T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/651"
     }
   ]
 }
