@@ -26,17 +26,27 @@ export const createEventNotice = (document: Document): NoticeParams => {
 		if (index === -1) {
 			throw new Error('cannot find date range element');
 		}
-		const dateRangeEl = elements.at(index + 1);
-		if (dateRangeEl === undefined) {
-			throw new Error('cannot find date range element');
-		}
 
-		const dateRangeStr = dateRangeEl.textContent.trim();
-		if (!dateRangeStr) {
-			throw new Error('cannot find date range string');
-		}
+		const getDateRangeStr = (): string => {
+			const inlineMatch = elements[index]?.textContent.match(/▼開催期間[\s\S]*?(・[\s\S]+?)(?=▼|$)/);
+			const inlineStr = inlineMatch?.[1]?.trim();
+			if (inlineStr !== undefined && inlineStr !== '') {
+				return inlineStr;
+			}
 
-		return convertDateRange(sanitizeText(dateRangeStr));
+			const dateRangeEl = elements.at(index + 1);
+			if (dateRangeEl === undefined) {
+				throw new Error('cannot find date range element');
+			}
+
+			const dateRangeStr = dateRangeEl.textContent.trim();
+			if (!dateRangeStr) {
+				throw new Error('cannot find date range string');
+			}
+			return dateRangeStr;
+		};
+
+		return convertDateRange(sanitizeText(getDateRangeStr()));
 	};
 	const [startsAt, endsAt] = getDateRange();
 
