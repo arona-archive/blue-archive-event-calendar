@@ -2721,6 +2721,14 @@
       "startsAt": "2026-04-21T19:00",
       "endsAt": "2026-05-06T10:59",
       "url": "https://bluearchive.jp/news/newsJump/650"
+    },
+    {
+      "id": "10226050601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「スミレ(アルバイト)」、★3「レイ」、★3「アカリ(正月)」、★3「イズミ(正月)」、★3「ハルカ(正月)」",
+      "startsAt": "2026-05-06T11:00",
+      "endsAt": "2026-05-20T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/655"
     }
   ],
   "events": [
@@ -3515,6 +3523,14 @@
       "startsAt": "2026-04-21T19:00",
       "endsAt": "2026-05-06T10:59",
       "url": "https://bluearchive.jp/news/newsJump/652"
+    },
+    {
+      "id": "10326050601",
+      "type": 3,
+      "title": "【復刻イベント】「プレイボール！~目指せ！満塁ホームラン～」",
+      "startsAt": "2026-05-06T11:00",
+      "endsAt": "2026-05-20T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/656"
     }
   ],
   "totalAssults": [
