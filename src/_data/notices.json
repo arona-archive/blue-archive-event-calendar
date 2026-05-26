@@ -1215,6 +1215,14 @@
       "startsAt": "2026-05-20T11:00",
       "endsAt": "2026-05-20T17:00",
       "url": "https://bluearchive.jp/news/newsJump/658"
+    },
+    {
+      "id": "10126052701",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-05-27T11:00",
+      "endsAt": "2026-05-27T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/660"
     }
   ],
   "pickUps": [
@@ -2745,6 +2753,14 @@
       "startsAt": "2026-05-20T11:00",
       "endsAt": "2026-05-27T10:59",
       "url": "https://bluearchive.jp/news/newsJump/657"
+    },
+    {
+      "id": "10226052701",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ムツキ(ドレス)」、★3「ハルカ(ドレス)」、★3「アル(ドレス)」、★3「カヨコ(ドレス)」、★3「サオリ(ドレス)」",
+      "startsAt": "2026-05-27T19:00",
+      "endsAt": "2026-06-10T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/659"
     }
   ],
   "events": [
@@ -3547,6 +3563,14 @@
       "startsAt": "2026-05-06T11:00",
       "endsAt": "2026-05-20T10:59",
       "url": "https://bluearchive.jp/news/newsJump/656"
+    },
+    {
+      "id": "10326052701",
+      "type": 3,
+      "title": "【イベント】特殊作戦「ロア追跡」編",
+      "startsAt": "2026-05-27T19:00",
+      "endsAt": "2026-06-10T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/661"
     }
   ],
   "totalAssults": [
@@ -4253,6 +4277,14 @@
       "startsAt": "2026-04-29T11:00",
       "endsAt": "2026-05-06T03:59",
       "url": "https://bluearchive.jp/news/newsJump/651"
+    },
+    {
+      "id": "10426060301",
+      "type": 4,
+      "title": "新総力戦 「市街地戦・ドラム缶ガニ」",
+      "startsAt": "2026-06-03T11:00",
+      "endsAt": "2026-06-10T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/660"
     }
   ],
   "jointExcercises": [
@@ -5913,6 +5945,14 @@
       "startsAt": "2026-04-22T11:00",
       "endsAt": "2026-05-27T03:59",
       "url": "https://bluearchive.jp/news/newsJump/651"
+    },
+    {
+      "id": "101026052801",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2026-05-28T11:00",
+      "endsAt": "2026-06-24T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/660"
     }
   ]
 }
