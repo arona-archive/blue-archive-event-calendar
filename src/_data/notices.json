@@ -1223,6 +1223,14 @@
       "startsAt": "2026-05-27T11:00",
       "endsAt": "2026-05-27T19:00",
       "url": "https://bluearchive.jp/news/newsJump/660"
+    },
+    {
+      "id": "10126052901",
+      "type": 1,
+      "title": "臨時メンテナンス",
+      "startsAt": "2026-05-29T11:00",
+      "endsAt": "2026-05-29T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/662"
     }
   ],
   "pickUps": [
