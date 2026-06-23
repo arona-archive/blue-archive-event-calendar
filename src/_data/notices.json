@@ -1239,6 +1239,14 @@
       "startsAt": "2026-06-10T11:00",
       "endsAt": "2026-06-10T17:00",
       "url": "https://bluearchive.jp/news/newsJump/665"
+    },
+    {
+      "id": "10126062401",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-06-24T11:00",
+      "endsAt": "2026-06-24T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/670"
     }
   ],
   "pickUps": [
@@ -2793,6 +2801,22 @@
       "startsAt": "2026-06-17T11:00",
       "endsAt": "2026-06-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/668"
+    },
+    {
+      "id": "10226062401",
+      "type": 2,
+      "title": "ピックアップ募集：★3「キサキ(水着)」、★3「シュン(水着)」",
+      "startsAt": "2026-06-24T19:00",
+      "endsAt": "2026-07-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/669"
+    },
+    {
+      "id": "10226070801",
+      "type": 2,
+      "title": "リコレクト募集：★3「ワカモ」、★3「ホシノ(水着)」、★3「ミカ」、★3「ハナコ(水着)」、★3「ヒナ(ドレス)」",
+      "startsAt": "2026-07-08Tメンテナンス",
+      "endsAt": "2026-07-15T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/670"
     }
   ],
   "events": [
@@ -3611,6 +3635,14 @@
       "startsAt": "2026-06-10T17:00",
       "endsAt": "2026-06-24T10:59",
       "url": "https://bluearchive.jp/news/newsJump/666"
+    },
+    {
+      "id": "10326062401",
+      "type": 3,
+      "title": "【イベント】「嵐過天晴」",
+      "startsAt": "2026-06-24T19:00",
+      "endsAt": "2026-07-08T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/671"
     }
   ],
   "totalAssults": [
@@ -4325,6 +4357,14 @@
       "startsAt": "2026-06-03T11:00",
       "endsAt": "2026-06-10T03:59",
       "url": "https://bluearchive.jp/news/newsJump/660"
+    },
+    {
+      "id": "10426070101",
+      "type": 4,
+      "title": "総力戦 「屋内戦・グレゴリオ」",
+      "startsAt": "2026-07-01T11:00",
+      "endsAt": "2026-07-08T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/670"
     }
   ],
   "jointExcercises": [
@@ -6017,6 +6057,14 @@
       "startsAt": "2026-05-28T11:00",
       "endsAt": "2026-06-24T03:59",
       "url": "https://bluearchive.jp/news/newsJump/660"
+    },
+    {
+      "id": "101026062501",
+      "type": 10,
+      "title": "制約解除決戦「ティファレト」",
+      "startsAt": "2026-06-25T11:00",
+      "endsAt": "2026-07-29T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/670"
     }
   ]
 }
