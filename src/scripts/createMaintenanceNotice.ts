@@ -252,7 +252,12 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 						const text = el.textContent.trim();
 						return text.startsWith('▼開催') || text.startsWith('▼第1回開催');
 					});
-					const [startsAt, endsAt] = getDateRange(elements, index);
+					const [startsAt, endsAt] = (() => {
+						if (id === 670) {
+							return ['2026-07-08T19:00', '2026-07-15T03:59'];
+						}
+						return getDateRange(elements, index);
+					})();
 
 					const pickUps = getRecollectPickUps(elements);
 
