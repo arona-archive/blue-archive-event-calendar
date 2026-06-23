@@ -215,6 +215,9 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 				if (title.includes('特殊調査')) {
 					return [];
 				}
+				if (title.includes('LimitedDash募集')) {
+					return [];
+				}
 				if (title === 'スペシャルイベント「バレンタインの約束」') {
 					if (id === 526) {
 						return [
