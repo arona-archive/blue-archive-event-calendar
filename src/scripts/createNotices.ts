@@ -73,7 +73,7 @@ export const createNotices = (news: News): Notice[] => {
 		];
 	}
 
-	if (title.includes('ブルアカらいぶ')) {
+	if (title.includes('ブルアカらいぶ') || title.includes('生放送')) {
 		const { subId, ...notice } = createLiveStreamNotice(title, document);
 		return [
 			{
