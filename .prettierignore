@@ -1,3 +1,4 @@
 .next
 build
 dist
+src/_data/notices.json
