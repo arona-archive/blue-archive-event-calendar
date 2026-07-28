@@ -1255,6 +1255,14 @@
       "startsAt": "2026-07-08T11:00",
       "endsAt": "2026-07-08T17:00",
       "url": "https://bluearchive.jp/news/newsJump/673"
+    },
+    {
+      "id": "10126072901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-07-29T11:00",
+      "endsAt": "2026-07-29T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/680"
     }
   ],
   "pickUps": [
@@ -2833,6 +2841,14 @@
       "startsAt": "2026-07-22T11:00",
       "endsAt": "2026-07-29T10:59",
       "url": "https://bluearchive.jp/news/newsJump/676"
+    },
+    {
+      "id": "10226072901",
+      "type": 2,
+      "title": "ピックアップ募集：★3「マコト(水着)」、★3「サツキ(水着)」",
+      "startsAt": "2026-07-29T19:00",
+      "endsAt": "2026-08-05T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/678"
     }
   ],
   "events": [
@@ -3667,6 +3683,14 @@
       "startsAt": "2026-07-08T17:00",
       "endsAt": "2026-07-22T10:59",
       "url": "https://bluearchive.jp/news/newsJump/674"
+    },
+    {
+      "id": "10326072901",
+      "type": 3,
+      "title": "【イベント】「出航！万魔船 マコト議長の華麗なる避暑」",
+      "startsAt": "2026-07-29T19:00",
+      "endsAt": "2026-08-12T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/681"
     }
   ],
   "totalAssults": [
@@ -4389,6 +4413,14 @@
       "startsAt": "2026-07-01T11:00",
       "endsAt": "2026-07-08T03:59",
       "url": "https://bluearchive.jp/news/newsJump/670"
+    },
+    {
+      "id": "10426080501",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ヒエロニムス」",
+      "startsAt": "2026-08-05T11:00",
+      "endsAt": "2026-08-12T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/680"
     }
   ],
   "jointExcercises": [
@@ -6113,6 +6145,14 @@
       "startsAt": "2026-06-25T11:00",
       "endsAt": "2026-07-29T03:59",
       "url": "https://bluearchive.jp/news/newsJump/670"
+    },
+    {
+      "id": "101026073001",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2026-07-30T11:00",
+      "endsAt": "2026-08-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/680"
     }
   ]
 }
