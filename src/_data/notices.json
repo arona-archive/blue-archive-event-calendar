@@ -1263,6 +1263,14 @@
       "startsAt": "2026-07-29T11:00",
       "endsAt": "2026-07-29T19:00",
       "url": "https://bluearchive.jp/news/newsJump/680"
+    },
+    {
+      "id": "10126081201",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-08-12T11:00",
+      "endsAt": "2026-08-12T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/685"
     }
   ],
   "pickUps": [
@@ -2829,10 +2837,10 @@
     {
       "id": "10226070801",
       "type": 2,
-      "title": "リコレクト募集：★3「ワカモ」、★3「ホシノ(水着)」、★3「ミカ」、★3「ハナコ(水着)」、★3「ヒナ(ドレス)」",
-      "startsAt": "2026-07-08T19:00",
-      "endsAt": "2026-07-15T03:59",
-      "url": "https://bluearchive.jp/news/newsJump/670"
+      "title": "ピックアップ募集：★3「ヒカリ」、★3「ノゾミ」 、★3「サオリ(水着)」、★3「ヒヨリ(水着)」、★3「ミサキ(水着)」",
+      "startsAt": "2026-07-08T17:00",
+      "endsAt": "2026-07-22T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/672"
     },
     {
       "id": "10226072201",
@@ -2862,7 +2870,7 @@
       "id": "10226081201",
       "type": 2,
       "title": "ピックアップ募集：★3「セナ(私服)」、★3「ジュリ(アルバイト)」、★3「ナグサ」、★3「ニヤ」",
-      "startsAt": "2026-08-12T19:00",
+      "startsAt": "2026-08-12T17:00",
       "endsAt": "2026-08-26T10:59",
       "url": "https://bluearchive.jp/news/newsJump/684"
     }
@@ -3707,6 +3715,14 @@
       "startsAt": "2026-07-29T19:00",
       "endsAt": "2026-08-12T10:59",
       "url": "https://bluearchive.jp/news/newsJump/681"
+    },
+    {
+      "id": "10326081201",
+      "type": 3,
+      "title": "【復刻イベント】「パンデミック・ハザード～奇跡の一枚～」",
+      "startsAt": "2026-08-12T17:00",
+      "endsAt": "2026-08-26T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/686"
     }
   ],
   "totalAssults": [
@@ -4855,6 +4871,14 @@
       "startsAt": "2026-07-08T17:00",
       "endsAt": "2026-07-15T03:59",
       "url": "https://bluearchive.jp/news/newsJump/673"
+    },
+    {
+      "id": "10526081201",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「護衛演習」",
+      "startsAt": "2026-08-12T17:00",
+      "endsAt": "2026-08-19T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/685"
     }
   ],
   "campaigns": [
@@ -5935,6 +5959,14 @@
       "startsAt": "2026-07-15T11:00",
       "endsAt": "2026-07-22T03:59",
       "url": "https://bluearchive.jp/news/newsJump/673"
+    },
+    {
+      "id": "10926081901",
+      "type": 9,
+      "title": "大決戦 「屋外戦・ビナー」",
+      "startsAt": "2026-08-19T11:00",
+      "endsAt": "2026-08-26T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/685"
     }
   ],
   "multiFloorRaid": [
