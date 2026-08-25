@@ -2837,10 +2837,10 @@
     {
       "id": "10226070801",
       "type": 2,
-      "title": "ピックアップ募集：★3「ヒカリ」、★3「ノゾミ」 、★3「サオリ(水着)」、★3「ヒヨリ(水着)」、★3「ミサキ(水着)」",
+      "title": "リコレクト募集：★3「ワカモ」、★3「ホシノ(水着)」、★3「ミカ」、★3「ハナコ(水着)」、★3「ヒナ(ドレス)」",
       "startsAt": "2026-07-08T17:00",
-      "endsAt": "2026-07-22T10:59",
-      "url": "https://bluearchive.jp/news/newsJump/672"
+      "endsAt": "2026-07-15T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/673"
     },
     {
       "id": "10226072201",
@@ -2873,6 +2873,14 @@
       "startsAt": "2026-08-12T17:00",
       "endsAt": "2026-08-26T10:59",
       "url": "https://bluearchive.jp/news/newsJump/684"
+    },
+    {
+      "id": "10226082601",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ココロ」、★3「コトネ」",
+      "startsAt": "2026-08-26T19:00",
+      "endsAt": "2026-09-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/687"
     }
   ],
   "events": [
