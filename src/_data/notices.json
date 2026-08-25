@@ -1271,6 +1271,14 @@
       "startsAt": "2026-08-12T11:00",
       "endsAt": "2026-08-12T17:00",
       "url": "https://bluearchive.jp/news/newsJump/685"
+    },
+    {
+      "id": "10126082601",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-08-26T11:00",
+      "endsAt": "2026-08-26T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/688"
     }
   ],
   "pickUps": [
@@ -3731,6 +3739,14 @@
       "startsAt": "2026-08-12T17:00",
       "endsAt": "2026-08-26T10:59",
       "url": "https://bluearchive.jp/news/newsJump/686"
+    },
+    {
+      "id": "10326082601",
+      "type": 3,
+      "title": "【イベント】「DIVE into OCEAN！」",
+      "startsAt": "2026-08-26T19:00",
+      "endsAt": "2026-09-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/689"
     }
   ],
   "totalAssults": [
@@ -4461,6 +4477,14 @@
       "startsAt": "2026-08-05T11:00",
       "endsAt": "2026-08-12T03:59",
       "url": "https://bluearchive.jp/news/newsJump/680"
+    },
+    {
+      "id": "10426090201",
+      "type": 4,
+      "title": "総力戦 「屋内戦・ペロロジラ」",
+      "startsAt": "2026-09-02T11:00",
+      "endsAt": "2026-09-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/688"
     }
   ],
   "jointExcercises": [
@@ -6209,6 +6233,14 @@
       "startsAt": "2026-07-30T11:00",
       "endsAt": "2026-08-26T03:59",
       "url": "https://bluearchive.jp/news/newsJump/680"
+    },
+    {
+      "id": "101026082701",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2026-08-27T11:00",
+      "endsAt": "2026-09-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/688"
     }
   ]
 }
