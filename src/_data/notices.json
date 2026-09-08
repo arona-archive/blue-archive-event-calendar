@@ -1279,6 +1279,14 @@
       "startsAt": "2026-08-26T11:00",
       "endsAt": "2026-08-26T19:00",
       "url": "https://bluearchive.jp/news/newsJump/688"
+    },
+    {
+      "id": "10126090901",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-09-09T11:00",
+      "endsAt": "2026-09-09T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/691"
     }
   ],
   "pickUps": [
@@ -2889,6 +2897,14 @@
       "startsAt": "2026-08-26T19:00",
       "endsAt": "2026-09-09T10:59",
       "url": "https://bluearchive.jp/news/newsJump/687"
+    },
+    {
+      "id": "10226090901",
+      "type": 2,
+      "title": "ピックアップ募集：★3「カスミ(水着)」、★3「セイア(水着)」、★3「ハスミ(水着)」、★3「モエ(水着)」、★3「フブキ(水着)」",
+      "startsAt": "2026-09-09T17:00",
+      "endsAt": "2026-09-23T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/690"
     }
   ],
   "events": [
@@ -3747,6 +3763,14 @@
       "startsAt": "2026-08-26T19:00",
       "endsAt": "2026-09-09T10:59",
       "url": "https://bluearchive.jp/news/newsJump/689"
+    },
+    {
+      "id": "10326090901",
+      "type": 3,
+      "title": "【復刻イベント】「夏空のやくそく」",
+      "startsAt": "2026-09-09T17:00",
+      "endsAt": "2026-09-23T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/692"
     }
   ],
   "totalAssults": [
@@ -4911,6 +4935,14 @@
       "startsAt": "2026-08-12T17:00",
       "endsAt": "2026-08-19T03:59",
       "url": "https://bluearchive.jp/news/newsJump/685"
+    },
+    {
+      "id": "10526090901",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「射撃演習」",
+      "startsAt": "2026-09-09T17:00",
+      "endsAt": "2026-09-16T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/691"
     }
   ],
   "campaigns": [
@@ -5999,6 +6031,14 @@
       "startsAt": "2026-08-19T11:00",
       "endsAt": "2026-08-26T03:59",
       "url": "https://bluearchive.jp/news/newsJump/685"
+    },
+    {
+      "id": "10926091601",
+      "type": 9,
+      "title": "大決戦 「市街地戦・シロ＆クロ」",
+      "startsAt": "2026-09-16T11:00",
+      "endsAt": "2026-09-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/691"
     }
   ],
   "multiFloorRaid": [
