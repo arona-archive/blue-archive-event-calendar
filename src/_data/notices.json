@@ -1287,6 +1287,14 @@
       "startsAt": "2026-09-09T11:00",
       "endsAt": "2026-09-09T17:00",
       "url": "https://bluearchive.jp/news/newsJump/691"
+    },
+    {
+      "id": "10126092301",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-09-23T11:00",
+      "endsAt": "2026-09-23T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/694"
     }
   ],
   "pickUps": [
@@ -2905,6 +2913,14 @@
       "startsAt": "2026-09-09T17:00",
       "endsAt": "2026-09-23T10:59",
       "url": "https://bluearchive.jp/news/newsJump/690"
+    },
+    {
+      "id": "10226092301",
+      "type": 2,
+      "title": "ピックアップ募集：★3「アンナ」、★3「エリナ」",
+      "startsAt": "2026-09-23T19:00",
+      "endsAt": "2026-10-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/693"
     }
   ],
   "events": [
@@ -3771,6 +3787,14 @@
       "startsAt": "2026-09-09T17:00",
       "endsAt": "2026-09-23T10:59",
       "url": "https://bluearchive.jp/news/newsJump/692"
+    },
+    {
+      "id": "10326092301",
+      "type": 3,
+      "title": "【イベント】「It’s our Engine! ～183号を脱出せよ！～」",
+      "startsAt": "2026-09-23T19:00",
+      "endsAt": "2026-10-07T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/695"
     }
   ],
   "totalAssults": [
@@ -4509,6 +4533,14 @@
       "startsAt": "2026-09-02T11:00",
       "endsAt": "2026-09-09T03:59",
       "url": "https://bluearchive.jp/news/newsJump/688"
+    },
+    {
+      "id": "10426093001",
+      "type": 4,
+      "title": "総力戦 「市街地戦・ドラム缶ガニ」",
+      "startsAt": "2026-09-30T11:00",
+      "endsAt": "2026-10-07T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/694"
     }
   ],
   "jointExcercises": [
@@ -6281,6 +6313,14 @@
       "startsAt": "2026-08-27T11:00",
       "endsAt": "2026-09-23T03:59",
       "url": "https://bluearchive.jp/news/newsJump/688"
+    },
+    {
+      "id": "101026092401",
+      "type": 10,
+      "title": "制約解除決戦「ティファレト」",
+      "startsAt": "2026-09-24T11:00",
+      "endsAt": "2026-10-28T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/694"
     }
   ]
 }
