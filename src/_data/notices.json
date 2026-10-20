@@ -2937,6 +2937,14 @@
       "startsAt": "2026-10-07T17:00",
       "endsAt": "2026-10-21T10:59",
       "url": "https://bluearchive.jp/news/newsJump/696"
+    },
+    {
+      "id": "10226102101",
+      "type": 2,
+      "title": "ピックアップ募集：★3「トモエ(チーパオ)」、★3「マリナ(チーパオ)」、★3「カンナ」、★3「ノア」",
+      "startsAt": "2026-10-21T11:00",
+      "endsAt": "2026-10-28T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/700"
     }
   ],
   "events": [
@@ -3819,6 +3827,14 @@
       "startsAt": "2026-10-07T17:00",
       "endsAt": "2026-10-21T10:59",
       "url": "https://bluearchive.jp/news/newsJump/698"
+    },
+    {
+      "id": "10326102101",
+      "type": 3,
+      "title": "【イベント】特殊作戦「ロア追跡」編",
+      "startsAt": "2026-10-21T11:00",
+      "endsAt": "2026-10-28T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/702"
     }
   ],
   "totalAssults": [
