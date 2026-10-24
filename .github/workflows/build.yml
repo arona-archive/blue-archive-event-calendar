@@ -10,14 +10,22 @@ env:
   GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
 
 jobs:
+  verify:
+    uses: sapphire-sh/github-actions/.github/workflows/node-verify-template.yml@main
+    permissions:
+      contents: read
+    with:
+      runner: ubuntu-latest
+
   build:
+    needs: verify
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
         with:
-          node-version: 24
+          node-version: 26
       - run: npm ci
 
       - run: bash ./scripts/start.sh
