@@ -145,11 +145,12 @@ const createNotice = (id: number, title: string, elements: Element[]): NoticePar
 		const titleEl = elements.find((el) => TITLE_REGEX.test(el.textContent));
 		if (titleEl !== undefined && titleEl.textContent !== '') {
 			const match = titleEl.textContent.match(TITLE_REGEX);
-			if (match?.[1] === undefined || match[1] === '') {
+			const matchedTitle = match?.[1] ?? match?.[2];
+			if (matchedTitle === undefined || matchedTitle === '') {
 				throw new Error(`invalid title: ${titleEl.textContent}`);
 			}
 
-			const title = sanitizeText(match[1], true);
+			const title = sanitizeText(matchedTitle, true);
 			if (title) {
 				if (title.includes('ガイドミッション')) {
 					return [];

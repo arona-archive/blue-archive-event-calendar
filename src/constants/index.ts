@@ -10,7 +10,7 @@ export const dataPath = path.resolve(srcPath, '_data');
 export const NOTICE_URL = 'https://bluearchive.jp/news/newsJump';
 
 export const DATE_STR_REGEX = /(\d+)年(\d+)月(\d+)日 ?(?:[（(].+[）)])?(.+)/;
-export const TITLE_REGEX = /[（(]\d+[）)](.+)(開催|紹介)/;
+export const TITLE_REGEX = /[（(]\d+[）)](?:(.+)(?:開催|紹介)|(.+)New)/;
 export const PICK_UP_REGEX = /★(\d)「(.+)」/;
 
 export const TIME_THRESHOLD = 7 * 24 * 60 * 60 * 1000; // 7 days
@@ -66,6 +66,7 @@ export enum NoticeType {
 	LIVE_EVENTS,
 	ELIMINATE_RAID,
 	MULTI_FLOOR_RAID,
+	VIRTUAL_APTITUDE_TEST,
 }
 
 export const NoticeTitlePrefixTable: [string, NoticeType][] = [
@@ -79,6 +80,7 @@ export const NoticeTitlePrefixTable: [string, NoticeType][] = [
 	['【復刻イベント】', NoticeType.EVENTS],
 	['大決戦', NoticeType.ELIMINATE_RAID],
 	['制約解除決戦', NoticeType.MULTI_FLOOR_RAID],
+	['新規戦闘コンテンツ「仮想適性試験', NoticeType.VIRTUAL_APTITUDE_TEST],
 ];
 
 export enum NoticeCampaignType {

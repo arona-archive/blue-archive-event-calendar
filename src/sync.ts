@@ -37,6 +37,9 @@ const getNoticeKey = (type: NoticeType): keyof typeof notices => {
 		case NoticeType.MULTI_FLOOR_RAID: {
 			return 'multiFloorRaid';
 		}
+		case NoticeType.VIRTUAL_APTITUDE_TEST: {
+			return 'virtualAptitudeTest';
+		}
 	}
 };
 

@@ -96,6 +96,21 @@ describe('createMaintenanceNotices', () => {
 		]);
 	});
 
+	it('creates a virtual aptitude test notice from a section whose title ends with New', () => {
+		const document = createDocument(
+			'<p>(1)新規戦闘コンテンツ「仮想適性試験BETA」New</p><p>▼開催期間</p><p>2026年10月28日(水)11:00 ~ 2026年12月23日(水)10:59</p>',
+		);
+
+		expect(createMaintenanceNotices(1000, 'メンテナンスのお知らせ', document)).toStrictEqual([
+			{
+				type: NoticeType.VIRTUAL_APTITUDE_TEST,
+				title: '新規戦闘コンテンツ「仮想適性試験BETA」',
+				startsAt: '2026-10-28T11:00',
+				endsAt: '2026-12-23T10:59',
+			},
+		]);
+	});
+
 	it('throws when the title matches no type prefix', () => {
 		const document = createDocument(
 			'<p>(1)A開催</p><p>▼開催期間</p><p>2024年9月12日(木)11:00 ~ 2024年9月19日(木)10:59</p>',
