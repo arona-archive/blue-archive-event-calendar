@@ -1303,6 +1303,14 @@
       "startsAt": "2026-10-07T11:00",
       "endsAt": "2026-10-07T17:00",
       "url": "https://bluearchive.jp/news/newsJump/697"
+    },
+    {
+      "id": "10126102801",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-10-28T11:00",
+      "endsAt": "2026-10-28T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/705"
     }
   ],
   "pickUps": [
@@ -2945,6 +2953,14 @@
       "startsAt": "2026-10-21T11:00",
       "endsAt": "2026-10-28T10:59",
       "url": "https://bluearchive.jp/news/newsJump/700"
+    },
+    {
+      "id": "10226102801",
+      "type": 2,
+      "title": "ピックアップ募集：★3「ヒフミ(レーシング)」、★3「アズサ(レーシング)」",
+      "startsAt": "2026-10-28T19:00",
+      "endsAt": "2026-11-11T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/704"
     }
   ],
   "events": [
@@ -3835,6 +3851,14 @@
       "startsAt": "2026-10-21T11:00",
       "endsAt": "2026-10-28T10:59",
       "url": "https://bluearchive.jp/news/newsJump/702"
+    },
+    {
+      "id": "10326102801",
+      "type": 3,
+      "title": "【イベント】「Start Your Engines！ ～183号よ永遠に！～」",
+      "startsAt": "2026-10-28T19:00",
+      "endsAt": "2026-11-11T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/706"
     }
   ],
   "totalAssults": [
@@ -4581,6 +4605,14 @@
       "startsAt": "2026-09-30T11:00",
       "endsAt": "2026-10-07T03:59",
       "url": "https://bluearchive.jp/news/newsJump/694"
+    },
+    {
+      "id": "10426110401",
+      "type": 4,
+      "title": "新総力戦 「屋内/市街地戦・悪夢急行-ナイトメアトレイン-」",
+      "startsAt": "2026-11-04T11:00",
+      "endsAt": "2026-11-11T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/705"
     }
   ],
   "jointExcercises": [
@@ -6385,6 +6417,14 @@
       "startsAt": "2026-09-24T11:00",
       "endsAt": "2026-10-28T03:59",
       "url": "https://bluearchive.jp/news/newsJump/694"
+    },
+    {
+      "id": "101026102901",
+      "type": 10,
+      "title": "制約解除決戦「セトの憤怒」",
+      "startsAt": "2026-10-29T11:00",
+      "endsAt": "2026-11-25T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/705"
     }
   ],
   "virtualAptitudeTest": [
