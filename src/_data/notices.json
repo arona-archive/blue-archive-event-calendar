@@ -1311,6 +1311,14 @@
       "startsAt": "2026-10-28T11:00",
       "endsAt": "2026-10-28T19:00",
       "url": "https://bluearchive.jp/news/newsJump/705"
+    },
+    {
+      "id": "10126111101",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-11-11T11:00",
+      "endsAt": "2026-11-11T17:00",
+      "url": "https://bluearchive.jp/news/newsJump/709"
     }
   ],
   "pickUps": [
@@ -2966,7 +2974,7 @@
       "id": "10226111101",
       "type": 2,
       "title": "ピックアップ募集：★3「ミヨ」、★3「フユ」、★3「リツ」",
-      "startsAt": "2026-11-11T19:00",
+      "startsAt": "2026-11-11T17:00",
       "endsAt": "2026-11-18T10:59",
       "url": "https://bluearchive.jp/news/newsJump/708"
     }
@@ -3867,6 +3875,14 @@
       "startsAt": "2026-10-28T19:00",
       "endsAt": "2026-11-11T10:59",
       "url": "https://bluearchive.jp/news/newsJump/706"
+    },
+    {
+      "id": "10326111101",
+      "type": 3,
+      "title": "【復刻イベント】「誰が為の芸術～偽飾の絵画と美学の行方～」",
+      "startsAt": "2026-11-11T17:00",
+      "endsAt": "2026-11-25T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/710"
     }
   ],
   "totalAssults": [
@@ -5063,6 +5079,14 @@
       "startsAt": "2026-10-07T17:00",
       "endsAt": "2026-10-14T03:59",
       "url": "https://bluearchive.jp/news/newsJump/697"
+    },
+    {
+      "id": "10526111101",
+      "type": 5,
+      "title": "キヴォトス合同火力演習「防御演習」",
+      "startsAt": "2026-11-11T17:00",
+      "endsAt": "2026-11-18T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/709"
     }
   ],
   "campaigns": [
@@ -6175,6 +6199,14 @@
       "startsAt": "2026-10-14T11:00",
       "endsAt": "2026-10-21T03:59",
       "url": "https://bluearchive.jp/news/newsJump/697"
+    },
+    {
+      "id": "10926111801",
+      "type": 9,
+      "title": "大決戦 「屋内戦・ゴズ」",
+      "startsAt": "2026-11-18T11:00",
+      "endsAt": "2026-11-25T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/709"
     }
   ],
   "multiFloorRaid": [
