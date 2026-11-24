@@ -1319,6 +1319,14 @@
       "startsAt": "2026-11-11T11:00",
       "endsAt": "2026-11-11T17:00",
       "url": "https://bluearchive.jp/news/newsJump/709"
+    },
+    {
+      "id": "10126112501",
+      "type": 1,
+      "title": "メンテナンス",
+      "startsAt": "2026-11-25T11:00",
+      "endsAt": "2026-11-25T19:00",
+      "url": "https://bluearchive.jp/news/newsJump/717"
     }
   ],
   "pickUps": [
@@ -3899,6 +3907,14 @@
       "startsAt": "2026-11-11T17:00",
       "endsAt": "2026-11-25T10:59",
       "url": "https://bluearchive.jp/news/newsJump/710"
+    },
+    {
+      "id": "10326112501",
+      "type": 3,
+      "title": "【イベント】「踊らされし芸術～象牙の塔と招かれざる客～」",
+      "startsAt": "2026-11-25T19:00",
+      "endsAt": "2026-12-09T10:59",
+      "url": "https://bluearchive.jp/news/newsJump/718"
     }
   ],
   "totalAssults": [
@@ -4653,6 +4669,14 @@
       "startsAt": "2026-11-04T11:00",
       "endsAt": "2026-11-11T03:59",
       "url": "https://bluearchive.jp/news/newsJump/705"
+    },
+    {
+      "id": "10426120201",
+      "type": 4,
+      "title": "総力戦 「屋内・ホド」",
+      "startsAt": "2026-12-02T11:00",
+      "endsAt": "2026-12-09T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/717"
     }
   ],
   "jointExcercises": [
@@ -6481,6 +6505,14 @@
       "startsAt": "2026-10-29T11:00",
       "endsAt": "2026-11-25T03:59",
       "url": "https://bluearchive.jp/news/newsJump/705"
+    },
+    {
+      "id": "101026112601",
+      "type": 10,
+      "title": "制約解除決戦「コクマー」",
+      "startsAt": "2026-11-26T11:00",
+      "endsAt": "2026-12-23T03:59",
+      "url": "https://bluearchive.jp/news/newsJump/717"
     }
   ],
   "virtualAptitudeTest": [
